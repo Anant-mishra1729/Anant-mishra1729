@@ -38,13 +38,7 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a>
 
 <h1>Github stats</h1>
-<table>
-  <tr>
-<td> <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=dracula&hide_border=true" alt="Anant-mishra1729" /> </td>
-<td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&theme=dracula&hide_border=true" alt="Anant-mishra1729" /> </td>
-</tr>
-  <tr>
-    <td>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Anant-mishra1729" /></td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
