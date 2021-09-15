@@ -14,7 +14,7 @@
  </p>
 <hr/>
 <details>
-  <summary><b>:computer: &nbsp;My Tech stack</b></summary>
+  <summary><b>&nbsp;👨‍💻 &nbsp;My Tech stack</b></summary>
 <h2 align="left">Languages</h2>
 <p>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width = "40" height = "40">&nbsp;&nbsp;
@@ -49,7 +49,7 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a>
 </details>
 <details>
-  <summary><b> :gear:&nbsp;Github Stats</b></summary>
+  <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
