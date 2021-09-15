@@ -1,10 +1,7 @@
 <h1>Hey 👋, I’m Anant</h1>
 
 <h2>Github stats</h2>
-![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anant-mishra1729)
-
-<!-- Plateform
-<h2><Github Stats</h2> -->
+<img src = "https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&theme=dracula&show_icons=true&hide_border=true&custom_title=My Github stats"
   
 > Pardon my **bugs** 😜
 <!---
