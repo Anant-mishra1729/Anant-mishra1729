@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Anant Mishra</h1>
-<h3>A Backend developer from India, looking for some oppurtunities !!!  
+<h2>A Full-stack dev working from India 
 <a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anantmishra58" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amishra1729" target="blank"><img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo-sd.svg" alt="amishra1729" height="70" width="70" /></a></h3>
+<a href="https://www.codechef.com/users/amishra1729" target="blank"><img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo-sd.svg" alt="amishra1729" height="70" width="70" /></a></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anant-mishra1729&label=Profile%20views&color=0e75b6&style=flat" alt="Anant-mishra1729" /> </p>
 
