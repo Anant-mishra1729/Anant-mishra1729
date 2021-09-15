@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Anant Mishra</h1>
+<h1>Hi there 👋, I'm Anant</h1>
 <h3>A Full-stack dev working from India</h3>
 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
@@ -55,4 +55,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
 </details>
 <hr>
-  <img src="https://komarev.com/ghpvc/?username=Anant-mishra1729&label=Profile%20views&color=0e75b6&style=flat" alt="Anant-mishra1729" height="20" width="120"/>
