@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Anant Mishra</h1>
-<h2>A Full-stack dev working from India</h2>
+<h3>A Full-stack dev working from India</h3>
 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
 
@@ -26,7 +26,7 @@
 </p>
 
  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="Anant-mishra1729" />
  </br>
  
 <h2 align="left">Frameworks and tools</h2>
