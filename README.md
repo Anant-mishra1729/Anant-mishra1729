@@ -1,15 +1,19 @@
 <h1>Hi there 👋, I'm Anant Mishra</h1>
-<h2>A Full-stack dev working from India&nbsp;&nbsp;
-<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="30" width="120" /></a>
-<a href="https://www.codechef.com/users/amishra1729" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="amishra1729" height="30" width="120" /></a></h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anant-mishra1729&label=Profile%20views&color=0e75b6&style=flat" alt="Anant-mishra1729" /> </p>
+<h2>A Full-stack dev working from India</h2>
 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
 
 - 🌱 I’m currently learning **MERN stack**
 
 - ⚡ Fun fact **Every bug is an undocumented feature ;)**
+
+<p align = "center">
+<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="30" width="120" /></a>
+<a href="https://www.codechef.com/users/amishra1729" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="amishra1729" height="30" width="120" /></a>
+ </p>
+<hr/>
+<details>
+  <summary><b>:computer: &nbsp;My Tech stack</b></summary>
 <h2 align="left">Languages</h2>
 <p>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width = "40" height = "40">&nbsp;&nbsp;
@@ -20,8 +24,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
-
 <h2 align="left">Frameworks and tools</h2>
 <h3>Web developement</h3>
 <p>
@@ -31,6 +33,9 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white5" alt="express" width="120" height="35"/> </a> <a href="https://git-scm.com/" target="_blank"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="120" height="35"/> </a>&nbsp;&nbsp;
 </p>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="Anant-mishra1729" />
+  
 <h3>Machine learning & CV</h3>
 <p>
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/></a>&nbsp;&nbsp;
@@ -38,7 +43,12 @@
 
 <h3>Database</h3>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a>
-
-<h1>Github stats</h1>
+</details>
+<details>
+  <summary><b> :gear:&nbsp;Github Stats</b></summary>
+  <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
+</details>
+<hr/>
+  <img src="https://komarev.com/ghpvc/?username=Anant-mishra1729&label=Profile%20views&color=0e75b6&style=flat" alt="Anant-mishra1729" height="20" width="120"/>
