@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Anant Mishra</h1>
-<h3 align="center">A passionate frontend developer from India
+<h1 align="center">Hi there 👋, I'm Anant Mishra</h1>
+<h3 align="center">A backend dev 👀 from India currently fixing his bugs 
 <a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anantmishra58" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amishra1729" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amishra1729" height="30" width="40" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anant-mishra1729&label=Profile%20views&color=0e75b6&style=flat" alt="Anant-mishra1729" /> </p>
 
-- 🔭 I’m currently working on **News App using React js**
+- 🔭 I’m currently working on **News-Daily using React js | News API**
 
 - 🌱 I’m currently learning **MERN stack**
 
