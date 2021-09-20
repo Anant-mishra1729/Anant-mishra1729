@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 🌌 I love **Star Gazing** 🌠 & tweaking **My Old Linux PC** 👴
+- 🌌 I love **Star Gazing** and tweaking **My Old Linux PC** 👴
 
 - ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
 <p align = "center">
