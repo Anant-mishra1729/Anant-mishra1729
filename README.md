@@ -45,7 +45,7 @@
 <details>
   <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&theme=dracula&hide_border=true" alt="Anant-mishra1729" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=dracula&hide_border=true" alt="Anant-mishra1729" width = "45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&theme=dracula&hide_border=true" alt="Anant-mishra1729" width = "45%"/>
 </details>
 <hr>
