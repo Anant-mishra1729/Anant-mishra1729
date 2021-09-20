@@ -1,9 +1,11 @@
-<h1>Hi there 👋, I'm Anant</h1>
+<h1>Hi there! 👋, I'm Anant</h1>
 <h3>A Full-stack dev working from India</h3>
 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
 
 - 🌱 I’m currently learning **MERN stack**
+
+- 🌌 I love **Star Gazing** 🌠 & tweaking **My Old Linux PC** 👴
 
 - ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
 <p align = "center">
@@ -13,7 +15,7 @@
  </p>
 <hr/>
 <details>
-  <summary><b>&nbsp;👨‍💻 &nbsp;My Tech stack</b></summary>
+  <summary><b>&nbsp;👨‍💻 &nbsp;My Tech Stack</b></summary>
 <h2 align="left">Languages</h2>
 <p align ="left">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width = "40" height = "40">&nbsp;&nbsp;
@@ -24,7 +26,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="Anant-mishra1729" align = "right"/>
-<h2 align="left">Frameworks and tools</h2>
+<h2 align="left">Frameworks and Tools</h2>
 <h3>Web development</h3>
 <p align ="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="120" height="35"/> </a>
@@ -45,7 +47,7 @@
 <details>
   <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=dracula&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&theme=dracula&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=dracula&hide_border=true" alt="Anant-mishra1729"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&theme=dracula&hide_border=true" alt="Anant-mishra1729"/>
 </details>
 <hr>
