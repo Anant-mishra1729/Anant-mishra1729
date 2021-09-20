@@ -5,12 +5,10 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- ⚡ Fun fact **Every bug is an undocumented feature ;)**
-
+- ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
 <p align = "center">
 <a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="30" width="120" /></a>
  <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="30" width="120" /></a>
- <a href="https://www.codechef.com/users/amishra1729" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="amishra1729" height="30" width="120" /></a>
  </p>
 <hr/>
 <details>
@@ -40,7 +38,7 @@
 </p>
 
   
-<h3>Machine learning & Computer vision</h3>
+<h3>ML and Computer vision</h3>
 <p>
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/></a>&nbsp;&nbsp;
 </p>
