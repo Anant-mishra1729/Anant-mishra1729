@@ -24,7 +24,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="Anant-mishra1729" align = "right"/>
- 
+ <br>
 <h2 align="left">Frameworks and tools</h2>
 <h3>Web development</h3>
 <p align ="left">
