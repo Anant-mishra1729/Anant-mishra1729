@@ -22,9 +22,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = "40" height = "40">&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="Anant-mishra1729" align = "right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="Anant-mishra1729" align = "right"/>
  </p>
-
+<br>
 <h2 align="left">Frameworks and tools</h2>
 <h3>Web development</h3>
 <p align ="left">
