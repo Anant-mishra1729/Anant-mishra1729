@@ -43,7 +43,7 @@
 </p>
 
 <h3>Database</h3>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="135" height="30"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="115" height="30"/> </a>
 </details>
 <details>
   <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
