@@ -9,14 +9,14 @@
 
 - ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
 <p align = "center">
-<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="30" width="110" /></a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="30" width="110" /></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="30" width="110" /></a>
+<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
  <br>
  </p>
-<hr/>
+<hr></hr>
 <details>
-  <summary><b>&nbsp;👨‍💻 &nbsp;My Tech Stack</b></summary>
+  <summary><b>&nbsp;👨‍💻 &nbsp;Tech Stack</b></summary>
 <h2 align="left">Languages</h2>
 <p align ="left">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width = "40" height = "40">&nbsp;&nbsp;
@@ -39,7 +39,7 @@
   
 <h3>ML and Computer vision</h3>
 <p>
- <a href="https://www.djangoproject.com/" target="_blank" > <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="django" width="110" height="30"/></a>
+ <a href="https://opencv.org/" target="_blank" > <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="django" width="110" height="30"/></a>
 </p>
 
 <h3>Database</h3>
