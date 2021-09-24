@@ -1,4 +1,4 @@
-<h1>Hi there! 👋, I'm Anant</h1>
+<h1 align = "center">Hi there! 👋, I'm Anant</h1>
 <h3>A Full-stack dev working from India</h3>
 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
@@ -10,9 +10,9 @@
 - ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
 <p align = "center">
 <a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
- </p>
+<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
+</p>
 <hr></hr>
 <details>
   <summary><b>&nbsp;👨‍💻 &nbsp;Tech Stack</b></summary>
