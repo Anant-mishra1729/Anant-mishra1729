@@ -30,20 +30,19 @@
 <h2 align="left">Frameworks and Tools</h2>
 <h3>Web development</h3>
 <p align ="left">
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="110" height="30"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white5" alt="express" width="110" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"></a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="110" height="30"/> </a>
- <a href="https://www.djangoproject.com/" target="_blank" > <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" width="110" height="30"/></a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="100" height="30"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white5" alt="express" width="100" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="100" height="30"/> </a>
+ <a href="https://www.djangoproject.com/" target="_blank" > <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" width="100" height="30"/></a>
 </p>
-
-  
+ 
 <h3>ML and Computer vision</h3>
 <p>
- <a href="https://opencv.org/" target="_blank" > <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="django" width="110" height="30"/></a>
+ <a href="https://opencv.org/" target="_blank" > <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="django" width="100" height="30"/></a>
 </p>
 
 <h3>Database</h3>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="115" height="30"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="100" height="30"/> </a>
 </details>
 <details>
   <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
