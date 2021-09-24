@@ -12,7 +12,6 @@
 <a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
   <a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
- <br>
  </p>
 <hr></hr>
 <details>
@@ -28,7 +27,7 @@
  </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" align = "right"/>
 <h2 align="left">Frameworks and Tools</h2>
-<h3>Web development</h3>
+
 <p align ="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="100" height="30"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white5" alt="express" width="100" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"></a>
@@ -36,13 +35,10 @@
  <a href="https://www.djangoproject.com/" target="_blank" > <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" width="100" height="30"/></a>
 </p>
  
-<h3>ML and Computer vision</h3>
 <p>
  <a href="https://opencv.org/" target="_blank" > <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="django" width="100" height="30"/></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="mongodb" width="100" height="30"/> </a>
 </p>
-
-<h3>Database</h3>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="100" height="30"/> </a>
 </details>
 <details>
   <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
