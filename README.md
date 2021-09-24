@@ -1,4 +1,4 @@
-<h1 align = "center">Hi there! 👋, I'm Anant</h1>
+<h1>Hi there! 👋, I'm Anant</h1>
 <h3>A Full-stack dev working from India</h3>
 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
