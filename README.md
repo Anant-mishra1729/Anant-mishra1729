@@ -1,6 +1,6 @@
 <h1>Hi there! 👋, I'm Anant</h1>
-<h3>A Full-stack dev working from India</h3>
-
+<h2> 𝒜 𝓁𝒾𝓉𝓉𝓁𝑒 𝒷𝒾𝓉 𝒶𝒷🍩𝓊𝓉 𝓂𝑒 ... ✏️</h2>
+ 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
 
 - 🌱 I’m currently learning **MERN stack**
@@ -8,12 +8,8 @@
 - 🌌 I love **Star Gazing** 🌠 and tweaking **My Old Linux PC** 👴
 
 - ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
-<p align = "center">
-<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
-</p>
 <hr></hr>
+
 <details>
   <summary><b>&nbsp;👨‍💻 &nbsp;Tech Stack</b></summary>
 <h2 align="left">Languages</h2>
@@ -49,3 +45,11 @@
 </p>
 </details>
 <hr></hr>
+
+
+<h2 align = "center">𝑅𝑒𝒶𝒸𝒽 𝓂𝑒 𝒶𝓉 📫</h2>
+<p align = "center">
+<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
+</p>
