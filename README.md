@@ -17,7 +17,7 @@
 <hr></hr>
 <details>
   <summary><b>&nbsp;👨‍💻 &nbsp;Tech Stack</b></summary>
-<h2 align="left">Languages</h2>
+<h2 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ</h2>
 <p align ="left">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width = "40" height = "40">&nbsp;&nbsp;
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width = "40" height = "40">&nbsp;&nbsp;
@@ -27,7 +27,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" align = "right"/>
-<h2 align="left">Frameworks and Tools</h2>
+<h2 align="left">ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ</h2>
 
 <p align ="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="100" height="30"/> </a>
