@@ -9,9 +9,9 @@
 - ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
 
 <p align = "center">
-<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-292d3e?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-292d3e?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
+<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-292d3e?style=for-the-badge&logo=instagram&logoColor=magneta" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=blue" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-292d3e?style=for-the-badge&logo=twitter&logoColor=skyblue" alt="amishra1729" height="27" width="115" /></a>
 </p>
 <hr></hr>
 <details>
@@ -44,7 +44,7 @@
   <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
 <br>
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=trutitle_color=ffffffe&" alt="Anant-mishra1729" width = "49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true&title_color=ffffff" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 </p>
 </details>
