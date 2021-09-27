@@ -1,4 +1,4 @@
-<h1>Hi there! 👋, I'm Anant</h1>
+# Hi! <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "35"/> I'm Anant
 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
 
@@ -9,7 +9,7 @@
 - ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
 
 <p align = "center">
-<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-4a4261?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
 </p>
@@ -18,7 +18,7 @@
   <summary><b>&nbsp;👨‍💻 &nbsp;Tech Stack</b></summary>
 <h2 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ</h2>
 <p align ="left">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width = "40" height = "40">&nbsp;&nbsp;
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height = "40">&nbsp;&nbsp;
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width = "40" height = "40">&nbsp;&nbsp;
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>&nbsp;&nbsp;
