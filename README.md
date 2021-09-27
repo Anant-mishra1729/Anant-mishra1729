@@ -44,7 +44,7 @@
   <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
 <br>
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true&title_color=ffffff" alt="Anant-mishra1729" width = "49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 </p>
 </details>
