@@ -1,6 +1,5 @@
 <h1>Hi there! 👋, I'm Anant</h1>
-<h2>ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ...</h2>
- 
+
 - 🔭 I’m currently working on **News-Daily using React js | News API**
 
 - 🌱 I’m currently learning **MERN stack**
