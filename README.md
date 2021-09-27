@@ -1,11 +1,11 @@
 <h1>Hi there! 👋, I'm Anant</h1>
-<h2>ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ... 🖊️</h2>
+<h2>ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ...</h2>
  
 - 🔭 I’m currently working on **News-Daily using React js | News API**
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 🌌 I love **Star Gazing** 🌠 and tweaking **My Old Linux PC** 👴
+- 🌌 I love **Star Gazing** and tweaking **My Old Linux PC** 👴
 
 - ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
 
