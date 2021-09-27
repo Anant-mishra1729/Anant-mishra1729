@@ -1,10 +1,10 @@
-# Hi! <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "35"/> I'm Anant
+# Hello Folks! <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "35"/>
 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 🌌 I love **Star Gazing** and tweaking **My Old Linux PC** 👴
+- 🌌 I love **Star Gazing** and tweaking **My Old Linux PC**
 
 - ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
 
