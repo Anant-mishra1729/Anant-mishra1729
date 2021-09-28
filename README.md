@@ -1,4 +1,4 @@
-# Hello Folks! <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "35"/>
+<h2>Hello Folks! <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "35"/></h2>
 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
 
@@ -7,7 +7,7 @@
 - 🌌 I love **Star Gazing** and tweaking **My Old Linux PC**
 
 - ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
-
+<br>
 <p align = "center">
 <a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-292d3e?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
