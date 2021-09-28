@@ -1,4 +1,4 @@
-<h2>Hello Folks! <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "35"/></h2>
+<h2>Hello Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/></h2>
 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
 
