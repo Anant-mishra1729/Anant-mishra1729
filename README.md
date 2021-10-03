@@ -25,7 +25,7 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = "40" height = "40">&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=noctis_minimus"
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true"
 alt="Anant-mishra1729" align = "right"/>
 <h2 align="left">ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ</h2>
 
@@ -46,8 +46,8 @@ alt="Anant-mishra1729" align = "right"/>
   <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
 <br>
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&title_color=d3b692&text_color=c5cdd3&icon_color=72b7c0&bg_color=1b2932" alt="Anant-mishra1729" width = "49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-mishra1729&background=1b2932&ring=d3b692&fire=d3b692&currStreakNum=72b7c0&sideNums=72b7c0&currStreakLabel=72b7c0&sideLabels=d3b692&dates=c5cdd3" alt="Anant-mishra1729" width = "49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 </p>
 </details>
 <hr></hr>
