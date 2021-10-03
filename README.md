@@ -25,7 +25,8 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = "40" height = "40">&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=noctis_minimus&title_color=ffffff" alt="Anant-mishra1729" align = "right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=noctis_minimus"
+alt="Anant-mishra1729" align = "right"/>
 <h2 align="left">ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ</h2>
 
 <p align ="left">
