@@ -39,8 +39,6 @@ alt="Anant-mishra1729" align = "right"/>
    <a href="https://opencv.org/" target="_blank" > <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="django" width="100" height="30"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="mongodb" width="100" height="30"/> </a>
 </p>
-
-  <br>
 </details>
 <details>
   <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
