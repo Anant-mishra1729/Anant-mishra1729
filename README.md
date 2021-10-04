@@ -14,6 +14,8 @@
 <a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-292d3e?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
 </p>
 <hr></hr>
+  <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&hide_border=true" alt = "Contribution graph"/>
+  <hr/>
 <details>
   <summary><b>&nbsp;👨‍💻 &nbsp;Tech Stack</b></summary>
 <h2 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ</h2>
