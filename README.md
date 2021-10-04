@@ -36,12 +36,10 @@ alt="Anant-mishra1729" align = "right"/>
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white5" alt="express" width="100" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"></a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="100" height="30"/> </a>
  <a href="https://www.djangoproject.com/" target="_blank" > <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" width="100" height="30"/></a>
-</p>
- 
-<p>
- <a href="https://opencv.org/" target="_blank" > <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="django" width="100" height="30"/></a>
+   <a href="https://opencv.org/" target="_blank" > <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="django" width="100" height="30"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="mongodb" width="100" height="30"/> </a>
 </p>
+
   <br>
 </details>
 <details>
