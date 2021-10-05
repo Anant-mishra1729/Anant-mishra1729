@@ -6,7 +6,7 @@
 
 - 🌌 I love **Star Gazing** and tweaking **My Old Linux PC**
 
-- 🧠 Just a fact ~ We spend around **33 years** of our life either sleeping or attempting to do so 😴
+- ⚡ Fun fact ~ World's first computer bug was a moth trapped in MARK II
 
 <br>
 
