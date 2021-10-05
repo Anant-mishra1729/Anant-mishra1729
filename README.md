@@ -6,7 +6,7 @@
 
 - 🌌 I love **Star Gazing** and tweaking **My Old Linux PC**
 
-- ⚡ Just a fact ~ An average human spends his **33 years of life** sleeping or trying to sleep 😴
+- ⚡ Just a fact ~ We spend about **33 years of our life** either sleeping or attempting to do so 😴
 
 <br>
 
