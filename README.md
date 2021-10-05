@@ -6,8 +6,6 @@
 
 - 🌌 I love **Star Gazing** and tweaking **My Old Linux PC**
 
-- ⚡ Just a fact ~ We spend about **33 years of our life** either sleeping or attempting to do so 😴
-
 <br>
 
 <p align = "center">
@@ -60,3 +58,6 @@ alt="Anant-mishra1729" align = "right"/>
 </p>
 </details>
 <hr/>
+<h2 align = "center"> Big 🧠 time </h2>
+<p align = "center"><i>We spend about 33 years of our life either sleeping or attempting to do so 😴</i><p>
+<p align = "center"> <i>Get up !!! get your coffee ☕ and start giving your life a meaning </i></p>
