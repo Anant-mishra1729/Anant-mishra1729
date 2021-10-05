@@ -38,8 +38,6 @@
 alt="Anant-mishra1729" align = "right"/>
  </p>
 
-
-  
 <!--   Frameworks and Tools -->
 <h2 align="left">ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ</h2>
 <p align ="left">
