@@ -6,7 +6,7 @@
 
 - 🌌 I love **Star Gazing** and tweaking **My Old Linux PC**
 
-- ⚡ Fun fact ~ **Every bug is an undocumented feature ;)**
+- ⚡ Just a fact ~ An average human spends his **33 years of life** sleeping or trying to sleep 😴
 
 <br>
 
