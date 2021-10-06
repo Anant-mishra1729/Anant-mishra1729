@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 🌌 I love **Star Gazing** and tweaking **My Old Linux PC**
+- 🌌 I love **Stargazing** and tweaking **My Old Linux PC**
 
 - 🐞 Fun fact ~ World's first computer bug was a **moth trapped in MARK II**
 
