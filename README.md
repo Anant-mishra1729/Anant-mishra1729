@@ -6,7 +6,7 @@
 
 - 🌌 I love **Stargazing** and tweaking **My Old Linux PC**
 
-- 🐞 Fun fact ~ World's first computer bug was a **moth trapped in MARK II**
+- 🌠 Fact ~ The iron in our blood was once part of a star
 
 <br>
 
