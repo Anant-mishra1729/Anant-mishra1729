@@ -6,7 +6,7 @@
 
 - 🌌 I love **Stargazing** and tweaking **My Old Linux PC**
 
-- 🌠 Fact ~ The iron in our blood was once part of a star
+- 🌠 Fact ~ The iron in our blood was once inside a star
 
 <br>
 
