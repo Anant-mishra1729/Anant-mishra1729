@@ -16,12 +16,10 @@
 <a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-292d3e?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
 </p>
 
-<!-- Contribution Graph -->
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&hide_border=true" alt = "Contribution graph"/>
 <hr/>
   
-<!--   Tech Stack -->
 <details>
   <summary><b>&nbsp;👨‍💻 &nbsp;Tech Stack</b></summary>
   
@@ -38,7 +36,6 @@
 alt="Anant-mishra1729" align = "right"/>
  </p>
 
-<!--   Frameworks and Tools -->
 <h2 align="left">ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ</h2>
 <p align ="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="100" height="30"/> </a>
@@ -50,7 +47,6 @@ alt="Anant-mishra1729" align = "right"/>
 </p>
 </details>
 
-<!-- Github Stats -->
 <details>
   <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
 <br>
