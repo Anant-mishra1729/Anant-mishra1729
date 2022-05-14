@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **News-Daily using React js | News API**
 
-- 🌱 I’m currently learning **MERN stack & Computer Vision using OpenCV**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🌌 I love **Stargazing** and tweaking **My Old Linux PC**
 
