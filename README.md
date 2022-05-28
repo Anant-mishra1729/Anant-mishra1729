@@ -1,4 +1,4 @@
-<h1 align = "center">Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> I'm Anant</h2>
+<h2>Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> I'm Anant</h2>
 
 - 🔭 I’m currently working on **Portfolio website using React JS**
 
@@ -6,11 +6,18 @@
 
 - ❤️ Talking about hobbies, I love stargazing 🌌 and am obssesed with Distrohopping 🐧
 
+<br/>
+<p align = "center">
+<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-292d3e?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-292d3e?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
+</p>
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&hide_border=true" alt = "Contribution graph"/>
 <hr/>
-  
-<h2 align = "center">My Tech stack 📚</h2>
+
+  <details>
+    <summary><h3>Technologies and Frameworks 📚</h3></summary>
 <!--   Languages -->
 <h2 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ</h2>
 <p align ="left">
@@ -33,16 +40,13 @@ alt="Anant-mishra1729" align = "right"/>
 <a href="https://opencv.org/" target="_blank" > <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="django" width="100" height="30"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="mongodb" width="100" height="30"/> </a>
 </p>
+</details>
 
-<h2 align = "center"> Streaks and Stats! 📈 </h2>
+<details>
+    <summary><h3>Streaks and Stats! 📈</h3></summary>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 </p>
+ </details>
 <hr/>
-<h1 align = "center"> Reach me here 📬</h2>
-<p align = "center">
-<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-292d3e?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-292d3e?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
-</p>
