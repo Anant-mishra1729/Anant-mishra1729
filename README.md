@@ -10,9 +10,12 @@
 
 
 ### Working on 👷‍♂️
-* Dynamic Hand Gesture Recognition
-* Emotion Recognistion using Machine Learning
+* Portfolio website using React JS
 
+## Learning 📚
+* ReactJS
+* Typescript
+  
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&hide_border=true" alt = "Contribution graph"/>
 <hr/>
