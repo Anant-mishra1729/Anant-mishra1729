@@ -1,23 +1,15 @@
-<h2>Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/></h2>
-
-- 🔭 I’m currently working on **News-Daily using React js | News API**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 🌌 I love **Stargazing** and tweaking **My Old Linux PC**
-
-- 🌠 Fact ~ The iron in our blood was once inside a star
-
-<br>
+<h2 align = "center">Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/></h2>
 
 <p align = "center">
-<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-292d3e?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-292d3e?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
-</p>
+  Hi! I am <b>Anant Mishra</b> <br>I'm currently pursuing BE/BTech from 🏫 <b>Thapar Institue Patiala, India</b><br/>
+  I am good in <b>Machine Learning</b> 🧠 and <b>Data Science</b>. I like doing 🕸️ <b>WebDev</b> too.  
+<h2 align = "center">Here's my another profile ❤️</h2>
+<p align = "center">
+<a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="https://img.shields.io/badge/Github-282c34?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="45" width="150" /></a>&nbsp;&nbsp;
+
 
 <hr/>
-  <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&hide_border=true" alt = "Contribution graph"/>
+  <img src = "https://activity-graph.herokuapp.com/graph?username=amish-1729&theme=one-dark&hide_border=true" alt = "Contribution graph"/>
 <hr/>
   
 <details>
@@ -32,7 +24,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>&nbsp;&nbsp;
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = "40" height = "40">&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant-mishra1729&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amish-1729&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true"
 alt="Anant-mishra1729" align = "right"/>
  </p>
 
@@ -51,8 +43,24 @@ alt="Anant-mishra1729" align = "right"/>
   <summary><b>&nbsp;📊 &nbsp;Github Stats</b></summary>
 <br>
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amish-1729&show_icons=true&theme=onedark&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amish-1729&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 </p>
 </details>
+
 <hr/>
+<h2 align = "center">You can reach me here... 📬</h2> 
+  <p align = "center">
+<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-282c34?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-282c34?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-282c34?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
+</p>
+
+<!---
+CREDITS :
+  https://github.com/DenverCoder1/github-readme-streak-stats
+  https://octodex.github.com/labtocat/
+  https://github.com/Ashutosh00710/github-readme-activity-graph
+  https://github.com/anuraghazra/github-readme-stats
+  https://shields.io/
+-->
