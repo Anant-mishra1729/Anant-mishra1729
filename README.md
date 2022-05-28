@@ -1,4 +1,4 @@
-<h2 align = "center">Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/></h2>
+<h1 align = "center">Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/></h2>
 
 <p align = "center">
   Hi! I am <b>Anant Mishra</b> <br>I'm currently pursuing BE/BTech from 🏫 <b>Thapar Institue Patiala, India</b><br/>
