@@ -1,4 +1,4 @@
-<h2 align = "center">Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> I'm Anant</h2>
+<h2>Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> I'm Anant</h2>
 
 - 🔭 I’m currently working on **Portfolio website using React JS**
 
@@ -43,7 +43,7 @@ alt="Anant-mishra1729" align = "right"/>
 </details>
 
 <details>
-    <summary><h3>Streaks and Stats! 📈</h3></summary>
+    <summary><h3>Github Stats 📈</h3></summary>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
