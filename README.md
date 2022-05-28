@@ -2,11 +2,16 @@
 
 <p align = "center">
   Hi! I am <b>Anant Mishra</b> <br>I'm currently pursuing BE/BTech from 🏫 <b>Thapar Institue Patiala, India</b><br/>
-  I am good in <b>Machine Learning</b> 🧠 and <b>Data Science</b>. I like doing 🕸️ <b>WebDev</b> too.  
+  I have experience in <b>Machine Learning</b> 🧠 and <b>Data Science</b>. I like doing 🕸️ <b>WebDev</b> too.  
+ 
 <h2 align = "center">Here's my another profile ❤️</h2>
 <p align = "center">
 <a href="https://github.com/amish-1729" target="blank"><img align="center" src="https://img.shields.io/badge/Github-282c34?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="45" width="150" /></a>&nbsp;&nbsp;
 
+
+### Working on 👷‍♂️
+* Dynamic Hand Gesture Recognition
+* Emotion Recognistion using Machine Learning
 
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&hide_border=true" alt = "Contribution graph"/>
