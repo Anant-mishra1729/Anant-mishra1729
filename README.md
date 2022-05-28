@@ -12,7 +12,7 @@
 ### Working on 👷‍♂️
 * Portfolio website using React JS
 
-## Learning 📚
+### Learning 📚
 * ReactJS
 * Typescript
   
