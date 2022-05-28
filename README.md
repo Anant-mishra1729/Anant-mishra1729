@@ -1,7 +1,7 @@
 <h1 align = "center">Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/></h2>
 
 <p align = "center">
-  Hi! I am <b>Anant Mishra</b> <br>I'm currently pursuing BE/BTech from 🏫 <b>Thapar Institue Patiala, India</b><br/>
+  Hi! I am <b>Anant Mishra</b> <br>I'm pursuing BE/BTech from 🏫 <b>Thapar Institue Patiala, India</b><br/>
   I have experience in <b>Machine Learning</b> 🧠 and <b>Data Science</b>. I like doing 🕸️ <b>WebDev</b> too.  
 
 ## Working on 👷‍♂️
