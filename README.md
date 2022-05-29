@@ -1,6 +1,6 @@
 <h2>Hey Folks!  <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> I'm Anant</h2>
 
-- 🔭 I’m currently working on **Portfolio website using React JS**
+- 🔭 I’m working on **Portfolio website using React JS**
 
 - 🌱 I am focused towards Machine Learning 🧠 and Data Science stuff along with some experience in 🕸️ Web Developement.
 
