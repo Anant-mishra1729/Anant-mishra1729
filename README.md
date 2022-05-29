@@ -12,10 +12,16 @@
 <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-292d3e?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
 </p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Anant-mishra1729"
+    alt="gargakshit"
+  />
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&custom_title=Contribution%20Timeline&hide_border=true&radius=16" alt = "Contribution graph"/>
 <hr/>
 
+</p>
   <details>
     <summary><h3>Technologies and Frameworks 📚</h3></summary>
 <!--   Languages -->
@@ -34,7 +40,7 @@ alt="Anant-mishra1729" align = "right"/>
 <h2 align="left">ᴡᴇʙ ᴅᴇᴠ / ᴅᴀᴛᴀʙᴀꜱᴇ</h2>
 <p align ="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="100" height="30"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white5" alt="express" width="100" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"></a>
+<a href="https://git-scm.com/" target="_blank"></a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="100" height="30"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" > <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" width="100" height="30"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="mongodb" width="100" height="30"/> </a>
@@ -54,4 +60,3 @@ alt="Anant-mishra1729" align = "right"/>
 </p>
  </details>
 <hr/>
-
