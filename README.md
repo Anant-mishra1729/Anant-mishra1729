@@ -12,11 +12,7 @@
 <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-292d3e?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
 </p>
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Anant-mishra1729"
-    alt="gargakshit"
-  />
+
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&custom_title=Contribution%20Timeline&hide_border=true&radius=16" alt = "Contribution graph"/>
 <hr/>
