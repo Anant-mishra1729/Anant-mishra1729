@@ -2,7 +2,7 @@
 
 - 🔭 I’m working on **Portfolio website using React JS**
 
-- 🌱 I am focused towards Machine Learning 🧠 and Data Science stuff along with some experience in 🕸️ Web Developement.
+- 🌱 I am focused towards Machine Learning 🧠 and Data Science stuff along with 🕸️ Web Developement.
 
 - ❤️ Talking about hobbies, I love stargazing 🌌 and am obssesed with Distrohopping 🐧
 
