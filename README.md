@@ -19,7 +19,7 @@
 
 </p>
   <details>
-    <summary><h3>Technologies and Frameworks 📚</h3></summary>
+    <summary><h3>Tech Stack 📚</h3></summary>
 <!--   Languages -->
 <h2 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ</h2>
 <p align ="left">
