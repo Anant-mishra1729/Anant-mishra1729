@@ -57,3 +57,8 @@ alt="Anant-mishra1729" align = "right"/>
 </p>
  </details>
 <hr/>
+<div align = "center">
+  <h3>Github Trophies 🏆</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&no-frame=true&row=1&theme=onedark" alt="django"/>
+ </div>
+<hr/>
