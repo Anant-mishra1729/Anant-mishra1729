@@ -55,8 +55,8 @@ alt="Anant-mishra1729" align = "right"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 </p>
-   <br/>
   <div align = "center">
+    <h2>Trophies 🏆</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&no-frame=true&row=1&theme=onedark" alt="trophies"/>
  </div>
  </details>
