@@ -19,7 +19,7 @@
 
 </p>
   <details>
-    <summary><h2>&nbsp;Tech Stack 📚</h2></summary>
+    <summary><h3>&nbsp;Tech Stack 📚</h3></summary>
 <!--   Languages -->
 <h2 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ</h2>
 <p align ="left">
@@ -49,7 +49,7 @@ alt="Anant-mishra1729" align = "right"/>
 </details>
 
 <details>
-    <summary><h2>&nbsp; Github Stats 📈</h2></summary>
+    <summary><h3>&nbsp; Github Stats 📈</h3></summary>
   <br/>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
