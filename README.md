@@ -6,7 +6,7 @@
 
 - ❤️ Talking about hobbies, I love stargazing 🌌 and am obssesed with Distrohopping 🐧
 
-- 📖 I am learning Tensorflow(Keras).
+- 📖 I am learning Tensorflow(Keras) and React JS.
 
 <br/>
 <p align = "center">
