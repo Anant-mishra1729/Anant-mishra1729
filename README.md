@@ -18,7 +18,7 @@
 <hr/>
 
 </p>
-  <details>
+  <details open>
     <summary><h3>&nbsp;Tech Stack 📚</h3></summary>
 <!--   Languages -->
 <h2 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ</h2>
@@ -48,7 +48,7 @@ alt="Anant-mishra1729" align = "right"/>
   
 </details>
 
-<details>
+<details open>
     <summary><h3>&nbsp; Github Stats 📈</h3></summary>
   <br/>
 <p align = "center">
