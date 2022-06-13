@@ -4,9 +4,9 @@
 
 - 🌱 I am focused towards Machine Learning 🧠 and Data Science along with 🕸️ Web Developement.
 
-- ❤️ Talking about hobbies, I love stargazing 🌌 and am obssesed with Distrohopping 🐧
-
 - 📖 I am learning Tensorflow(Keras) and React JS.
+
+- ❤️ Talking about hobbies, I love stargazing 🌌 and am obssesed with Distrohopping 🐧
 
 - 🖋️ Everynight we see our past, in the light of stars 🌃 that left them millions of years ago.
 
