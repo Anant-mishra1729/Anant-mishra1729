@@ -53,7 +53,7 @@
 </details>
 <details open>
   <br/>
-  <summary><h3>&nbsp;Github Stats&nbsp; 🌌</h3></summary>
+  <summary><h3>&nbsp;Github Stats&nbsp; 💹</h3></summary>
     <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
