@@ -19,11 +19,7 @@
 
 <hr/>
   <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&custom_title=Contribution%20Timeline&hide_border=true&radius=16" alt = "Contribution graph"/>
-  <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
-</p>
- </details>
+
 <hr/>
 
 </p>
@@ -55,4 +51,12 @@
   <a href="https://tensorflow.org/" target="_blank" > <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="django" width="100" height="30"/></a>
   
 </details>
+<details>
+  <br/>
+  <summary><h3>&nbsp;Github Stats :octocat:</h3></summary>
+    <p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
+</p>
+ </details>
 <hr/>
