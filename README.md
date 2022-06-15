@@ -51,7 +51,7 @@
   <a href="https://tensorflow.org/" target="_blank" > <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="django" width="100" height="30"/></a>
   
 </details>
-<details>
+<details open>
   <br/>
   <summary><h3>&nbsp;Github Stats&nbsp; 🌌</h3></summary>
     <p align = "center">
