@@ -1,4 +1,4 @@
-<h2>Hey!&nbsp;<img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> &nbsp;I'm Anant  </h2>
+<h2>Hey folks!  I'm Anant <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> </h2>
 
 - 🔭 I’m working on **Portfolio website using React JS**
 
