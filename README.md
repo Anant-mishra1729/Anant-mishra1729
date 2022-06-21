@@ -58,7 +58,7 @@
   
 </details>
 
-<details>
+<details open>
 <summary><h3>&nbsp;Github Jouney... :octocat:</h3></summary>
  <br/>
 <p align = "center">
