@@ -1,30 +1,37 @@
 <h2>Hey folks!  I'm Anant <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> </h2>
 
-- 🔭 I’m working on **Portfolio website using React JS**
+<h2>Focused on 🔭 </h2>
+
+- 👷 Working on **Portfolio website** using React JS 
 
 - 🌱 I am focused towards Machine Learning 🧠 and Data Science along with 🕸️ Web Developement.
 
 - 📖 I am learning Tensorflow(Keras) and React JS.
 
+<h2> Hobbies ❤️</h2>
+
 - ❤️ Talking about hobbies, I love stargazing 🌌 and am obssesed with Distrohopping 🐧
 
 - 🖋️ Everynight we see our past, in the light of stars 🌃 that left them millions of years ago.
 
+<h2/>Reach me here... 📬</h2>
+<img align = "right" src = "https://komarev.com/ghpvc/?username=Anant-mishra1729&color=blueviolet&style=flat" alt = "Profile Views" height = 30 width = 150/>
+<a  href="https://instagram.com/anantmishra58" target="blank"><img align="left" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938051.png?token=exp=1655811373~hmac=65a072cf84b1dc816a1c8eb77c494ee0" alt="anantmishra58" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="left" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1655811123~hmac=14fb7a60f5d510d39246020ec07e0bba" alt="amishra1729" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/anant1729" target="blank"><img align="left" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1655811134~hmac=7ca86faa8adb94d6032a229b49a44e83" alt="amishra1729" height="40" width="40" /></a>
+  <a href="https://github.com/Anant-mishra1729/Anant-mishra1729" target="blank"><img align="left" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504911.png?token=exp=1655811268~hmac=5ed1331ad0ea2a085798c55afe901210" alt="amishra1729" height="40" width="40" /></a>
+</p>
+
 <br/>
-<p align = "center">
-<a href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-292d3e?style=for-the-badge&logo=instagram&logoColor=white" alt="anantmishra58" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-292d3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="amishra1729" height="27" width="115" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/anant1729" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-292d3e?style=for-the-badge&logo=twitter&logoColor=white" alt="amishra1729" height="27" width="115" /></a>
-</p>
-
-<hr/>
-  <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&custom_title=Contribution%20Timeline&hide_border=true&radius=16" alt = "Contribution graph"/>
+<center>
+ <hr/>
+<img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&custom_title=Contribution%20Timeline&hide_border=true&radius=16" alt = "Contribution graph"/>
+</center>
 
 <hr/>
 
-</p>
-  <details open>
-    <summary><h3>&nbsp;Tech Stack 📚</h3></summary>
+<details open>
+<summary><h3>&nbsp;Tech Stack 📚</h3></summary>
 <!--   Languages -->
 <h2 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ</h2>
 <p align ="left">
@@ -51,12 +58,10 @@
   <a href="https://tensorflow.org/" target="_blank" > <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="django" width="100" height="30"/></a>
   
 </details>
+
 <details open>
-  <br/>
-  <summary><h3>&nbsp;Github Stats&nbsp; 💹</h3></summary>
-    <p align = "center">
+<summary><h3>&nbsp;Github Jouney... 🏃</h3></summary>
+<p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 </p>
- </details>
-<hr/>
