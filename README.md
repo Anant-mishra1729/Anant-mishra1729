@@ -4,7 +4,7 @@
 <a href="https://github.com/Anant-mishra1729/Anant-mishra1729" target="blank"><img align="right" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504911.png?token=exp=1655811268~hmac=5ed1331ad0ea2a085798c55afe901210" alt="amishra1729" height="40" width="40" /></a>
 </h1>
 
-<h2>I'm Focused on 🔭 </h2>
+<h2>Focused on 🔭 </h2>
 
 - 👷 Working on **Portfolio website** using React JS 
 
@@ -12,7 +12,7 @@
 
 - 📖 I am learning Tensorflow(Keras) and React JS.
 
-<h2>My Hobbies </h2>
+<h2>Hobbies ☕ </h2>
 
 - ❤️ Talking about hobbies, I love stargazing 🌌 and am obssesed with Distrohopping 🐧
 
