@@ -1,4 +1,4 @@
-<h1 align = "center">Hey folks!  I'm Anant <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> </h1>
+<h1 align = "center">Hey folks!  I'm Anant Mishra<img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> </h1>
 <p align = "center">
 <a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938051.png?token=exp=1655811373~hmac=65a072cf84b1dc816a1c8eb77c494ee0" alt="anantmishra58" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1655811123~hmac=14fb7a60f5d510d39246020ec07e0bba" alt="amishra1729" height="40" width="40" /></a>&nbsp;&nbsp;
