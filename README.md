@@ -4,7 +4,7 @@
 </h1>
 
 <h2>Focused on 🔭 </h2>
-<a href="https://github.com/Anant-mishra1729/Anant-mishra1729" target="blank"><img src = "octocat.gif" align = "right"/></a>
+<img src = "octocat.gif" align = "right"/>
 
 - 👷 Working on **Portfolio website** using React JS 
 
