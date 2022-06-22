@@ -1,6 +1,4 @@
-<h1 z>Hey folks!  I'm Anant <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> 
-<a  href="https://instagram.com/anantmishra58" target="blank"><img align="right" src="instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="right" src="linkedin.png" alt="amishra1729" height="40" width="40" /></a>&nbsp;
+<h1>Hey folks!  I'm Anant <img src = "https://github.com/Anant-mishra1729/Anant-mishra1729/blob/main/wave.gif" alt = "" width = "30"/> 
 </h1>
 
 <h2>Focused on 🔭 </h2>
@@ -19,8 +17,9 @@
 
 - 🖋️ Everynight we see our past, in the light of stars 🌃 that left them millions of years ago.
 
-<!-- <h2/>Reach me here... 📬</h2> -->
-
+<h2>Reach me here... 📬</h2>
+<a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="linkedin.png" alt="amishra1729" height="40" width="40" /></a>&nbsp;
 
 <center>
  <hr/>
