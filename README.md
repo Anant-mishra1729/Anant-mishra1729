@@ -8,9 +8,9 @@
 
 - 👷 Working on **Portfolio website** using React JS 
 
-- 🌱 I am focused towards Machine Learning 🧠 and Data Science along with 🕸️ Web Developement.
+- 🌱 Focused towards ML & Data Science 🧠 along with 🕸️ Web Dev.
 
-- 📖 I am learning Tensorflow(Keras) and React JS.
+- 📖 I am learning Tensorflow (Keras) and React JS.
 
 
 <h2>Hobbies ☕ </h2>
