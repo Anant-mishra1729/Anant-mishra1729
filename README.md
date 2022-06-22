@@ -64,3 +64,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=material-palenight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 </p>
+ 
+<!--  Credits -->
+<!--  Icons -->
+<!--  <a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a> -->
+<!--  <a href="https://www.flaticon.com/free-icons/github" title="instagram icons">Instagram icons created by Freepik - Flaticon</a> -->
+<!--  <a href="https://www.flaticon.com/free-icons/linkedln" title="instagram icons">Instagram icons created by Freepik - Flaticon</a> -->
