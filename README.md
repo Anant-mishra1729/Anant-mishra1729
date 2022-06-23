@@ -4,7 +4,7 @@
 <h2>Focused on 🔭 </h2>
 <a href = "https://github.com/Anant-mishra1729"><img src = "static/octocat.gif" align = "right"/></a>
 
-- 👷 Working on **Portfolio website** using React JS 
+- 👷 Working on **Portfolio website** using React JS. 
 
 - 🌱 Focused towards **ML & Data Science** along with 🕸️ **Web Dev**.
 
@@ -13,9 +13,9 @@
 
 <h2>Hobbies ☕ </h2>
 
-- ❤️ Talking about hobbies, I love Stargazing and am obssesed with Distrohopping 🐧
+- 🐧 Talking about hobbies, I love Stargazing and am obssesed with Distrohopping.
 
-- 🖋️ *Everynight we see our past, in the light of stars that left them millions of years ago.*
+- 🖋️ Everynight we see our past, in the light of stars that left them millions of years ago.
 
 <h2>Reach me here... 📬</h2>
 <a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="static/instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;
