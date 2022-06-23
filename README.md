@@ -1,6 +1,6 @@
 <h1>Welcome to my profile <img src = "static/wave.gif" alt = "" width = "30"/> 
 </h1>
-<a href = "https://github.com/Anant-mishra1729"><img src = "static/alien.gif" align = "right"/></a>
+<a href = "https://github.com/Anant-mishra1729"><img src = "static/alien.gif" align = "right" height = 300/></a>
 
 <h2>Focused on 🔭 </h2>
 
