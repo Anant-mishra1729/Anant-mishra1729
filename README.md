@@ -2,7 +2,7 @@
 </h1>
 
 <h2>Focused on 🔭 </h2>
-<img src = "octocat.gif" align = "right"/>
+<a href = "https://github.com/Anant-mishra1729"><img src = "octocat.gif" align = "right"/></a>
 
 - 👷 Working on **Portfolio website** using React JS 
 
