@@ -1,8 +1,8 @@
-<h1>Hey folks!  I'm Anant <img src = "static/wave.gif" alt = "" width = "30"/> 
+<h1>Welcome to my profile <img src = "static/wave.gif" alt = "" width = "30"/> 
 </h1>
+<a href = "https://github.com/Anant-mishra1729"><img src = "static/alien.gif" align = "right"/></a>
 
 <h2>Focused on 🔭 </h2>
-<a href = "https://github.com/Anant-mishra1729"><img src = "static/octocat.gif" align = "right"/></a>
 
 - 👷 Working on **Portfolio website** using React JS. 
 
