@@ -7,7 +7,7 @@
 <a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="static/github.png" alt="amishra1729" height="40" width="40" /></a>
  </div>
 
-<h2>Focused on 🔭 </h2>
+<h3>Focused on 🔭 </h3>
 <a href = "https://github.com/Anant-mishra1729"><img src = "static/octocat.gif" align = "right" /></a>
 
 - 👷 Working on **Portfolio website** using React JS. 
@@ -17,14 +17,14 @@
 - 📖 I am learning **Tensorflow (Keras) and React JS**.
 
 
-<h2>Hobbies ☕ </h2>
+<h3>Hobbies ☕ </h3>
 
 - 🐧 Talking about hobbies, I love Stargazing and am obssesed with Distrohopping.
 
 - 🖋️ Everynight we see our past, in the light of stars that left them millions of years ago.
 
 
-<h2>Tech Stack 📚</h2>
+<h3>Tech Stack 📚</h3>
 <center>
  
 |Types|Names|
