@@ -8,7 +8,7 @@
  </div>
 
 <h3> About Me :coffee:</h3>
-<a href = "https://github.com/Anant-mishra1729"><img src = "/static/octocat.gif" align = "right" height = 250/></a>
+<a href = "https://github.com/Anant-mishra1729"><img src = "/static/octocat.gif" align = "right"/></a>
 
 - 👷 Working on **Portfolio website** using React JS. 
 
