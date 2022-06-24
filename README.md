@@ -16,7 +16,7 @@
 
 - 📖 I am learning **Tensorflow (Keras) and React JS**.
 
-- 🐧 Talking about hobbies, I love Stargazing and am obssesed with Distrohopping.
+- :heart: I love Stargazing and customizing my linux PC.
 
 - 🖋️ **Everynight in the light of stars we see our past.**
 
