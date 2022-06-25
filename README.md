@@ -1,8 +1,8 @@
 <h1>Welcome to my profile <img src = "static/wave.gif" alt = "" width = "30"/> 
 </h1>
+<img src = "https://media1.giphy.com/media/dUYiHLvd7RHYDGpWoX/giphy.gif?cid=ecf05e470xnzbd3vhfx1icoicn4kc5ufj6cmwlku453w6frw&rid=giphy.gif&ct=s" height = 280 align = "right"/>
 
-<h2> About Me :coffee:</h2>
-<!-- <a href = "https://github.com/Anant-mishra1729"><img src = "/static/octocat.gif" align = "right"/></a> -->
+<h2> About Me <img src = "https://media2.giphy.com/media/RJ2bSaZYo0g1I0SpUh/giphy.gif?cid=ecf05e47ej53symefbkleoccl1n3be9ko6eegz0qx001mfy0&rid=giphy.gif&ct=s" height = 50/></h2>
 
 - 👷 Working on **Portfolio website** using React JS. 
 
@@ -10,12 +10,12 @@
 
 - 📖 I am learning **Tensorflow (Keras) and React JS**.
 
-- :heart: Talking about hobbies, I love Stargazing and customizing linux :penguin:.
+- :heart: Talking about hobbies, I love **Stargazing and** customizing linux :penguin:.
 
 - 🖋️ **Everynight in the light of stars we see our past.**
 
 <br/>
-<h2>Language and Skills... 📚</h2>
+<h2>Language and Skills 📚</h2>
 
 <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;<img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;<img src = "https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow">&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>&nbsp;<img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
@@ -24,7 +24,7 @@
 </details>
 
 <br/>
-<h2> Github Stats 🕕</h2>
+<h2> Github Stats 🕰️</h2>
 <!-- <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=material-palenight&custom_title=Contribution%20Timeline&hide_border=true&radius=16" alt = "Contribution graph"/> -->
 
 <p align = "center">
