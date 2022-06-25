@@ -1,8 +1,7 @@
 <h1>Welcome to my profile <img src = "static/wave.gif" alt = "" width = "30"/> 
 </h1>
-<img src = "https://media1.giphy.com/media/dUYiHLvd7RHYDGpWoX/giphy.gif?cid=ecf05e470xnzbd3vhfx1icoicn4kc5ufj6cmwlku453w6frw&rid=giphy.gif&ct=s" height = 280 align = "right"/>
 
-<h2> About Me <img src = "https://media2.giphy.com/media/RJ2bSaZYo0g1I0SpUh/giphy.gif?cid=ecf05e47ej53symefbkleoccl1n3be9ko6eegz0qx001mfy0&rid=giphy.gif&ct=s" height = 50/></h2>
+<h2> About Me ☕</h2>
 
 - 👷 Working on **Portfolio website** using React JS. 
 
@@ -10,7 +9,7 @@
 
 - 📖 I am learning **Tensorflow (Keras) and React JS**.
 
-- :heart: Talking about hobbies, I love **Stargazing and** customizing linux :penguin:.
+- ❤️ Talking about hobbies, I love **Stargazing and** customizing linux :penguin:.
 
 - 🖋️ **Everynight in the light of stars we see our past.**
 
