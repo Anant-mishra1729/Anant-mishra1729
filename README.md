@@ -1,5 +1,5 @@
-<h1>Welcome to my profile <img src = "static/wave.gif" alt = "" width = "30"/> 
-</h1>
+<h2>Welcome to my profile <img src = "static/wave.gif" alt = "" width = "30"/> 
+</h2>
 
 <h2> About Me ☕</h2>
 
@@ -37,7 +37,8 @@
 <a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="static/instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="static/linkedin.png" alt="amishra1729" height="40" width="40" /></a>
 <a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="static/github.png" alt="amishra1729" height="40" width="40" /></a>
- </div>
+<img src = "https://komarev.com/ghpvc/?username=Anant-mishra1729&color=blueviolet" align = "right" height = 25> 
+</div>
 
 <!--  Credits -->
 <!--  Icons -->
