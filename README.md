@@ -17,17 +17,17 @@
 <!-- <br/> -->
 <h2>Language and Skills 📚</h2>
 
-![](https://img.shields.io/badge/OS-Zorin-informational?style=flat&logo=Zorin&logoColor=white&color=38bcad)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=38bcad)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=38bcad)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=38bcad)
-![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=38bcad)
-![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=38bcad)
+![](https://img.shields.io/badge/OS-Zorin-informational?style=flat&logo=Zorin&logoColor=white&color=0077b6)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=0077b6)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0077b6)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=0077b6)
+![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=0077b6)
+![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=0077b6)
 
-![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=33afa1)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=38bcad)
-![](https://img.shields.io/badge/ML/DL-SkLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=38bcad)
-![](https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=38bcad)
+![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=0077b6)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0077b6)
+![](https://img.shields.io/badge/ML/DL-SkLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=0077b6)
+![](https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=0077b6)
 
 <h2> Stats 🕰️</h2>
 <!-- <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=&custom_title=Contribution%20Timeline&hide_border=true&radius=16" alt = "Contribution graph"/> -->
