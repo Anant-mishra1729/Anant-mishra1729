@@ -9,7 +9,7 @@
 
 - 📖 I am learning **Tensorflow (Keras) and React JS**.
 
-- ❤️ Talking about hobbies, I love **Stargazing and** customizing linux :penguin:.
+- ❤️ Talking about hobbies, I love **Stargazing** and customizing **Linux** :penguin:.
 
 - 🖋️ **Everynight in the light of stars we see our forgotten past.**
 
@@ -17,6 +17,7 @@
 <!-- <br/> -->
 <h2>Language and Skills 📚</h2>
 
+![](https://img.shields.io/badge/OS-Zorin-informational?style=flat&logo=Zorin&logoColor=white&color=38bcad)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=38bcad)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=38bcad)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=38bcad)
