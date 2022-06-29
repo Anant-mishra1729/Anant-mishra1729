@@ -23,8 +23,8 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=38bcad)
 ![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=38bcad)
 ![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=38bcad)
-![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=33afa1)
 
+![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=33afa1)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=38bcad)
 ![](https://img.shields.io/badge/ML/DL-SkLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=38bcad)
 ![](https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=38bcad)
