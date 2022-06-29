@@ -1,4 +1,4 @@
-<h1>Welcome to my profile <img src = "static/wave.gif" alt = "" width = "30"/> 
+<h1>Hey Folks! <img src = "static/wave.gif" alt = "" width = "30"/> 
 </h1>
 
 <h2> About Me ☕</h2>
