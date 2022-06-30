@@ -30,12 +30,13 @@
 ![](https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=519a90)
 
 <h2> Stats 🕰️</h2>
-<!-- <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&theme=&custom_title=Contribution%20Timeline&hide_border=true&radius=16" alt = "Contribution graph"/> -->
-
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 </p>
+
+<img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&bg_color=1a1b27&color=628fdb&line=60b4a6&point=ffffff&custom_title=Contribution%20Timeline&hide_border=true&radius=16&area=true&area_color=60b4a6" alt = "Contribution graph"/>
+
 
 <h2>Reach me at... 📬</h2>
 <div align ="left">
