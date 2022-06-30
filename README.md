@@ -1,9 +1,9 @@
 <h1>Hey Folks! <img src = "static/wave.gif" alt = "" width = "30"/> 
 </h1>
-<img src = "https://media2.giphy.com/media/H27gfrn7gIWlmQtzvM/giphy.gif?cid=ecf05e475n0abyrnhrn987tkt6q8br25wftgu28f74eiwqvh&rid=giphy.gif&ct=s" align = "right" height = 400/>
-
 
 <h2> About Me ☕</h2>
+<img src = "static/yoda.gif" align = "right" height = 240/>
+
 
 - 👷 Working on **Portfolio website** using React JS. 
 
