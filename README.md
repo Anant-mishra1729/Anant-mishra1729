@@ -23,7 +23,7 @@
 - 🖋️ **Everynight in the light of stars we see our forgotten past.**
 
 
-<!-- <br/> -->
+<br/>
 <h2>Language and Skills 📚</h2>
 
 ![](https://img.shields.io/badge/OS-Zorin-informational?style=flat&logo=Zorin&logoColor=white&color=519a90)
@@ -38,8 +38,7 @@
 ![](https://img.shields.io/badge/ML/DL-SkLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=519a90)
 ![](https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=519a90)
 
-<!-- <h2>Reach me at... 📬</h2> -->
-
+<br/>
 <h2> Stats 🕰️</h2>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
