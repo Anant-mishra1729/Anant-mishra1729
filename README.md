@@ -9,7 +9,7 @@
 
 
 <h2> About Me ☕</h2>
-<img src = "https://media3.giphy.com/media/ZtdzawNdL3NoUpfDXp/giphy.gif?cid=ecf05e470s1f79wn6gfzktywf2a6r222ibrxwxt2ltu50jpk&rid=giphy.gif&ct=s" align = "right" height = 300/>
+<img src = https://media4.giphy.com/media/XcYbXTGzjGCrc87cIG/giphy.gif?cid=ecf05e47zz06ncoh2gqxwjashdt6a27jfqjh6zp40j6rps07&rid=giphy.gif&ct=s" align = "right" height =300/>
 
 
 - 👷 Working on **Portfolio website** using React JS. 
