@@ -1,5 +1,12 @@
-<h1>Hey Folks! <img src = "static/wave.gif" alt = "" width = "30"/> 
+<h1 align = "center">Hey Folks! I'm Anant Mishra <img src = "static/wave.gif" alt = "" width = "30"/> 
 </h1>
+<div align ="center">
+<a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="static/instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="static/linkedin.png" alt="amishra1729" height="40" width="40" /></a>
+<a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="static/github.png" alt="amishra1729" height="30" width="30" /></a>
+<!-- <img src = "https://komarev.com/ghpvc/?username=Anant-mishra1729&color=blueviolet" align = "right" height = 25>  -->
+</div>
+
 
 <h2> About Me ☕</h2>
 <img src = "static/yoda.gif" align = "right" height = "282"/>
@@ -31,6 +38,8 @@
 ![](https://img.shields.io/badge/ML/DL-SkLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=519a90)
 ![](https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=519a90)
 
+<!-- <h2>Reach me at... 📬</h2> -->
+
 <h2> Stats 🕰️</h2>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
@@ -39,14 +48,6 @@
 
 <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&bg_color=1a1b27&color=628fdb&line=60b4a6&point=ffffff&custom_title=Contribution%20Timeline&hide_border=true&radius=16&area=true&area_color=60b4a6" alt = "Contribution graph"/>
 
-
-<h2>Reach me at... 📬</h2>
-<div align ="left">
-<a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="static/instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="static/linkedin.png" alt="amishra1729" height="40" width="40" /></a>
-<a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="static/github.png" alt="amishra1729" height="30" width="30" /></a>
-<!-- <img src = "https://komarev.com/ghpvc/?username=Anant-mishra1729&color=blueviolet" align = "right" height = 25>  -->
-</div>
 
 <!--  Credits -->
 <!--  Icons -->
