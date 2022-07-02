@@ -25,17 +25,17 @@
 <br/>
 <h2>Language and Skills 📚</h2>
 
-![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=arch-linux&logoColor=white&color=519a90)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=519a90)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=519a90)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=519a90)
-![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=519a90)
-![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=519a90)
+![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=arch-linux&logoColor=skyblue&color=242444)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=blue&color=242444)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=242444)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=yellow&color=242444)
+![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=orange&color=242444)
+![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=2965f1&color=242444)
 
-![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=519a90)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=519a90)
-![](https://img.shields.io/badge/ML/DL-SkLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=519a90)
-![](https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=519a90)
+![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=skyblue&color=242444)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=242444)
+![](https://img.shields.io/badge/ML/DL-SkLearn-informational?style=flat&logo=scikit-learn&logoColor=blue&color=242444)
+![](https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=orange&color=242444)
 
 <br/>
 <h2> Stats 🕰️</h2>
