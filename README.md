@@ -8,7 +8,6 @@
 
 
 <h2> About Me ☕</h2>
-<img src = "static/yoda.gif" align = "right" height =200/>
 
 
 - 👷 Working on **Portfolio website** using React JS. 
