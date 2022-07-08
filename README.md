@@ -43,8 +43,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 </p>
 
+<!--
 <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&bg_color=1a1b27&color=628fdb&line=60b4a6&point=ffffff&custom_title=Contribution%20Timeline&hide_border=true&radius=16&area=true&area_color=60b4a6" alt = "Contribution graph"/>
-
+-->
 
 <!--  Credits -->
 <!--  Icons -->
