@@ -1,4 +1,4 @@
-<h1 align = "center">Hey there! I'm Anant Mishra <img src = "static/wave.gif" alt = "" width = "30"/> 
+<h1 align = "center">Hey there! I'm watching stars <img src = "static/wave.gif" alt = "" width = "30"/> 
 </h1>
 <div align ="center">
 <a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="static/instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;
