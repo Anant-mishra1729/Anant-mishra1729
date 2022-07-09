@@ -23,21 +23,21 @@
 <br/>
 <h2>Tech stack :books: </h2>
 <div align = "left">
-<img src = "https://img.shields.io/badge/OS-Pop_OS-informational?style=flat&logo=linux&logoColor=white&color=242444" height = "25" />
-<img src = "https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=242444" height = "25" />
-<img src = "https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=242444" height = "25" />
-<img src = "https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=242444" height = "25" />
-<img src = "https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=242444" height = "26" />
+<img src = "https://img.shields.io/badge/OS-Pop_OS-informational?style=flat&logo=linux&logoColor=white&color=242444" height = "22" />
+<img src = "https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=242444" height = "22" />
+<img src = "https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=242444" height = "22" />
+<img src = "https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=242444" height = "22" />
+<img src = "https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=242444" height = "22" />
 
 <br/>
-<img src = "https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=242444" height = "25" />
-<img src = "https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=242444" height = "25" />
-<img src = "https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=242444" height = "26" />
+<img src = "https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=242444" height = "22" />
+<img src = "https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=242444" height = "22" />
+<img src = "https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=242444" height = "22" />
 
 <br/>
-<img src = "https://img.shields.io/badge/ML/DL-Keras-informational?style=flat&logo=keras&logoColor=white&color=242444" height = "26" />
-<img src = "https://img.shields.io/badge/ML/DL-Scikit%20Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=242444" height = "26" />
-<img src = "https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=242444" height = "26" />
+<img src = "https://img.shields.io/badge/ML/DL-Keras-informational?style=flat&logo=keras&logoColor=white&color=242444" height = "22" />
+<img src = "https://img.shields.io/badge/ML/DL-Scikit%20Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=242444" height = "22" />
+<img src = "https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=242444" height = "22" />
 </div>
 
 
