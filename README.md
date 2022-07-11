@@ -1,6 +1,11 @@
-<h1>Hey there! I'm watching stars <img src = "static/wave.gif" alt = "" width = "35"/> 
-</h1>
+<h1>Hey there! I'm Anant <img src = "static/wave.gif" alt = "" width = "35"/></h1>
 
+<div align ="left">
+<a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="static/instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="static/linkedin.png" alt="amishra1729" height="40" width="40" /></a>
+<a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="static/github.png" alt="amishra1729" height="40" width="40" /></a>
+</div>
+<br/>
 <h2> About Me ☕</h2>
 
 
@@ -13,6 +18,7 @@
 - ❤️ Talking about hobbies, I love **Stargazing** and customizing **Linux** :penguin:.
 
 - 🖋️ **Everynight in the light of stars we see our forgotten past.**
+
 
 <br/>
 <h2>Language and tools :books: </h2>
@@ -30,32 +36,6 @@
 <img src = "https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=keras&logoColor=red" height = "30" />
 <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height = "30" />
 <img src = "https://img.shields.io/badge/scikit_learn-00599C?style=for-the-badge&logo=scikit-learn&logoColor=FF6F00" height = "30" />
-</div>
-<!--
-<img src = "https://img.shields.io/badge/OS-Pop_OS-informational?style=flat&logo=linux&logoColor=white&color=242444" height = "22" />
-<img src = "https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=242444" height = "22" />
-<img src = "https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=242444" height = "22" />
-<img src = "https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=242444" height = "22" />
-<img src = "https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=242444" height = "22" />
-
-<br/>
-<img src = "https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=242444" height = "22" />
-<img src = "https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=242444" height = "22" />
-<img src = "https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=242444" height = "22" />
-
-<br/>
-<img src = "https://img.shields.io/badge/ML/DL-Keras-informational?style=flat&logo=keras&logoColor=white&color=242444" height = "22" />
-<img src = "https://img.shields.io/badge/ML/DL-Scikit%20Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=242444" height = "22" />
-<img src = "https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=242444" height = "22" />
--->
-</div>
-
-<br/>
-<h2> Connect with me </h2>
-<div align ="left">
-<a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="static/instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="static/linkedin.png" alt="amishra1729" height="40" width="40" /></a>
-<a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="static/github.png" alt="amishra1729" height="40" width="40" /></a>
 </div>
 
 <br/>
