@@ -17,6 +17,20 @@
 <br/>
 <h2>Language and tools :books: </h2>
 <div align = "left">
+<img src = "https://img.shields.io/badge/Pop_OS-informational?style=for-the-badge&logo=linux&logoColor=black&color=skyblue" height = "30" />
+<img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height = "30" />
+<img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height = "30" />
+<br/>
+<img src = "https://img.shields.io/badge/HTML-4EA94B?style=for-the-badge&logo=html5&logoColor=white" height = "30" />
+<img src = "https://img.shields.io/badge/CSS-00599C?&style=for-the-badge&logo=css3&logoColor=white" height = "30" />
+<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height = "30" />
+<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height = "30" />
+<br/>
+<img src = "https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=keras&logoColor=red" height = "30" />
+<img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height = "30" />
+<img src = "https://img.shields.io/badge/scikit_learn-00599C?style=for-the-badge&logo=scikit-learn&logoColor=FF6F00" height = "30" />
+</div>
+<!--
 <img src = "https://img.shields.io/badge/OS-Pop_OS-informational?style=flat&logo=linux&logoColor=white&color=242444" height = "22" />
 <img src = "https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=242444" height = "22" />
 <img src = "https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=242444" height = "22" />
@@ -32,6 +46,7 @@
 <img src = "https://img.shields.io/badge/ML/DL-Keras-informational?style=flat&logo=keras&logoColor=white&color=242444" height = "22" />
 <img src = "https://img.shields.io/badge/ML/DL-Scikit%20Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=242444" height = "22" />
 <img src = "https://img.shields.io/badge/ML/DL-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=242444" height = "22" />
+-->
 </div>
 
 <br/>
