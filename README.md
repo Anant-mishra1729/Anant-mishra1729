@@ -20,6 +20,7 @@
 <img src = "https://img.shields.io/badge/Pop_OS-informational?style=for-the-badge&logo=linux&logoColor=black&color=skyblue" height = "30" />
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height = "30" />
 <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height = "30" />
+<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height = "30" />
 <br/>
 <img src = "https://img.shields.io/badge/HTML-4EA94B?style=for-the-badge&logo=html5&logoColor=white" height = "30" />
 <img src = "https://img.shields.io/badge/CSS-00599C?&style=for-the-badge&logo=css3&logoColor=white" height = "30" />
