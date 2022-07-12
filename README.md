@@ -49,7 +49,7 @@
 
 <h2> Contributions 🕰️</h2>
 
-![contributions](profile-3d-contrib/profile-night-view.svg)
+![contributions](profile-3d-contrib/profile-cutomize.svg)
 
 
 <!--
