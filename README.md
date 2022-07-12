@@ -12,7 +12,8 @@
 
 - ❤️ Talking about hobbies, I love **Stargazing** and customizing **Linux** :penguin:.
 
-- 🖋️ **Everynight in the light of stars we see our forgotten past.**
+#### 🖋️ An excerpt from my diary... 
+*Everynight in the light of stars we see our forgotten past.*
 
 
 <br/>
