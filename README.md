@@ -1,5 +1,9 @@
 <h1>Hey there! I'm Anant <img src = "static/wave.gif" alt = "" width = "35"/></h1>
 
+<h2>Checkout my website :heart:</h2>
+
+<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/WEBSITE-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" /></a>
+
 
 <h2> About Me ☕</h2>
 
