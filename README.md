@@ -1,5 +1,14 @@
-<h1>Hey there! I'm Anant <img src = "static/wave.gif" alt = "" width = "35"/></h1>
+<h1 align ="center">Hey there! I'm Anant <img src = "static/wave.gif" alt = "" width = "35"/></h1>
+<div align ="center">
+<a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="static/instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="static/linkedin.png" alt="amishra1729" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="static/github.png" alt="amishra1729" height="40" width="40" /></a>
+</div>
 
+<h2>Portfolio</h3>
+<div align = "left">
+<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img align = "center" src = "https://img.shields.io/badge/WEBSITE-20232A?style=for-the-badge&logo=Angellist&logoColor=orange"  height = 35/></a>
+</div>
 
 <h2> About Me ☕</h2>
 
@@ -15,8 +24,7 @@
 #### 🖋️ An excerpt from my diary... 
 *Everynight in the light of stars we see our forgotten past.*
 
-<h2>Checkout my website :heart:</h2>
-<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/WEBSITE-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" /></a>
+<!--<h2>Checkout my website :heart:</h2> -->
 
 <br/>
 <h2>Language and tools :books: </h2>
@@ -40,17 +48,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 </p>
 
-<h2>Reach me at... :mailbox_with_mail:</h2>
-<div align ="left">
-<a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="static/instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="static/linkedin.png" alt="amishra1729" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="static/github.png" alt="amishra1729" height="40" width="40" /></a>
-</div>
-<br/>
 
 <h2> Contributions 🕰️</h2>
 
-![contributions](profile-3d-contrib/profile-night-view.svg)
+![contributions](profile-3d-contrib/profile-night-green.svg)
 
 
 <!--
