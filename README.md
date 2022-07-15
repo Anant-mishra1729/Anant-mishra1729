@@ -8,7 +8,7 @@
 <h2> About Me ☕</h2>
 
 
-- 👷 Working on **Portfolio website** using React JS. 
+- 👷 Working on **Finger spell** for sign language recognition. 
 
 - 🌱 Focused towards **ML & Data Science** along with 🕸️ **Web Dev**.
 
