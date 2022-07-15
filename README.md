@@ -5,11 +5,6 @@
 <a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="static/github.png" alt="amishra1729" height="40" width="40" /></a>
 </div>
 
-<h2>Portfolio</h3>
-<div align = "left">
-<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img align = "center" src = "https://img.shields.io/badge/WEBSITE-20232A?style=for-the-badge&logo=Angellist&logoColor=orange"  height = 35/></a>
-</div>
-
 <h2> About Me ☕</h2>
 
 
@@ -23,6 +18,12 @@
 
 #### 🖋️ An excerpt from my diary... 
 *Everynight in the light of stars we see our forgotten past.*
+
+
+<div align = "left">
+<br />
+<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img align = "center" src = "https://img.shields.io/badge/Portfolio_Website-20232A?style=for-the-badge&logo=Angellist&logoColor=green"  height = 35/></a>
+</div>
 
 <!--<h2>Checkout my website :heart:</h2> -->
 
