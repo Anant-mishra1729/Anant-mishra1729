@@ -44,7 +44,7 @@
 
 <h2> Contributions 🕰️</h2>
 
-![contributions](profile-3d-contrib/profile-night-view.svg)
+![contributions](profile-3d-contrib/profile-night-rainbow.svg)
 
 <br/>
 <h2> Github Stats :book:</h2>
