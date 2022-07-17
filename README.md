@@ -42,22 +42,22 @@
 <img src = "https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=blue" height = "30" />
 </div>
 
+<h2> Contributions 🕰️</h2>
+
+![contributions](profile-3d-contrib/profile-night-view.svg)
+
 <br/>
 <h2> Github Stats :book:</h2>
 <p align = "center">
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 130/>
-<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/competition" height = 130/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/>
+<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/competition" height = 150/>
 
 </p>
 
-
-<h2> Contributions 🕰️</h2>
-
-![contributions](profile-3d-contrib/profile-night-green.svg)
-
+<h3 align = "center">:star: My projects are pinned below, hope you like them :heart:</h3>
 
 <!--
 <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&bg_color=1a1b27&color=628fdb&line=60b4a6&point=ffffff&custom_title=Contribution%20Timeline&hide_border=true&radius=16&area=true&area_color=60b4a6" alt = "Contribution graph"/>
