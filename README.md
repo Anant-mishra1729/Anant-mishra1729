@@ -44,7 +44,16 @@
 
 <h2> Contributions 🕰️</h2>
 
-![contributions](profile-3d-contrib/profile-night-view.svg)
+<div align = "center">  
+<img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
+</div>
+<br />
+<div align ="center">
+<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/competition" align = "center" />
+<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/dataset" align = "center" />
+<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/notebook" align = "center" />
+<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/discussion" align = "center" />
+</div>
 
 <br/>
 <h2> Github Stats :book:</h2>
@@ -53,13 +62,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/>
-<!-- <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/competition" width = "15%"/> -->
 </p>
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/discussion)
 
 
 
