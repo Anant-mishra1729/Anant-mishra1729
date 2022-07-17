@@ -49,10 +49,10 @@
 </div>
 <br />
 <div align ="center">
-<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/competition" align = "center" />
-<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/dataset" align = "center" />
-<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/notebook" align = "center" />
-<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/discussion" align = "center" />
+<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/competition" align = "center"  width = "12.5%"/>
+<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/dataset" align = "center" width = "12.5%"/>
+<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/notebook" align = "center" width = "12.5%"/>
+<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/discussion" align = "center" width = "12.5%"/>
 </div>
 
 <br/>
