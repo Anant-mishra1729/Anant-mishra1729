@@ -42,7 +42,6 @@
 <img src = "https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=blue" height = "30" />
 </div>
 
-<br />
 <!--
 <div align ="center">
 <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/competition" align = "center"  width = "12.5%"/>
