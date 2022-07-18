@@ -42,29 +42,28 @@
 <img src = "https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=blue" height = "30" />
 </div>
 
-<h2> Contributions 🕰️</h2>
-
-<div align = "center">  
-<img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
-</div>
 <br />
+<!--
 <div align ="center">
 <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/competition" align = "center"  width = "12.5%"/>
 <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/dataset" align = "center" width = "12.5%"/>
 <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/notebook" align = "center" width = "12.5%"/>
 <img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/discussion" align = "center" width = "12.5%"/>
-</div>
+</div> -->
 
 <br/>
 <h2> Github Stats :book:</h2>
 <p align = "center">
-<br />
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/>
+<!--<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/> -->
 </p>
 
+<h2> Contributions 🕰️</h2>
 
+<div align = "center">  
+<img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
+</div>
 
 <h3 align = "center">:star: My projects are pinned below, hope you like them :heart:</h3>
 
