@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="static/linkedin.png" alt="amishra1729" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="static/github.png" alt="amishra1729" height="40" width="40" /></a>
 </div>
+<h3 align = "center"><i>Everynight in the light of stars we see our forgotten past... 🖋️</i></h3> 
 
 <h2> About Me ☕</h2>
 
@@ -16,9 +17,10 @@
 
 - ❤️ Talking about hobbies, I love **Stargazing** and customizing **Linux** :penguin:.
 
-#### 🖋️ An excerpt from my diary... 
-*Everynight in the light of stars we see our forgotten past.*
-
+<!--
+### 🖋️ An excerpt from my diary... 
+> *Everynight in the light of stars we see our forgotten past.*
+-->
 
 <div align = "left">
 <br />
