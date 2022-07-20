@@ -15,7 +15,7 @@
 
 - 📖 I am learning **Tensorflow (Keras) and React JS**.
 
-- ❤️ Talking about hobbies, I love **Stargazing** and customizing **Linux** :penguin: ( Pop OS! ).
+- ❤️ Talking about hobbies, I love **Stargazing** and playing ♟️.
 
 <!--
 ### 🖋️ An excerpt from my diary... 
