@@ -66,7 +66,7 @@
 <img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
 </div>
 
-<h3 align = "center">:star: My projects are pinned below, hope you like them :heart:</h3>
+<h3 align = "center">My projects are pinned below, hope you like them :star:</h3>
 
 <!--
 <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&bg_color=1a1b27&color=628fdb&line=60b4a6&point=ffffff&custom_title=Contribution%20Timeline&hide_border=true&radius=16&area=true&area_color=60b4a6" alt = "Contribution graph"/>
