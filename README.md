@@ -19,7 +19,6 @@
 
 - ✒️ Everynight in the light of stars we see our forgotten past.</i>
 
-<br />
 <h2>Language and tools :books: </h2>
 <div align = "left">
 <img src = "https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=keras&logoColor=red" height = "30" />
@@ -34,7 +33,6 @@
 <img src = "https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=blue" height = "30" />
 </div>
 
-<br/>
 <h2> Github Stats :book:</h2>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
