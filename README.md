@@ -53,7 +53,7 @@
 <h2> Contributions 🕰️</h2>
 
 <div align = "center">  
-<img src = "profile-3d-contrib/profile-night-green.svg" align = "center" />
+<img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
 </div>
 
 
