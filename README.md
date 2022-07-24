@@ -1,10 +1,8 @@
-<h1 align ="center">Hey there! I'm Anant <img src = "static/wave.gif" alt = "" width = "35"/></h1>
-<div align ="center">
-<a  href="https://instagram.com/anantmishra58" target="blank"><img align="center" src="static/instagram.png" alt="anantmishra58" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anant-mishra-886912212" target="blank"><img align="center" src="static/linkedin.png" alt="amishra1729" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://github.com/Anant-mishra1729" target="blank"><img align="center" src="static/github.png" alt="amishra1729" height="40" width="40" /></a>
+<h1 align ="left">Hey there! I'm Anant <img src = "static/wave.gif" alt = "" width = "35"/></h1>
+
+<div align = "left">
+<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img align = "center" src = "https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=github&logoColor=white"  height = 35/></a>
 </div>
-<h4 align = "center"><i>Everynight in the light of stars we see our forgotten past... ✒️</i></h4> 
 
 <h2> About Me ☕</h2>
 
@@ -17,18 +15,10 @@
 
 - ❤️ Talking about hobbies, I love **Stargazing** and playing ♟️.
 
-<!--
-### 🖋️ An excerpt from my diary... 
-> *Everynight in the light of stars we see our forgotten past.*
--->
+- ✒️ Everynight in the light of stars we see our forgotten past.</i>
 
-<div align = "left">
-<br />
-<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img align = "center" src = "https://img.shields.io/badge/Portfolio_Website-20232A?style=for-the-badge&logo=Angellist&logoColor=green"  height = 35/></a>
-</div>
 
 <!--<h2>Checkout my website :heart:</h2> -->
-
 <br/>
 <h2>Language and tools :books: </h2>
 <div align = "left">
@@ -63,7 +53,7 @@
 <h2> Contributions 🕰️</h2>
 
 <div align = "center">  
-<img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
+<img src = "profile-3d-contrib/profile-night-green.svg" align = "center" />
 </div>
 
 
