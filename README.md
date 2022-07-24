@@ -11,7 +11,7 @@
 
 - 👷 Working on **Finger spell** for sign language recognition. 
 
-- 🌱 Focused towards **ML & Data Science** along with 🕸️ ** Dev**.
+- 🌱 Focused towards **ML & Data Science** along with 🕸️ **Dev**.
 
 - 📖 I am learning **Tensorflow (Keras) and React JS**.
 
