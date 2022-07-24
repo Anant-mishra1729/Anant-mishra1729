@@ -15,9 +15,13 @@
 
 <br />
 <h2>Reach me at 📮 </h2>
+<div align = "left">
+<img src = "static/instagram.png" height = 35/>&nbsp;&nbsp;
+<img src = "static/github.png" height = 35/>&nbsp;&nbsp;
+<img src = "static/linkedin.png" height = 35/>&nbsp;&nbsp;
+</div>
 
-
-<br/>
+<br />
 <h2>Language and tools :books: </h2>
 <div align = "left">
 <img src = "https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=keras&logoColor=red" height = "30" />
@@ -52,7 +56,4 @@
 -->
 
 <!--  Credits -->
-<!--  Icons -->
-<!--  <a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a> -->
-<!--  <a href="https://www.flaticon.com/free-icons/github" title="instagram icons">Instagram icons created by Freepik - Flaticon</a> -->
-<!--  <a href="https://www.flaticon.com/free-icons/linkedln" title="instagram icons">Instagram icons created by Freepik - Flaticon</a> -->
+<!--  Icons : Flaticon -->
