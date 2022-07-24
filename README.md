@@ -1,9 +1,5 @@
 <h1 align ="left">Hey there! I'm Anant <img src = "static/wave.gif" alt = "" width = "35"/></h1>
 
-<div align = "left">
-<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img align = "center" src = "https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=github&logoColor=white"  height = 35/></a>
-</div>
-
 <h2> About Me ☕</h2>
 
 
