@@ -34,14 +34,6 @@
 <img src = "https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=blue" height = "30" />
 </div>
 
-<!--
-<div align ="center">
-<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/competition" align = "center"  width = "12.5%"/>
-<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/dataset" align = "center" width = "12.5%"/>
-<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/notebook" align = "center" width = "12.5%"/>
-<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/amishra1769/discussion" align = "center" width = "12.5%"/>
-</div> -->
-
 <br/>
 <h2> Github Stats :book:</h2>
 <p align = "center">
