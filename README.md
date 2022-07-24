@@ -1,4 +1,4 @@
-<h1 align ="center">Hey there! I'm Anant <img src = "static/wave.gif" alt = "" width = "35"/></h1>
+<h1 align ="center">Hey there! I'm Anant&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h1>
 
 <div align = "center">
 <a href = "https://www.instagram.com/anantmishra58/"><img src = "static/instagram.png" height = 35/></a>&nbsp;&nbsp;
