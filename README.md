@@ -1,7 +1,13 @@
-<h1 align ="left">Hey there! I'm Anant <img src = "static/wave.gif" alt = "" width = "35"/></h1>
+<h1 align ="center">Hey there! I'm Anant <img src = "static/wave.gif" alt = "" width = "35"/></h1>
+
+<div align = "center">
+<img src = "static/instagram.png" height = 35/>&nbsp;&nbsp;
+<img src = "static/github.png" height = 35/>&nbsp;&nbsp;
+<img src = "static/linkedin.png" height = 35/>&nbsp;&nbsp;
+</div>
+
 
 <h2> About Me ☕</h2>
-
 
 - 👷 Working on **Finger spell** for sign language recognition. 
 
@@ -12,14 +18,6 @@
 - ❤️ Talking about hobbies, I love **Stargazing** and playing ♟️.
 
 - ✒️ Everynight in the light of stars we see our forgotten past.</i>
-
-<br />
-<h2>Reach me at 📮 </h2>
-<div align = "left">
-<img src = "static/instagram.png" height = 35/>&nbsp;&nbsp;
-<img src = "static/github.png" height = 35/>&nbsp;&nbsp;
-<img src = "static/linkedin.png" height = 35/>&nbsp;&nbsp;
-</div>
 
 <br />
 <h2>Language and tools :books: </h2>
@@ -50,6 +48,8 @@
 <img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
 </div>
 
+<br />
+<!-- <h2>Reach me at 📮 </h2> -->
 
 <!--
 <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&bg_color=1a1b27&color=628fdb&line=60b4a6&point=ffffff&custom_title=Contribution%20Timeline&hide_border=true&radius=16&area=true&area_color=60b4a6" alt = "Contribution graph"/>
