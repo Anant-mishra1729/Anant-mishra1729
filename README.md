@@ -1,9 +1,9 @@
 <h1 align ="center">Hey there! I'm Anant <img src = "static/wave.gif" alt = "" width = "35"/></h1>
 
 <div align = "center">
-<img src = "static/instagram.png" height = 35/>&nbsp;&nbsp;
-<img src = "static/github.png" height = 35/>&nbsp;&nbsp;
-<img src = "static/linkedin.png" height = 35/>&nbsp;&nbsp;
+<a href = "https://www.instagram.com/anantmishra58/"><img src = "static/instagram.png" height = 35/></a>&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/anant-mishra1729/"><img src = "static/linkedin.png" height = 35/></a>&nbsp;&nbsp;
+<a href = "https://github.com/Anant-mishra1729"><img src = "static/github.png" height = 35/></a>&nbsp;&nbsp;
 </div>
 
 
