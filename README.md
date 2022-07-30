@@ -9,15 +9,15 @@
 
 <h2> About Me ☕</h2>
 
-- 👷 Working on **Finger spell** for sign language recognition. 
+- 👷&nbsp; Working on **Finger spell** for sign language recognition. 
 
-- 🌱 Focused towards **ML & Data Science** along with 🕸️ **Dev**.
+- 🌱&nbsp; Focused towards **ML & Data Science** along with 🕸️ **Dev**.
 
-- 📖 I am learning **Tensorflow (Keras) and React JS**.
+- 📖&nbsp; I am learning **Tensorflow (Keras) and React JS**.
 
-- ❤️ Talking about hobbies, I love **Stargazing** and playing ♟️.
+- ❤️&nbsp; Talking about hobbies, I love **Stargazing** and playing ♟️.
 
-- ✒️ Everynight in the light of stars we see our forgotten past.</i>
+- ✒️&nbsp; Everynight in the light of stars we see our forgotten past.</i>
 
 <h2>Language and tools :books: </h2>
 <div align = "left">
