@@ -1,5 +1,10 @@
-<h1 align ="left">Hey there! I'm Anant&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h1>
+<h1 align ="center">Hey there! I'm Anant&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h1>
 
+<div align = "center">
+<a href = "https://www.instagram.com/anantmishra58/"><img src = "static/instagram.png" height = 35/></a>&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/anant-mishra1729/"><img src = "static/linkedin.png" height = 35/></a>&nbsp;&nbsp;
+<a href = "https://github.com/Anant-mishra1729"><img src = "static/github.png" height = 35/></a>&nbsp;&nbsp;
+</div>
 
 <h2> About Me ☕</h2>
 
@@ -25,6 +30,8 @@
 <img src = "https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height = "30" />
 <img src = "https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=orange" height = "30" />
 <img src = "https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=blue" height = "30" />
+<img src = "https://img.shields.io/badge/Django-20232A?&style=for-the-badge&logo=django&logoColor=green" height = "30" />
+<img src = "https://img.shields.io/badge/Flutter-20232A?&style=for-the-badge&logo=flutter&logoColor=skyblue" height = "30" />
 </div>
 
 <h2> Github Stats :book:</h2>
@@ -45,14 +52,8 @@
 <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&bg_color=1a1b27&color=628fdb&line=60b4a6&point=ffffff&custom_title=Contribution%20Timeline&hide_border=true&radius=16&area=true&area_color=60b4a6" alt = "Contribution graph"/>
 -->
 <br />
-<h2>Reach me at... 📮 </h2>
+<!-- <h2 align  = "center">Reach me at... 📮 </h2> -->
 
-
-<div align = "left">
-<a href = "https://www.instagram.com/anantmishra58/"><img src = "static/instagram.png" height = 35/></a>&nbsp;&nbsp;
-<a href = "https://www.linkedin.com/in/anant-mishra1729/"><img src = "static/linkedin.png" height = 35/></a>&nbsp;&nbsp;
-<a href = "https://github.com/Anant-mishra1729"><img src = "static/github.png" height = 35/></a>&nbsp;&nbsp;
-</div>
 
 <!--  Credits -->
 <!--  Icons : Flaticon -->
