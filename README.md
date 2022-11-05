@@ -36,13 +36,12 @@ I am Anant Mishra, a reasearch enthusiast who's day starts with machine learning
 <!--<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/> -->
 </p>
 
-<details>
-  <summary><h2> Contributions 🕰️</h2></summary>
+<h2> Contributions 🕰️</h2>
 
 <div align = "center">  
 <img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
 </div>
-</details>
+
 
 <!--
 <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&bg_color=1a1b27&color=628fdb&line=60b4a6&point=ffffff&custom_title=Contribution%20Timeline&hide_border=true&radius=16&area=true&area_color=60b4a6" alt = "Contribution graph"/>
