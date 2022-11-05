@@ -1,4 +1,6 @@
-<h1 align ="left">Hey there! I'm Anant&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h1>
+<h2 align ="left">Hey there! I'm Anant&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h2>
+<h4><i> - Everynight in the light of stars, we see our forgotten past ...</i></h4>
+
 
 <!--<div align = "center">
 <a href = "https://www.instagram.com/anantmishra58/"><img src = "static/instagram.png" height = 35/></a>&nbsp;&nbsp;
@@ -9,13 +11,12 @@
 
 <h2> About Me ☕</h2>
 
-- 👷&nbsp; Working on **Finger spell** for sign language recognition. 
+- 👷&nbsp; Working on **Finger spell**, a sign language recognition tool. 
 
 - 🌱&nbsp; Focused on **Deep learning**
 
 - ❤️&nbsp; Talking about hobbies, I love **Stargazing** and playing ♟️.
 
-- ✒️&nbsp; Everynight in the light of stars we see our forgotten past.</i>
 
 <h2>Language and tools :books: </h2>
 <div align = "left">
