@@ -2,7 +2,7 @@
 
 <h2> About Me ☕</h2>
 
-A **reasearch enthusiast** whose day starts on screen and ends gazing stars in night sky. Yup! I'm a **Stargazer** 🌌.
+A **reasearch enthusiast** whose day starts on screen and ends gazing stars in night sky. I love **Stargazing** 🌌 and playing ♟️.
 
 My research field is **Computer Vision and Image processing**.
 
