@@ -1,4 +1,4 @@
-<h2 align ="left">Hey there! I'm Anant&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h2>
+<h1 align ="left">Hey there! I'm Anant&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h1>
 
 
 <!--<div align = "center">
