@@ -1,17 +1,11 @@
 <h1 align ="left">Hey there! I'm Anant&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h1>
 
-
-<!--<div align = "center">
-<a href = "https://www.instagram.com/anantmishra58/"><img src = "static/instagram.png" height = 35/></a>&nbsp;&nbsp;
-<a href = "https://www.linkedin.com/in/anant-mishra1729/"><img src = "static/linkedin.png" height = 35/></a>&nbsp;&nbsp;
-<a href = "https://github.com/Anant-mishra1729"><img src = "static/github.png" height = 35/></a>&nbsp;&nbsp;
-</div>-->
-
-
 <h2> About Me ☕</h2>
 
 I am Anant Mishra, a reasearch enthusiast who's day starts with machine learning and ends with gazing stars in night sky. Yup! I'm a Stargazer 🌌. My research field is Computer Vision and Deep learning.
 
+<h2 align  = "left">You can reach me here... 📮 </h2>
+<img src = "https://img.shields.io/badge/Portifolio Website-20232A?style=for-the-badge&logo=githubsponsors&logoColor=red" height = "30" />
 
 <h2>Language and tools :books: </h2>
 <div align = "left">
@@ -46,8 +40,6 @@ I am Anant Mishra, a reasearch enthusiast who's day starts with machine learning
 <!--
 <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&bg_color=1a1b27&color=628fdb&line=60b4a6&point=ffffff&custom_title=Contribution%20Timeline&hide_border=true&radius=16&area=true&area_color=60b4a6" alt = "Contribution graph"/>
 -->
-<br />
-<!-- <h2 align  = "center">Reach me at... 📮 </h2> -->
 
 
 <!--  Credits -->
