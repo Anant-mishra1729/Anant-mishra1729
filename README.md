@@ -2,10 +2,12 @@
 
 <h2> About Me ☕</h2>
 
-I am Anant Mishra, a reasearch enthusiast who's day starts with machine learning and ends with gazing stars in night sky. Yup! I'm a Stargazer 🌌. My research field is Computer Vision and Deep learning.
+A **reasearch enthusiast** who's day starts with computer and ends gazing stars in night sky. Yup! I'm a **Stargazer** 🌌.
+
+My research field is **Computer Vision and Image processing**.
 
 <h2 align  = "left">You can reach me here... 📮 </h2>
-<img src = "https://img.shields.io/badge/Portifolio Website-20232A?style=for-the-badge&logo=githubsponsors&logoColor=red" height = "30" />
+<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio Website-20232A?style=for-the-badge&logo=githubsponsors&logoColor=red" height = "30" /></a>
 
 <h2>Language and tools :books: </h2>
 <div align = "left">
