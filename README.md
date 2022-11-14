@@ -1,15 +1,15 @@
 <h1 align ="left">Hey there! I'm Anant&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h1>
 
-<h2> About Me ☕</h2>
+<h2> About Me</h2>
 
-A **reasearch enthusiast** whose day starts with his pc and ends gazing stars in night sky.
+Reasearch enthusiast whose day starts with his pc and ends watching night sky.
 
-My research field is **Computer Vision and Image processing**.
+My research is in the field of **Computer Vision and Image processing**.
 
-<h2 align  = "left">You can reach me here... 📮 </h2>
+<h2 align  = "left">You can reach me here... </h2>
 <a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio Website-20232A?style=for-the-badge&logo=githubsponsors&logoColor=red" height = "30" /></a>
 
-<h2>Language and tools :books: </h2>
+<h2>Language and tools </h2>
 <div align = "left">
 <img src = "https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=keras&logoColor=red" height = "30" />
 <img src = "https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=orange" height = "30" />
@@ -25,14 +25,14 @@ My research field is **Computer Vision and Image processing**.
 <img src = "https://img.shields.io/badge/Flutter-20232A?&style=for-the-badge&logo=flutter&logoColor=skyblue" height = "30" />
 </div>
 
-<h2> Github Stats :book:</h2>
+<h2> Github Stats </h2>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
 <!--<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/> -->
 </p>
 
-<h2> Contributions 🕰️</h2>
+<h2> Contributions </h2>
 
 <div align = "center">  
 <img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
