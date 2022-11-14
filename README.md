@@ -7,7 +7,7 @@ Reasearch enthusiast whose day starts with his pc and ends watching night sky.
 My research is in the field of **Computer Vision and Image processing**.
 
 <h4 align  = "left">To learn more about me checkout my website ...</h4>
-<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&logo=githubsponsors&logoColor=red" height = "30" /></a>
+<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&logo=githubsponsors&logoColor=white" height = "30" /></a>
 
 <h2>Language and tools </h2>
 <div align = "left">
