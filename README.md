@@ -1,18 +1,14 @@
-<h1 align ="left">Hey there! I'm Anant&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h1>
+<h1 align ="left">Hi Traveller! I'm <a href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h1>
 
-<h2> About Me</h2>
-
-Reasearch enthusiast whose day starts with his pc and ends watching night sky.
-
-My research is in the field of **Computer Vision and Image processing**.
-
-<h4 align  = "left">To have some more insights, check out my portfolio ...</h4>
-<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&logo=githubsponsors&logoColor=white" height = "30" /></a>
+* :telescope: I’m currently working on Finger Spell
+* :seedling: I’m currently learning api integration
+* :dancers: I’m looking to collaborate on any pro-bono data science projects
 
 <h2>Language and tools </h2>
 <div align = "left">
-<img src = "https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=keras&logoColor=red" height = "30" />
+<img src = "https://img.shields.io/badge/Tableau-20232A?&style=for-the-badge&logo=tableau" height = "30" />
 <img src = "https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=orange" height = "30" />
+<img src = "https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=keras&logoColor=red" height = "30" />
 <img src = "https://img.shields.io/badge/scikit_learn-20232A?style=for-the-badge&logo=scikit-learn&logoColor=blue" height = "30" />
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height = "30" />
 <img src = "https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=green" height = "30" />
@@ -32,11 +28,16 @@ My research is in the field of **Computer Vision and Image processing**.
 <!--<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/> -->
 </p>
 
-<h2> Contributions </h2>
+<details>
+  <summary><h2> Contributions </h2></summary>
 
 <div align = "center">  
 <img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
 </div>
+</details>
+  
+<h4 align  = "left">To have some more insights, check out my portfolio ...</h4>
+<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&logo=githubsponsors&logoColor=white" height = "30" /></a>
 
 
 <!--
