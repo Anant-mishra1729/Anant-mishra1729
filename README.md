@@ -6,20 +6,12 @@
 
 <h2>Tech-stack </h2>
 <div align = "left">
-<img src = "https://img.shields.io/badge/Tableau-20232A?&style=for-the-badge&logo=tableau" height = "30" />
-<img src = "https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=orange" height = "30" />
-<img src = "https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=keras&logoColor=red" height = "30" />
-<img src = "https://img.shields.io/badge/scikit_learn-20232A?style=for-the-badge&logo=scikit-learn&logoColor=blue" height = "30" />
-<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height = "30" />
-<img src = "https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=green" height = "30" />
-<img src = "https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=white" height = "30" />
-<img src = "https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" height = "30" />
-<img src = "https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height = "30" />
-<img src = "https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=orange" height = "30" />
-<img src = "https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=blue" height = "30" />
-<img src = "https://img.shields.io/badge/Django-20232A?&style=for-the-badge&logo=django&logoColor=green" height = "30" />
-<img src = "https://img.shields.io/badge/Flutter-20232A?&style=for-the-badge&logo=flutter&logoColor=skyblue" height = "30" />
+<!-- <picture> -->
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,cpp,python,flutter,flask,django,nodejs,react,js,html,css,mysql,mongodb&theme=dark"> -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,cpp,python,flutter,flask,django,nodejs,react,js,html,css,mysql,mongodb&theme=dark"/>
+<!-- </picture> -->
 </div>
+
 
 <h2> Github Stats </h2>
 <div align = "center">
@@ -31,8 +23,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width = "49%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default&date_format=M%20j%5B%2C%20Y%5D" width = "49%"/>
 </picture>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/> -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/> -->
 </div>
 
 <details>
@@ -50,7 +40,22 @@
 
 
 <!-- Further Modifications -->
-<!--<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/> -->
+
+<!-- <img src = "https://img.shields.io/badge/Tableau-20232A?&style=for-the-badge&logo=tableau" height = "30" />
+<img src = "https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=orange" height = "30" />
+<img src = "https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=keras&logoColor=red" height = "30" />
+<img src = "https://img.shields.io/badge/scikit_learn-20232A?style=for-the-badge&logo=scikit-learn&logoColor=blue" height = "30" />
+<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height = "30" />
+<img src = "https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=green" height = "30" />
+<img src = "https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=white" height = "30" />
+<img src = "https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" height = "30" />
+<img src = "https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height = "30" />
+<img src = "https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=orange" height = "30" />
+<img src = "https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=blue" height = "30" />
+<img src = "https://img.shields.io/badge/Django-20232A?&style=for-the-badge&logo=django&logoColor=green" height = "30" />
+<img src = "https://img.shields.io/badge/Flutter-20232A?&style=for-the-badge&logo=flutter&logoColor=skyblue" height = "30" /> -->
+ 
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/> -->
 
 <!-- <h4 align  = "left">To have some more insights, check out my portfolio ...</h4>
 <a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&logo=githubsponsors&logoColor=white" height = "30" /></a> -->
