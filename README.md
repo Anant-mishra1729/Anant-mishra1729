@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20Traveller!&fontAlign=50&fontAlignY=40&color=gradient" width = "100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20Traveller!&fontAlign=50&fontAlignY=40&color=gradient" width = "100%"/> -->
 <h2 align ="left">Welcome to my profile, I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2>
 
 * :telescope: Currently working on **Finger Spell**, an ISL interpreter.
