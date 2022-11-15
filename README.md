@@ -1,8 +1,8 @@
 <h2 align ="left">Hi Traveller! I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2>
 
-* :telescope: Currently working on Finger Spell
-* :seedling: Learning api integration
-* :dancers: Looking to collaborate on any pro-bono data science projects
+* :telescope: Currently working on **Finger Spell**, an ISL interpreter.
+* :seedling: Learning API integration.
+* :dancers: Looking to collaborate on any pro-bono data science projects.
 * 👽 Fun fact ~ Change your github theme and reload this profile! 
 
 <h2>Tech-stack </h2>
