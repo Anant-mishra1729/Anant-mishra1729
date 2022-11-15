@@ -1,10 +1,10 @@
-<h2 align ="left">Hi Traveller! I'm <a href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2>
+<h2 align ="left">Hi Traveller! I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2>
 
 * :telescope: Currently working on Finger Spell
 * :seedling: Learning api integration
 * :dancers: Looking to collaborate on any pro-bono data science projects
 
-<h2>Tech Stack </h2>
+<h2>Tech-stack </h2>
 <div align = "left">
 <img src = "https://img.shields.io/badge/Tableau-20232A?&style=for-the-badge&logo=tableau" height = "30" />
 <img src = "https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=orange" height = "30" />
@@ -23,17 +23,27 @@
 
 <h2> Github Stats </h2>
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" width = "49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=default" alt="Anant-mishra1729" width = "49%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width = "49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default&date_format=M%20j%5B%2C%20Y%5D" width = "49%"/>
+</picture>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/> -->
 </div>
 
 <details>
 <summary><h2>&nbsp;A year in recap... ⏱️</h2></summary>
 <div align = "center">  
+<kbd>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
   <img alt="Contributions Light Mode" src="profile-3d-contrib/profile-green-animate.svg">
 </picture>
+  </kbd>
 </details>
   
   
