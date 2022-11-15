@@ -1,8 +1,8 @@
-<h1 align ="left">Hi Traveller! I'm <a href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "35"/></h1>
+<h2 align ="left">Hi Traveller! I'm <a href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2>
 
-* :telescope: I’m currently working on Finger Spell
-* :seedling: I’m currently learning api integration
-* :dancers: I’m looking to collaborate on any pro-bono data science projects
+* :telescope: Currently working on Finger Spell
+* :seedling: Learning api integration
+* :dancers: Looking to collaborate on any pro-bono data science projects
 
 <h2>Tech Stack </h2>
 <div align = "left">
@@ -22,13 +22,13 @@
 </div>
 
 <h2> Github Stats </h2>
-<p align = "center">
+<div align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
-</p>
+</div>
 
 <details>
-  <summary><h2>Contribution summary... </h2></summary>
+<summary><h2>&nbsp;A year in recap... ⏱️</h2></summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
