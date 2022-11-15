@@ -4,7 +4,7 @@
 * :seedling: I’m currently learning api integration
 * :dancers: I’m looking to collaborate on any pro-bono data science projects
 
-<h2>Tech & Tools </h2>
+<h2>Tech Stack </h2>
 <div align = "left">
 <img src = "https://img.shields.io/badge/Tableau-20232A?&style=for-the-badge&logo=tableau" height = "30" />
 <img src = "https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=orange" height = "30" />
@@ -25,28 +25,23 @@
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" alt="Anant-mishra1729" width = "49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anant-mishra1729" width = "49%"/>
-<!--<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/> -->
 </p>
 
 <details>
-  <summary><h2>&nbsp;Contributions </h2></summary>
-
+  <summary><h2>Contribution summary... </h2></summary>
 <div align = "center">  
-<!-- <img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
-</div>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark">
-  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+  <img alt="Contributions Light Mode" src="profile-3d-contrib/profile-green-animate.svg">
 </picture>
-</a>
-
-  
-  
 </details>
+  
+  
 
 
 <!-- Further Modifications -->
+<!--<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/> -->
+
 <!-- <h4 align  = "left">To have some more insights, check out my portfolio ...</h4>
 <a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&logo=githubsponsors&logoColor=white" height = "30" /></a> -->
 
