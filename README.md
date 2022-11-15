@@ -32,10 +32,21 @@
   <summary><h2>&nbsp;Contributions </h2></summary>
 
 <div align = "center">  
-<img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
+<!-- <img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
 </div>
-</details>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default">
+</picture>
+</a>
+
   
+  
+</details>
+
+
+<!-- Further Modifications -->
 <!-- <h4 align  = "left">To have some more insights, check out my portfolio ...</h4>
 <a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&logo=githubsponsors&logoColor=white" height = "30" /></a> -->
 
