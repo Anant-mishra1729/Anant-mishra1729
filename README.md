@@ -1,10 +1,10 @@
-<h1 align ="left">Hi Traveller! I'm <a href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "" width = "35"/></h1>
+<h1 align ="left">Hi Traveller! I'm <a href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "35"/></h1>
 
 * :telescope: I’m currently working on Finger Spell
 * :seedling: I’m currently learning api integration
 * :dancers: I’m looking to collaborate on any pro-bono data science projects
 
-<h2>Language and tools </h2>
+<h2>Tech & Tools </h2>
 <div align = "left">
 <img src = "https://img.shields.io/badge/Tableau-20232A?&style=for-the-badge&logo=tableau" height = "30" />
 <img src = "https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=orange" height = "30" />
@@ -29,15 +29,15 @@
 </p>
 
 <details>
-  <summary><h2> Contributions </h2></summary>
+  <summary><h2>&nbsp;Contributions </h2></summary>
 
 <div align = "center">  
 <img src = "profile-3d-contrib/profile-night-view.svg" align = "center" />
 </div>
 </details>
   
-<h4 align  = "left">To have some more insights, check out my portfolio ...</h4>
-<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&logo=githubsponsors&logoColor=white" height = "30" /></a>
+<!-- <h4 align  = "left">To have some more insights, check out my portfolio ...</h4>
+<a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&logo=githubsponsors&logoColor=white" height = "30" /></a> -->
 
 
 <!--
