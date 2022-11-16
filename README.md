@@ -4,7 +4,7 @@
 * :telescope: Currently working on **Finger Spell**, an ISL interpreter.
 * :seedling: Learning API integration.
 * :dancers: Looking to collaborate on any pro-bono data science projects.
-* 👽 **Fun fact ~ Change your github theme and reload this profile!**
+* 👽 **Fun fact ~ Change your github theme and see this readme change it's colors!**
 
 <h2>Tech-stack </h2>
 <div align = "left">
