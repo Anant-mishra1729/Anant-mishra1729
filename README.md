@@ -28,7 +28,7 @@
 </div>
 
 <details>
-<summary><h2>&nbsp;A year in recap... ⏱️</h2></summary>
+<summary><h2>&nbsp;A year recapped... ⏱️</h2></summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
