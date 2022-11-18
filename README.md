@@ -3,8 +3,8 @@
 
 * :telescope: Currently working on **Finger Spell**, an ISL interpreter.
 * :seedling: Learning API integration.
-* :dancers: Looking to collaborate on any pro-bono data science projects.
-* 👽 **Fun fact ~ Change your github theme and see this readme change its colors!**
+* :dancers: Looking to collaborate on any pro-bono data science project.
+* 👽 **Fun fact ~ Swith your github theme and see this readme change its colors!**
 
 <h2>Tech-stack </h2>
 <div align = "left">
