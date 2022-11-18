@@ -1,12 +1,13 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20Traveller!&fontAlign=50&fontAlignY=40&color=gradient" width = "100%"/> -->
 <h2 align ="left">Welcome to my profile, I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2>
 
+[![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
+
+
 * :telescope: Currently working on **Finger Spell**, an ISL interpreter.
 * :seedling: Learning API integration.
 * :dancers: Looking to collaborate on any pro-bono data science project.
 * 👽 **Fun fact ~ Swith your github theme and see this readme change its colors!**
-
-[![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
 
 
 <h2>Tech-stack </h2>
