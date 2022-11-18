@@ -6,7 +6,7 @@
 
 * :telescope: Currently working on **Finger Spell**, an ISL interpreter.
 * :seedling: Learning API integration.
-* :dancers: Looking to collaborate on any pro-bono data science project.
+* 🤝 Looking to collaborate on any pro-bono data science project.
 * 👽 **Fun fact ~ Swith your github theme and see this readme change its colors!**
 
 
