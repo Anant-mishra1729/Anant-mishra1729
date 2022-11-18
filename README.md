@@ -6,6 +6,9 @@
 * :dancers: Looking to collaborate on any pro-bono data science project.
 * 👽 **Fun fact ~ Swith your github theme and see this readme change its colors!**
 
+[![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
+
+
 <h2>Tech-stack </h2>
 <div align = "left">
 <!-- <picture> -->
