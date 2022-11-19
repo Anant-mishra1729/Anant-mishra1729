@@ -1,9 +1,6 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20Traveller!&fontAlign=50&fontAlignY=40&color=gradient" width = "100%"/> -->
 <h2 align ="left">Welcome to my profile, I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2>
 
-[![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
-
-
 * :telescope: Currently working on **Finger Spell**, an ISL interpreter.
 * :seedling: Learning API integration.
 * 🤝 Looking to collaborate on any pro-bono data science project.
@@ -31,8 +28,13 @@
 </picture>
 </div>
 
+<!-- <details>
+
+[![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
+
+</details> -->
 <details>
-<summary><h2>&nbsp;A year recapped... ⏱️</h2></summary>
+<summary><h2>&nbsp;<img src = "https://media4.giphy.com/media/AE08cMQiBbiQ1phucO/giphy.gif?cid=ecf05e47g6gc70v3zazu62lk23ar5uz70pj7fhjz6fyap4yi&rid=giphy.gif&ct=s" width = 35 /> Year in review... </h2></summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
