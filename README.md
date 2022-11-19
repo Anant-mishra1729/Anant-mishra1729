@@ -34,7 +34,7 @@
 
 </details> -->
 <details>
-<summary><h2>&nbsp;<img src = "https://media4.giphy.com/media/AE08cMQiBbiQ1phucO/giphy.gif?cid=ecf05e47g6gc70v3zazu62lk23ar5uz70pj7fhjz6fyap4yi&rid=giphy.gif&ct=s" width = 35 /> Year in review... </h2></summary>
+<summary><h2>&nbsp; Year in review... ⏱️</h2></summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
