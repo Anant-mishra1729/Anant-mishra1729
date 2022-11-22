@@ -19,12 +19,19 @@
 <h2> Github Stats </h2>
 <div align = "center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" width = "49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=default" alt="Anant-mishra1729" width = "49%"/>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width = "49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default&date_format=M%20j%5B%2C%20Y%5D" width = "49%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight" width = "49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
 </picture>
 </div>
 
