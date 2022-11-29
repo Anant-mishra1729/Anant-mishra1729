@@ -4,7 +4,7 @@
 * :telescope: Currently working on **Finger Spell**, an ISL interpreter.
 * :seedling: Learning API integration.
 * 🤝 Looking to collaborate on any pro-bono data science project.
-* 👽 **Fun fact ~ Swith your github theme and see this readme change its colors!**
+* 👽 **Fun fact ~ Swith your github theme and watch this readme change its colors!**
 * 🌌 Talking about hobbies, I love **Stargazing** and ♟️
 
 
