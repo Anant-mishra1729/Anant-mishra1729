@@ -5,7 +5,7 @@
 * :seedling: Learning API integration.
 * 🤝 Looking to collaborate on any pro-bono data science project.
 * 👽 **Fun fact ~ Swith your github theme and see this readme change its colors!**
-* 🌌 I love **Stargazing...**
+* 🌌 Talking about hobbies, I love **Stargazing** and ♟️
 
 
 <h2>Tech-stack </h2>
