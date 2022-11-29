@@ -5,7 +5,7 @@
 * :seedling: Learning API integration.
 * 🤝 Looking to collaborate on any pro-bono data science project.
 * 👽 **Fun fact ~ Swith your github theme and see this readme change its colors!**
-* 🌠 I love **Stargazing...**
+* 🌌 I love **Stargazing...**
 
 
 <h2>Tech-stack </h2>
@@ -25,7 +25,7 @@
   media="(prefers-color-scheme: dark)" width = "49%"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width = "49%"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" width = "49%"/>
