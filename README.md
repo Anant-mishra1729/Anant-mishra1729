@@ -37,19 +37,15 @@
 </div>
 
 <details>
- <summary><h3>&nbsp; Year in Review... ⏱️</h3></summary>
+ <img src = "https://holopin.me/amish1729">
+<hr> 
+ <summary><h3>&nbsp; Holopin + Year in Review... ⏱️</h3></summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
   <img alt="Contributions Light Mode" src="profile-3d-contrib/profile-green-animate.svg">
 </picture>
 </details>
-
-<hr>
- 
-[![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
-
- <hr>
 
 
  ```javascript
