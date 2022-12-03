@@ -8,7 +8,7 @@
 * 🌌 Talking about hobbies, I love **Stargazing** and playing ♟️
  
 
-<h2>Tech-stack </h2>
+<h3>Tech-stack </h3>
 <div align = "left">
 <!-- <picture> -->
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,cpp,python,flutter,flask,django,nodejs,react,js,html,css,mysql,mongodb&theme=dark"> -->
@@ -17,7 +17,7 @@
 </div>
 
 
-<h2> Github Stats </h2>
+<h3> Github Stats </h3>
 <div align = "center">
 <picture>
 <source 
@@ -42,7 +42,7 @@
 
 </details> -->
 <details>
-<summary><h2>&nbsp; A year in review... ⏱️</h2></summary>
+<summary><h3>&nbsp; A year in review... ⏱️</h3></summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
@@ -57,7 +57,7 @@
  
 [![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
 
-**Checkout my projects, hope you wanna 🍴 or ⭐ them :)**
+**You checkout my projects here, if you want you can 🍴 or ⭐ them :)**
 
 <!-- Further Modifications -->
 
