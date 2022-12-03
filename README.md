@@ -17,7 +17,7 @@
 </div>
 
 
-<h3> Github Stats </h3>
+<h3> Github stats </h3>
 <div align = "center">
 <picture>
 <source 
@@ -36,7 +36,8 @@
 </picture>
 </div>
 
-<h3>&nbsp; Year in Review... ⏱️</h3>
+<details>
+ <summary><h3>&nbsp; Year in Review... ⏱️</h3></summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
@@ -44,14 +45,29 @@
 </picture>
 </details>
 
-#### ❤️ An excerpt from my diary
-  <i>&nbsp;Everynight in the light of stars, we see our forgotten past...</i> 
-
- <br>
+<hr>
  
 [![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
 
-**Hey! checkout my projects here, if you want you can 🍴 or ⭐ them :)**
+ <hr>
+
+
+ ```javascript
+if (this.isAwesome()) {
+  support(⭐); // consider leaving a star
+}
+
+fork(🖥️) && contribute(🚀); // raise your PR to make it better
+```
+
+ 
+ <div align = "center">
+ <h3>❤️ An excerpt from my diary</h3>
+  <i>&nbsp;Everynight in the light of stars, we see our forgotten past...</i> 
+ </div>
+ 
+
+<!-- **Hey! checkout my projects here, if you want you can 🍴 or ⭐ them :)** -->
 
 <!-- Further Modifications -->
 
