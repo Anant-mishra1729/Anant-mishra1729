@@ -8,6 +8,9 @@
 * 🌌 Talking about hobbies, I love **Stargazing** and playing ♟️
 
 
+#### ❤️ *An excerpt from my diary*
+  <i>&nbsp;Everynight in the light of stars, we see our forgotten past...</i>  
+
 <h2>Tech-stack </h2>
 <div align = "left">
 <!-- <picture> -->
@@ -50,9 +53,6 @@
   <img alt="Contributions Light Mode" src="profile-3d-contrib/profile-green-animate.svg">
 </picture>
 </details>
-  
-#### ❤️ *An excerpt from my diary*
-  <i>&nbsp;Everynight in the light of stars, we see our forgotten past...</i>  
 
 
 <!-- Further Modifications -->
