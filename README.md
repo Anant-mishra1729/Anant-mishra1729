@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20Traveller!%20I'm%20Anant&fontAlign=40&fontAlignY=31&color=0:00c7ad,75:6e97fd,100:d470f3&animation=fadeIn&fontSize=50&fontColor=ffffff&desc=Let%20me%20share%20something%20about%20me!&descSize=20&descAlignY=50&descAlign=70" width = "100%"/>
 <!-- <h2 align ="left">Welcome to my profile, I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2> -->
 
+## About me ☕
 * :telescope: I'm Currently working on **Finger Spell**, an ISL interpreter.
 * :seedling: Learning API integration.
 * 🤝 Looking to collaborate on any pro-bono data science project.
