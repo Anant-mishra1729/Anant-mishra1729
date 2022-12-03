@@ -64,7 +64,7 @@ fork(🖥️) && contribute(🚀); // raise your PR to make it better
   <i>&nbsp;Everynight in the light of stars, we see our forgotten past...</i> 
  </div>
 
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient" width = "100%"/>
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:d470f3" width = "100%"/>
 
 
 <!-- **Hey! checkout my projects here, if you want you can 🍴 or ⭐ them :)** -->
