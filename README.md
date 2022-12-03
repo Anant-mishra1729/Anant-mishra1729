@@ -53,7 +53,11 @@
 #### ❤️ An excerpt from my diary
   <i>&nbsp;Everynight in the light of stars, we see our forgotten past...</i> 
 
+ <br>
+ 
 [![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
+
+**Checkout my projects, hope you 🍴 or ⭐ them :)**
 
 <!-- Further Modifications -->
 
