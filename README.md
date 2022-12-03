@@ -49,7 +49,7 @@
 </picture>
 </details>
 
- <h3> Share your love for Opensource ❤️</h3>
+ <h3> Share your love &nbsp;🤟</h3>
  
  ```javascript
 if (this.isAwesome()) {
