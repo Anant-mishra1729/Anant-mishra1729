@@ -57,7 +57,7 @@
  
 [![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
 
-**You checkout my projects here, if you want you can 🍴 or ⭐ them :)**
+**Hey! checkout my projects here, if you want you can 🍴 or ⭐ them :)**
 
 <!-- Further Modifications -->
 
