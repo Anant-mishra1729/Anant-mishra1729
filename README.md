@@ -6,10 +6,7 @@
 * 🤝 Looking to collaborate on any pro-bono data science project.
 * 👽 **Fun fact ~ Swith your github theme and watch this readme change its colors!**
 * 🌌 Talking about hobbies, I love **Stargazing** and playing ♟️
-
-
-#### ❤️ *An excerpt from my diary*
-  <i>&nbsp;Everynight in the light of stars, we see our forgotten past...</i>  
+ 
 
 <h2>Tech-stack </h2>
 <div align = "left">
@@ -42,11 +39,10 @@
 
 <!-- <details>
 
-[![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
 
 </details> -->
 <details>
-<summary><h2>&nbsp; Year in review... ⏱️</h2></summary>
+<summary><h2>&nbsp; A year in review... ⏱️</h2></summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
@@ -54,6 +50,10 @@
 </picture>
 </details>
 
+#### ❤️ An excerpt from my diary
+  <i>&nbsp;Everynight in the light of stars, we see our forgotten past...</i> 
+
+[![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
 
 <!-- Further Modifications -->
 
