@@ -36,10 +36,12 @@
 </picture>
 </div>
 
-<details>
+<h3>Holopin dashboard</h3>
  <img src = "https://holopin.me/amish1729">
+
+<details>
 <hr> 
- <summary><h3>&nbsp; Holopin + Year in Review... ⏱️</h3></summary>
+ <summary><h3>&nbsp; Year in Review... ⏱️</h3></summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
@@ -58,10 +60,12 @@ fork(🖥️) && contribute(🚀); // raise your PR to make it better
 
  
  <div align = "center">
- <h3>❤️ An excerpt from my diary</h3>
+ <h3> An excerpt from my diary</h3>
   <i>&nbsp;Everynight in the light of stars, we see our forgotten past...</i> 
  </div>
- 
+
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient" width = "100%"/>
+
 
 <!-- **Hey! checkout my projects here, if you want you can 🍴 or ⭐ them :)** -->
 
