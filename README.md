@@ -36,11 +36,11 @@
 </picture>
 </div>
 
-<h3>Holopin dashboard</h3>
+<!-- <details>
+<summary><h3>Holopin dashboard</h3></summary>
  <img src = "https://holopin.me/amish1729">
-
+</details> -->
 <details>
-<hr> 
  <summary><h3>&nbsp; Year in Review... ⏱️</h3></summary>
 <div align = "center">  
 <picture>
@@ -60,8 +60,8 @@ fork(🖥️) && contribute(🚀); // raise your PR to make it better
 
  
  <div align = "center">
- <h3> An excerpt from my diary</h3>
-  <i>&nbsp;Everynight in the light of stars, we see our forgotten past...</i> 
+ <h3> :book: &nbsp; An excerpt from my diary</h3>
+  <i>&nbsp;Everynight in the light of stars, we can see our forgotten past...</i> 
  </div>
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:d470f3" width = "100%"/>
