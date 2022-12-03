@@ -36,6 +36,7 @@
 </picture>
 </div>
 
+
 <!-- <details>
 
 [![@amish1729's Holopin board](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
@@ -50,7 +51,8 @@
 </picture>
 </details>
   
-  
+#### ❤️ *An excerpt from my diary*
+  <i>&nbsp;Everynight in the light of stars, we see our forgotten past...</i>  
 
 
 <!-- Further Modifications -->
