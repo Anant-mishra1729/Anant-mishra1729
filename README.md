@@ -49,7 +49,8 @@
 </picture>
 </details>
 
-
+ <h3> Share your love for Opensource ❤️</h3>
+ 
  ```javascript
 if (this.isAwesome()) {
   support(⭐); // consider leaving a star
