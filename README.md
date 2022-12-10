@@ -3,8 +3,7 @@
 
 <h2>Let's begin with an intro... 📜 </h2>
 <u>
-<!--  <img src = "https://media2.giphy.com/media/3UNmrmCvRCrLWh06kM/giphy.gif?cid=ecf05e47g3axgriw3nih5jmvj65p5tc1bg77y6xkbb6e58zb&rid=giphy.gif&ct=s" align = "right" height = "190"/> -->
- <img src = "https://media3.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e474twi8iwbwfu0aeeuntefm4xe7v91hqwg2q5v1pi9&rid=giphy.gif&ct=g" align = "right" height = "380"/>
+ <img src = "https://media3.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e474twi8iwbwfu0aeeuntefm4xe7v91hqwg2q5v1pi9&rid=giphy.gif&ct=g" align = "right" height = "390"/>
  <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
  <li>:seedling:&ensp;Learning API integration.</li>
  <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
