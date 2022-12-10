@@ -8,14 +8,14 @@
  <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
  <li>👽&ensp;Fun fact ~ Swith your github theme and watch this readme change its colors!</li>
  <li>🌌&ensp;Talking about hobbies, I love Stargazing and Chess.</li>
- <li>:brain:&ensp;Ask me about anything related to Datascience and Deep learning.</li>
+ <li>:brain:&ensp;Ask me anything related to Datascience and Deep learning.</li>
 </u>
 
 <h3>Tech-stack </h3>
 <div align = "left">
 <!-- <picture> -->
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,cpp,python,flutter,flask,django,nodejs,react,js,html,css,mysql,mongodb&theme=dark"> -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,cpp,python,flutter,flask,django,nodejs,react,js,html,css,mysql,mongodb&theme=dark" height = 35/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux&theme=dark" height = 35/>
 <!-- </picture> -->
 </div>
 
