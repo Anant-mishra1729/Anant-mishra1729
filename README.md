@@ -1,13 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20traveller!%20I'm%20Anant&fontAlign=40&fontAlignY=31&color=0:00c7ad,75:6e97fd,100:d470f3&animation=fadeIn&fontSize=50&fontColor=ffffff&desc=Let%20me%20share%20something%20with%20you!&descSize=20&descAlignY=50&descAlign=70" width = "100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20traveller!%20I'm%20Anant&fontAlign=40&fontAlignY=31&color=0:00c7ad,75:6e97fd,100:d470f3&animation=fadeIn&fontSize=50&fontColor=ffffff&desc=It's%20nice%20to%20meet%20you%20here!&descSize=20&descAlignY=50&descAlign=70" width = "100%"/>
 <!-- <h2 align ="left">Welcome to my profile, I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2> -->
 
-## About me 📜
-* :telescope: I'm Currently working on **Finger Spell**, an ISL interpreter.
-* :seedling: Learning API integration.
-* 🤝 Looking to collaborate on any pro-bono data science project.
-* 👽 **Fun fact ~ Swith your github theme and watch this readme change its colors!**
-* 🌌 Talking about hobbies, I love **Stargazing** and playing ♟️
- 
+<h2>About me 📜</h2>
+<u>
+ <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
+ <li>:seedling:&ensp;Learning API integration.</li>
+ <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
+ <li>👽&ensp;Fun fact ~ Swith your github theme and watch this readme change its colors!</li>
+ <li>🌌&ensp;Talking about hobbies, I love Stargazing and Chess.</li>
+ <li>:brain:&ensp;Ask me about anything related to Datascience and Deep learning.</li>
+</u>
 
 <h3>Tech-stack </h3>
 <div align = "left">
@@ -42,7 +44,7 @@
  <img src = "https://holopin.me/amish1729">
 </details> -->
 <details>
- <summary><h3>&nbsp; Year in Review... ⏱️</h3></summary>
+ <summary><h3>&nbsp; Click for year in review... ⏱️</h3></summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
