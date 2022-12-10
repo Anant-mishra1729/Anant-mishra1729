@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20traveller!%20I'm%20Anant&fontAlign=40&fontAlignY=31&color=0:00c7ad,75:6e97fd,100:d470f3&animation=fadeIn&fontSize=50&fontColor=ffffff&desc=It's%20nice%20to%20meet%20you%20here!&descSize=20&descAlignY=50&descAlign=70" width = "100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20traveller!%20I'm%20Anant&fontAlign=40&fontAlignY=31&color=0:00c7ad,75:6e97fd,100:5d52ac&animation=fadeIn&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20my%20profile!&descSize=20&descAlignY=50&descAlign=80" width = "100%"/>
 <!-- <h2 align ="left">Welcome to my profile, I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2> -->
 
 <h2>About me 📜</h2>
@@ -68,7 +68,7 @@ fork(🖥️) && contribute(🚀); // raise your PR to make it better
   <i>&nbsp;Every night in the light of stars, what we see is the obliterated part of this universe...</i> 
  </div>
 
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:d470f3" width = "100%"/>
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/>
 
 
 <!-- **Hey! checkout my projects here, if you want you can 🍴 or ⭐ them :)** -->
