@@ -3,11 +3,11 @@
 
 <h2>Let's begin with an intro... </h2>
 <u>
- <img src = "https://media3.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e474twi8iwbwfu0aeeuntefm4xe7v91hqwg2q5v1pi9&rid=giphy.gif&ct=g" align = "right" height = "402"/>
+ <img src = "https://media3.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e474twi8iwbwfu0aeeuntefm4xe7v91hqwg2q5v1pi9&rid=giphy.gif&ct=g" align = "right" height = "400"/>
  <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
  <li>:seedling:&ensp;Learning API integration.</li>
  <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
- <li>👽&ensp;Fun fact: Swith your github theme and watch this readme change its colors!</li>
+ <li>👽&ensp;Swith your github theme and this readme will change its!</li>
  <li>🌌&ensp;Talking about hobbies, I love Stargazing and Chess.</li>
  <li>:brain:&ensp;Ask me any stuff related to Data Science and Deep learning.</li>
 </u>
