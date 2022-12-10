@@ -47,7 +47,7 @@
  <summary><h3>&nbsp; Click for year in review... ⏱️</h3></summary>
 <div align = "center">  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
   <img alt="Contributions Light Mode" src="profile-3d-contrib/profile-green-animate.svg">
 </picture>
 </details>
