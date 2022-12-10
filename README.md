@@ -1,26 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20traveller!%20I'm%20Anant&fontAlign=40&fontAlignY=31&color=0:00c7ad,75:6e97fd,100:5d52ac&animation=fadeIn&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20my%20profile!&descSize=20&descAlignY=50&descAlign=80" width = "100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20traveller!%20I'm%20Anant&fontAlign=40&fontAlignY=31&color=0:00c7ad,75:6e97fd,100:5d52ac&animation=fadeIn&fontSize=50&fontColor=ffffff&desc=It's%20good%20to%20have%20%you%20here!&descSize=20&descAlignY=50&descAlign=70" width = "100%"/>
 <!-- <h2 align ="left">Welcome to my profile, I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2> -->
 
-<h2>About me 📜</h2>
+<h2>Let's begin with an intro... 📜</h2>
 <u>
  <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
  <li>:seedling:&ensp;Learning API integration.</li>
  <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
- <li>👽&ensp;Fun fact ~ Swith your github theme and watch this readme change its colors!</li>
+ <li>👽&ensp;Fun fact: Swith your github theme and watch this readme change its colors!</li>
  <li>🌌&ensp;Talking about hobbies, I love Stargazing and Chess.</li>
- <li>:brain:&ensp;Ask me anything related to Datascience and Deep learning.</li>
+ <li>:brain:&ensp;Ask me any stuff related to Data Science and Deep learning.</li>
 </u>
 
-<h3>Tech-stack </h3>
+<h2>Learning new things 🛠️</h2>
 <div align = "left">
 <!-- <picture> -->
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,cpp,python,flutter,flask,django,nodejs,react,js,html,css,mysql,mongodb&theme=dark"> -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux&theme=dark" height = 35/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux&theme=dark" height = 45/> 
 <!-- </picture> -->
 </div>
 
 
-<h3> Github stats </h3>
+<h2> Github stats </h2>
 <div align = "center">
 <picture>
 <source 
@@ -65,7 +65,7 @@ fork(🖥️) && contribute(🚀); // raise your PR to make it better
  
  <div align = "center">
  <h3> :book: &nbsp; An excerpt from my diary</h3>
-  <i>&nbsp;Every night in the light of stars, what we see is the obliterated part of this universe...</i> 
+  <i>&nbsp;"Every night in the light of stars, what we see is the obliterated part of this universe..."</i> 
  </div>
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/>
