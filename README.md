@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20traveller!%20I'm%20Anant&fontAlign=40&fontAlignY=31&color=0:00c7ad,75:6e97fd,100:5d52ac&animation=fadeIn&fontSize=50&fontColor=ffffff&desc=It's%20good%20to%20have%20%you%20here!&descSize=20&descAlignY=50&descAlign=70" width = "100%"/>
 <!-- <h2 align ="left">Welcome to my profile, I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2> -->
 
+<img src = "https://media3.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e474twi8iwbwfu0aeeuntefm4xe7v91hqwg2q5v1pi9&rid=giphy.gif&ct=g" align = "right" height = "400"/>
 <h2>Let's begin with an intro... </h2>
 <u>
- <img src = "https://media3.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e474twi8iwbwfu0aeeuntefm4xe7v91hqwg2q5v1pi9&rid=giphy.gif&ct=g" align = "right" height = "400"/>
  <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
  <li>:seedling:&ensp;Learning API integration.</li>
  <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
@@ -11,7 +11,6 @@
  <li>🌌&ensp;Talking about hobbies, I love Stargazing and Chess.</li>
  <li>:brain:&ensp;Ask me any stuff related to Data Science and Deep learning.</li>
 </u>
-
 <h2>I've worked with </h2>
 <div align = "left">
 <!-- <picture> -->
