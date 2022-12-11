@@ -44,7 +44,7 @@
  <img src = "https://holopin.me/amish1729">
 </details> -->
 <details open>
- <summary><h3>&nbsp; Year in review... ⏱️</h3></summary>
+ <summary><h2>&nbsp; Year in review... ⏱️</h2></summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
