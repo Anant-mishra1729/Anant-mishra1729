@@ -44,14 +44,12 @@
  <img src = "https://holopin.me/amish1729">
 </details> -->
 <h2>Year in review... ⏱️</h2>
-<details open>
- <summary>Past 365 days </summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
   <img alt="Contributions Light Mode" src="profile-3d-contrib/profile-green-animate.svg">
 </picture>
-</details>
+</div>
 
  <h3> Share your love &nbsp;🤟</h3>
  
