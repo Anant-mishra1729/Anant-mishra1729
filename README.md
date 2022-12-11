@@ -43,8 +43,9 @@
 <summary><h3>Holopin dashboard</h3></summary>
  <img src = "https://holopin.me/amish1729">
 </details> -->
+<h2>Year in review... ⏱️</h2>
 <details open>
- <summary><h2>&nbsp; Year in review... ⏱️</h2></summary>
+ <summary>Past 365 days </summary>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
@@ -52,7 +53,7 @@
 </picture>
 </details>
 
-<!--  <h3> Share your love &nbsp;🤟</h3>
+ <h3> Share your love &nbsp;🤟</h3>
  
  ```javascript
 if (this.isAwesome()) {
@@ -60,7 +61,7 @@ if (this.isAwesome()) {
 }
 
 fork(🖥️) && contribute(🚀); // raise your PR to make it better
-``` -->
+```
 
  
  <div align = "center">
@@ -70,7 +71,7 @@ fork(🖥️) && contribute(🚀); // raise your PR to make it better
 
 <a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
 
- <p align = "center"><b>Hey! checkout my projects here, if you like, you can 🍴 or ⭐ them :)</b></p>
+<!--  <p align = "center"><b>Hey! checkout my projects here, if you like, you can 🍴 or ⭐ them :)</b></p> -->
 
 
 <!-- Further Modifications -->
