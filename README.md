@@ -5,7 +5,7 @@
 <h2>Let's begin with an intro... </h2>
 <u>
  <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
- <li>:seedling:&ensp;Learning API integration.</li>
+ <li>:seedling:&ensp;Learning "Reinforcement Learning".</li>
  <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
  <li>👽&ensp;Fun fact: This readme can switch themes dynamically.</li>
  <li>🌌&ensp;Talking about hobbies, I love <b>Stargazing and Chess.</b></li>
