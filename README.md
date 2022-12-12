@@ -2,23 +2,19 @@
 <!-- <h2 align ="left">Welcome to my profile, I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2> -->
 <img src ="https://komarev.com/ghpvc/?username=Anant-mishra1729&style=for-the-badge&label=Visitors"/>
 <a href = "https://www.imdb.com/title/tt4158110/"><img src = "https://media3.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e474twi8iwbwfu0aeeuntefm4xe7v91hqwg2q5v1pi9&rid=giphy.gif&ct=g" align = "right" width = "33%"/></a>
-<!-- <img src = "https://media2.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif?cid=ecf05e47ulcpq57ofeij9m3sgjaxrulepridcr7hyciggtdp&rid=giphy.gif&ct=g" align = "right" width = "33%"/> -->
-<!-- <img src = "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align = "right"/> -->
 <h2>Let's begin with an intro... </h2>
 <u>
  <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
  <li>:seedling:&ensp;Learning API integration.</li>
  <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
- <li>👽&ensp;Swith your github theme and this readme will change its!</li>
- <li>🌌&ensp;Talking about hobbies, I love Stargazing and Chess.</li>
- <li>:brain:&ensp;Ask me any stuff related to Data Science and Deep learning.</li>
+ <li>👽&ensp;Fun fact: This readme can switch themes dynamically.</li>
+ <li>🌌&ensp;Talking about hobbies, I love <b>Stargazing and Chess.</b></li>
+ <li>:brain:&ensp;Ask me any stuff related to Data science and Deep learning.</li>
 </u>
+
 <h2>I've worked with </h2>
 <div align = "left">
-<!-- <picture> -->
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,cpp,python,flutter,flask,django,nodejs,react,js,html,css,mysql,mongodb&theme=dark"> -->
 <img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux&theme=dark&perline=8"/> 
-<!-- </picture> -->
 </div>
 
 
@@ -96,10 +92,7 @@ fork(🖥️) && contribute(🚀); // raise your PR to make it better
 <a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&logo=githubsponsors&logoColor=white" height = "30" /></a> -->
 
 
-<!--
-<img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&bg_color=1a1b27&color=628fdb&line=60b4a6&point=ffffff&custom_title=Contribution%20Timeline&hide_border=true&radius=16&area=true&area_color=60b4a6" alt = "Contribution graph"/>
--->
-
+<!-- <img src = "https://activity-graph.herokuapp.com/graph?username=Anant-mishra1729&bg_color=1a1b27&color=628fdb&line=60b4a6&point=ffffff&custom_title=Contribution%20Timeline&hide_border=true&radius=16&area=true&area_color=60b4a6" alt = "Contribution graph"/> -->
 
 <!--  Credits -->
 <!--  Icons : Flaticon -->
