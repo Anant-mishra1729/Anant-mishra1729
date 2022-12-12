@@ -49,15 +49,15 @@
 </picture>
 </div>
 
- <h3> Share your love &nbsp;🤟</h3>
+<!--  <h3> Share your love &nbsp;🤟</h3>
  
  ```javascript
 if (this.isAwesome()) {
-  support(⭐); // consider leaving a star
+  support(⭐);
 }
 
-fork(🖥️) && contribute(🚀); // raise your PR to make it better
-```
+fork(🖥️) && contribute(🚀);
+``` -->
 
  
  <div align = "center">
