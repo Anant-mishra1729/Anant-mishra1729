@@ -9,7 +9,7 @@
  <li>:seedling:&ensp;Learning "Reinforcement Learning".</li>
  <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
  <li>👽&ensp;Fun fact: This readme can switch themes dynamically.</li>
- <li>🌌&ensp;Talking about hobbies, I love <b>Stargazing and Chess + Ricing my linux desktop</b></li>
+ <li>🌌&ensp;Talking about hobbies, I love <b>Stargazing and Chess + Ricing Linux</b></li>
  <li>:brain:&ensp;Ask me any stuff related to Data science and Deep learning.</li>
 </u>
 
