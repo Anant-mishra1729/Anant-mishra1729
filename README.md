@@ -1,7 +1,7 @@
 <a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20coder!%20I'm%20Anant&fontAlign=40&fontAlignY=31&color=0:00c7ad,75:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=It's%20good%20to%20have%20%you%20here!&descSize=20&descAlignY=50&descAlign=70" width = "100%"/></a>
 <!-- <h2 align ="left">Welcome to my profile, I'm <a target = "_blank" href = "https://anant-mishra1729.github.io/portfolio-site/">Anant</a>&nbsp;&nbsp;<img src = "static/wave.gif" alt = "Portfolio" width = "30"/></h2> -->
 <img src ="https://komarev.com/ghpvc/?username=Anant-mishra1729&style=for-the-badge&label=Visitors"/>
-<a href = "https://www.imdb.com/title/tt4158110/"><img src = "https://media3.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e474twi8iwbwfu0aeeuntefm4xe7v91hqwg2q5v1pi9&rid=giphy.gif&ct=g" align = "right" width = "33%"/></a>
+<a href = "https://www.imdb.com/title/tt4158110/"><img src = "https://media3.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e474twi8iwbwfu0aeeuntefm4xe7v91hqwg2q5v1pi9&rid=giphy.gif&ct=g" align = "right" width = "31%"/></a>
 <!-- <a href="https://app.daily.dev/amish1729"><img src="https://api.daily.dev/devcards/d8e7ca8a0edd4aa5800eecaca1778745.png?r=xx6" width="33%" alt="Anant Mishra's Dev Card" align = "right"/></a> -->
 <h2>Let's begin with an intro... </h2>
 <u>
@@ -68,7 +68,6 @@ fork(🖥️) && contribute(🚀);
  <h3> :book: &nbsp; An excerpt from my diary</h3>
   <i>&nbsp;"Every night in the light of stars, what we see is the obliterated part of this universe..."</i> 
  </div>
-
 <a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
 
 <!--  <p align = "center"><b>Hey! checkout my projects here, if you like, you can 🍴 or ⭐ them :)</b></p> -->
@@ -90,7 +89,7 @@ fork(🖥️) && contribute(🚀);
 <img src = "https://img.shields.io/badge/Django-20232A?&style=for-the-badge&logo=django&logoColor=green" height = "30" />
 <img src = "https://img.shields.io/badge/Flutter-20232A?&style=for-the-badge&logo=flutter&logoColor=skyblue" height = "30" /> -->
  
-  <!--<img src="https://github-profile-trophy.vercel.app/?username=Anant-mishra1729&theme=onedark&no-frame=true&no-bg=true" alt = "Anant-mishra1729" height = 150/> -->
+
 
 <!-- <h4 align  = "left">To have some more insights, check out my portfolio ...</h4>
 <a href = "https://anant-mishra1729.github.io/portfolio-site/"><img src = "https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&logo=githubsponsors&logoColor=white" height = "30" /></a> -->
