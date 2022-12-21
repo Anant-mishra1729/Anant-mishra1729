@@ -5,7 +5,7 @@
 <!-- <a href = "https://www.imdb.com/title/tt4158110/"><img src = "https://media3.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e474twi8iwbwfu0aeeuntefm4xe7v91hqwg2q5v1pi9&rid=giphy.gif&ct=g" align = "right" width = "31%"/></a> -->
 <!-- <a href="https://app.daily.dev/amish1729"><img src="https://api.daily.dev/devcards/d8e7ca8a0edd4aa5800eecaca1778745.png?r=3r4" width="33%" alt="Anant Mishra's Dev Card" align = "right"/></a> -->
 <h2>Let's begin with an intro... <img src = "https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width = "50"/></h2>
-<img src = "https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align = "right" width = "350"/>
+<img src = "https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align = "right" width = "400"/>
 <div align = "left">
 <u>
  <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
