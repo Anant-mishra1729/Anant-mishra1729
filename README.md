@@ -8,7 +8,7 @@
 <img src = "https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align = "right" width = "350"/>
 <div align = "left">
 <u>
- <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
+ <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="40" height="40" />&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
  <li>:seedling:&ensp;<b>Reinforcement Learning</b></li>
  <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
  <li>👽&ensp;This readme supports both light and dark mode.</li>
