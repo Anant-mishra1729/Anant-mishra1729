@@ -52,7 +52,7 @@
  
  <div align = "center">
  <h3> :book: &nbsp; An excerpt from my diary &nbsp; :book: </h3>
-  <i>&nbsp;"Every night in the light of stars, what we see is the obliterated part of this universe..."</i> 
+  <i>&nbsp;"Every night in the light of stars, what we see is mostly the obliterated part of this universe..."</i> 
  </div>
 <a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" width = "100%"/></a>
 
