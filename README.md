@@ -43,7 +43,7 @@
 </div>
 
 
-<h2>A year in review... </h2>
+<h2>Past 365 days summarized... </h2>
 <div align = "center">  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
