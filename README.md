@@ -4,8 +4,8 @@
 <img src ="https://komarev.com/ghpvc/?username=Anant-mishra1729&style=for-the-badge&label=Visitors"/>
 <!-- <a href = "https://www.imdb.com/title/tt4158110/"><img src = "https://media3.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif?cid=ecf05e474twi8iwbwfu0aeeuntefm4xe7v91hqwg2q5v1pi9&rid=giphy.gif&ct=g" align = "right" width = "31%"/></a> -->
 <!-- <a href="https://app.daily.dev/amish1729"><img src="https://api.daily.dev/devcards/d8e7ca8a0edd4aa5800eecaca1778745.png?r=3r4" width="33%" alt="Anant Mishra's Dev Card" align = "right"/></a> -->
-<img src = "https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align = "right"/>
 <h2>Let's begin with an intro... <img src = "https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width = "50"/></h2>
+<img src = "https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align = "right" width = "490"/>
 <u>
  <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
  <li>:seedling:&ensp;Learning "Reinforcement Learning".</li>
@@ -14,6 +14,7 @@
  <li>🌌&ensp;Talking about hobbies, I love <b>Stargazing and Chess + <a href = "https://github.com/Anant-mishra1729/Village-Linux-rice">Ricing Linux</a></b></li>
  <li>:brain:&ensp;Ask me any stuff related to Data science and Deep learning.</li>
 </u>
+
 
 <h2>I've worked with </h2>
 <div align = "left">
@@ -51,7 +52,7 @@
 
  
  <div align = "center">
- <h3> :book: &nbsp; An excerpt from my diary</h3>
+ <h3> :book: &nbsp; An excerpt from my diary &nbsp; :book: </h3>
   <i>&nbsp;"Every night in the light of stars, what we see is the obliterated part of this universe..."</i> 
  </div>
 <a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
