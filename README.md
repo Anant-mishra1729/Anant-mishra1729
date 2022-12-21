@@ -19,7 +19,7 @@
 
 <h2>I've worked with <img src = "https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e47ahm3knrn9zdpg5pwf5it0n2ropu4bzygb1ngg7ho&rid=giphy.gif&ct=s" width = "60" /></h2>
 <div align = "left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux&theme=dark&perline=10"/> 
+<img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux&theme=dark&perline=7"/> 
 </div>
 
 
