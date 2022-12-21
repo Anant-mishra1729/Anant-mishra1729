@@ -19,7 +19,7 @@
 
 <h2>I've worked with </h2>
 <div align = "left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux&theme=dark"/> 
+<img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux&theme=dark&perline=8"/> 
 </div>
 
 
