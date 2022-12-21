@@ -6,6 +6,7 @@
 <!-- <a href="https://app.daily.dev/amish1729"><img src="https://api.daily.dev/devcards/d8e7ca8a0edd4aa5800eecaca1778745.png?r=3r4" width="33%" alt="Anant Mishra's Dev Card" align = "right"/></a> -->
 <h2>Let's begin with an intro... <img src = "https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width = "50"/></h2>
 <img src = "https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align = "right" width = "350"/>
+<div align = "left">
 <u>
  <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter.</li>
  <li>:seedling:&ensp;<b>Reinforcement Learning</b></li>
@@ -14,10 +15,11 @@
  <li>:heart:&ensp;I love <b>Stargazing and Chess + <a href = "https://github.com/Anant-mishra1729/Village-Linux-rice">Ricing Linux</a></b></li>
  <li>:brain:&ensp;For more insights plz checkout my <b><a href = "https://anant-mishra1729.github.io/portfolio-site/">Portfolio</a></b></li>
 </u>
+ </div>
 
 <h2>I've worked with <img src = "https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e47ahm3knrn9zdpg5pwf5it0n2ropu4bzygb1ngg7ho&rid=giphy.gif&ct=s" width = "60" /></h2>
 <div align = "left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux&theme=dark&perline=8"/> 
+<img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux&theme=dark&perline=10"/> 
 </div>
 
 
