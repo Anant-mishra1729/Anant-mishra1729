@@ -21,7 +21,7 @@
 </div>
 
 
-<h2> Github stats </h2>
+<h2> Github journey  </h2>
 <div align = "center">
 <picture>
 <source 
