@@ -12,7 +12,7 @@
  <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
  <li>👽&ensp;This readme supports both light and dark mode.</li>
  <li>:heart:&ensp;I love <b>Stargazing and Chess + <a href = "https://github.com/Anant-mishra1729/Village-Linux-rice">Ricing Linux</a></b></li>
- <li>:brain:&ensp;Ask me related to Data science and Deep learning.</li>
+ <li>:brain:&ensp;For more insights plz checkout my <b><a href = "https://anant-mishra1729.github.io/portfolio-site/">Portfolio</a></b></li>
 </u>
 
 <h2>I've worked with <img src = "https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e47ahm3knrn9zdpg5pwf5it0n2ropu4bzygb1ngg7ho&rid=giphy.gif&ct=s" width = "60" /></h2>
