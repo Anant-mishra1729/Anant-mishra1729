@@ -18,10 +18,10 @@
 <img src="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align="right" width="37%" />
  <div>
         <a href="https://github.com/settings/appearance#gh-light-mode-only">
-          <p>🧙&ensp; <b>You're using light mode, this readme supports both :)</b></p>
+          <p>🧙&ensp; <b>You're using light mode, this readme supports dark too :)</b></p>
         </a>
       <a href="https://github.com/settings/appearance#gh-dark-mode-only">
-        <p>🧙&ensp; <b>You're using dark mode, this readme supports both :)</b></p>
+        <p>🧙&ensp; <b>You're using dark mode, this readme supports light too :)</b></p>
       </a>
 <div align="left">
   <u>
