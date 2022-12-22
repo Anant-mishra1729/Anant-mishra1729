@@ -1,6 +1,10 @@
-<a href="https://anant-mishra1729.github.io/portfolio-site/">
+<!-- <a href="https://anant-mishra1729.github.io/portfolio-site/">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=It's%20good%20to%20have%20%you%20here!&descSize=20&descAlignY=50&descAlign=70" width="100%" />
-</a>
+</a> -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=It's%20good%20to%20have%20%you%20here!&descSize=20&descAlignY=50&descAlign=70" width = "100%">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=timeGradient&animation=twinkling&fontSize=50&fontColor=ffffff&desc=It's%20good%20to%20have%20%you%20here!&descSize=20&descAlignY=50&descAlign=70" width = "100%"/>
+</picture>
 
 
 <div align="left">
@@ -62,6 +66,8 @@
     </tr>
     <td>
       <div align  = "center">
+          <b>Random joke to fill this space 🙂</b>
+        <br></br>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight">
           <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&bgColor=%23f6f8fa"/>
@@ -81,7 +87,8 @@
   <div align="center">
     <h3> :book: &nbsp; An excerpt from my diary &nbsp; :book: </h3>
     <i>&nbsp;"Every night in the light of stars, what we see is mostly the obliterated part of this universe..."</i>
-  </div>
-  <a href="https://github.com/Anant-mishra1729?tab=repositories">
-    <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" width="100%" />
-  </a>
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" width = "100%">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient" width = "100%"/>
+</picture>
