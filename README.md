@@ -44,15 +44,23 @@
 </div>
 
 
-<h2>Past 365 days summarized... </h2>
+<h2>History (365 days) + Achievements</h2>
+<table>
+ <tbody>
+  <td>
 <div align = "center">  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
-  <img alt="Contributions Light Mode" src="profile-3d-contrib/profile-season-animate.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" width = "600">
+  <img alt="Contributions Light Mode" src="profile-3d-contrib/profile-season-animate.svg" width = "600">
 </picture>
+ </td>
+   <td>
+    <img src = "https://metrics.lecoq.io/Anant-mishra1729?template=classic&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta" width = "400" align = "center"/>
+  </td>
+ </tbody>
+ </table>
 </div>
 
- 
  <div align = "center">
  <h3> :book: &nbsp; An excerpt from my diary &nbsp; :book: </h3>
   <i>&nbsp;"Every night in the light of stars, what we see is mostly the obliterated part of this universe..."</i> 
