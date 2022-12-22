@@ -1,10 +1,10 @@
-<!-- <a href="https://anant-mishra1729.github.io/portfolio-site/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=It's%20good%20to%20have%20%you%20here!&descSize=20&descAlignY=50&descAlign=70" width="100%" />
-</a> -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=It's%20good%20to%20have%20%you%20here!&descSize=20&descAlignY=50&descAlign=70" width = "100%">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=timeGradient&animation=twinkling&fontSize=50&fontColor=ffffff&desc=It's%20good%20to%20have%20%you%20here!&descSize=20&descAlignY=50&descAlign=70" width = "100%"/>
-</picture>
+<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=timeGradient&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=70#gh-light-mode-only" alt="Header" width = "100%"/>
+</a>
+
+<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=70" alt="Header" width = "100%"/>
+</a>
 
 
 <div align="left">
@@ -88,7 +88,14 @@
     <h3> :book: &nbsp; An excerpt from my diary &nbsp; :book: </h3>
     <i>&nbsp;"Every night in the light of stars, what we see is mostly the obliterated part of this universe..."</i>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" width = "100%">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient" width = "100%"/>
-</picture>
+  
+
+
+<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient#gh-light-mode-only" alt="Footer" width = "100%"/>
+</a>
+
+<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
+</a>
+  
