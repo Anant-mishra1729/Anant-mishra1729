@@ -69,7 +69,7 @@
     <td>
       <div align  = "center">
         <br></br>
-          <b>Random joke to fill this space 🙂</b>
+          <b>🙃 &ensp;Random joke to fill this space&ensp;🙂</b>
         <br></br>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight">
