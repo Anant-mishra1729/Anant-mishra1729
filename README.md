@@ -13,19 +13,21 @@
 </div>
 
 
-<!-- <a href="https://app.daily.dev/amish1729"><img src="https://api.daily.dev/devcards/d8e7ca8a0edd4aa5800eecaca1778745.png?r=3r4" width="33%" alt="Anant Mishra's Dev Card" align = "right"/></a> -->
-
-
 <h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
 <img src="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align="right" width="37%" />
+ <div>
+        <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+          <p>:alien:&ensp; <b>You're using light mode</b></p>
+        </a>
+      <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
+        <p>:alien:&ensp; <b>You're using dark mode</b></p>
+      </a>
 <div align="left">
   <u>
     <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter. </li>
-    <li>:seedling:&ensp; <b>Reinforcement Learning</b>
-    </li>
+    <li>:seedling:&ensp; <b>Reinforcement Learning</b></li>
     <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
-    <li>👽&ensp;<b>This readme supports both light and dark mode.</b></li>
     <li>:heart:&ensp;I love <b>Stargazing and Chess + <a href="https://github.com/Anant-mishra1729/Village-Linux-rice">Ricing Linux</a>
       </b>
     </li>
