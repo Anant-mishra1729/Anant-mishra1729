@@ -34,14 +34,10 @@
   <tbody>
     <tr>
       <td rowspan="2">
-	      <p>&nbsp;</p>
-	      <p align = "center"><b>Profile summary</b></p>
-        <hr>
+	      <br></br>
         <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta" />
       </td>
       <td>
-	      <p align = "center"><b>GitHub stats</b></p>
-        <hr>
         <picture>
           <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
           <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -51,8 +47,6 @@
     </tr>
     <tr>
       <td>
-	      <p align = "center"><b>Current streak</b></p>
-        <hr>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true">
           <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" />
