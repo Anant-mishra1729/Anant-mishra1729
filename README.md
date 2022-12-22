@@ -25,7 +25,7 @@
     <li>:seedling:&ensp; <b>Reinforcement Learning</b>
     </li>
     <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
-    <li>👽&ensp;This readme supports both light and dark mode.</li>
+    <li>👽&ensp;<b>This readme supports both light and dark mode.</b></li>
     <li>:heart:&ensp;I love <b>Stargazing and Chess + <a href="https://github.com/Anant-mishra1729/Village-Linux-rice">Ricing Linux</a>
       </b>
     </li>
