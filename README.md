@@ -1,11 +1,17 @@
 <a href="https://anant-mishra1729.github.io/portfolio-site/">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=It's%20good%20to%20have%20%you%20here!&descSize=20&descAlignY=50&descAlign=70" width="100%" />
 </a>
+
+
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Anant-mishra1729&style=for-the-badge" height="35" />
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 </div>
+
+
 <!-- <a href="https://app.daily.dev/amish1729"><img src="https://api.daily.dev/devcards/d8e7ca8a0edd4aa5800eecaca1778745.png?r=3r4" width="33%" alt="Anant Mishra's Dev Card" align = "right"/></a> -->
+
+
 <h2> Let's begin with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
 <img src="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align="right" width="37%" />
@@ -29,6 +35,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=10" />
 </div>
+
+
 <h2>Coding journey...</h2>
 <table>
   <tbody>
@@ -56,7 +64,7 @@
       <div align  = "center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight">
-          <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite"/>
+          <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&bgColor=%23f6f8fa"/>
         </picture>
       </div>
     </td>
