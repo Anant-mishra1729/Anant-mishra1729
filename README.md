@@ -18,9 +18,9 @@
 </u>
  </div>
 
-<h2>I've worked with </h2>
+<h2>Tools/Languages I've used before </h2>
 <div align = "left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux&theme=dark&perline=8"/> 
+<img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=10"/> 
 </div>
 
 
