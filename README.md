@@ -54,9 +54,10 @@
     </tr>
     <td>
       <div align  = "center">
-        <b>A random joke to fill this space</b>
-        <br></br>
-      <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" align = "center"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight">
+          <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite"/>
+        </picture>
       </div>
     </td>
   </tbody>
