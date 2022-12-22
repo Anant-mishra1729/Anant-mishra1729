@@ -16,7 +16,7 @@
 <!-- <a href="https://app.daily.dev/amish1729"><img src="https://api.daily.dev/devcards/d8e7ca8a0edd4aa5800eecaca1778745.png?r=3r4" width="33%" alt="Anant Mishra's Dev Card" align = "right"/></a> -->
 
 
-<h2> Let's begin with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
+<h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
 <img src="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align="right" width="37%" />
 <div align="left">
@@ -35,7 +35,7 @@
     </li>
   </u>
 </div>
-<h2>Tools/Languages I've used before </h2>
+<h2>I've worked with </h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=10" />
 </div>
