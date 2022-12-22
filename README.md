@@ -33,9 +33,8 @@
 <table>
   <tbody>
     <tr>
-      <td rowspan="2">
-        <br></br>
-        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&achievements=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=Jupyter%20Notebook%2C%20CSS&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta" />
+      <td rowspan="3">
+        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&base.metadata=0&leetcode=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=Jupyter%20Notebook%2C%20CSS&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=amishra1729&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta&config.padding=4%2C%204" />
       </td>
       <td>
         <picture>
@@ -53,8 +52,17 @@
         </picture>
       </td>
     </tr>
+    <td>
+      <div align  = "center">
+        <b>A random joke to fill this space</b>
+        <br></br>
+      <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" align = "center"/>
+      </div>
+    </td>
   </tbody>
 </table>
+
+
 <h2> Contribution history (365 days)</h2>
 <div align="center">
   <picture>
