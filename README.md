@@ -17,11 +17,11 @@
 </h2>
 <img src="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align="right" width="37%" />
  <div>
-        <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-          <p>:alien:&ensp; <b>You're using light mode</b></p>
+        <a href="https://github.com/settings/appearance#gh-light-mode-only">
+          <p>🧙&ensp; <b>You're using light mode, this readme supports both :)</b></p>
         </a>
-      <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-        <p>:alien:&ensp; <b>You're using dark mode</b></p>
+      <a href="https://github.com/settings/appearance#gh-dark-mode-only">
+        <p>🧙&ensp; <b>You're using dark mode, this readme supports both :)</b></p>
       </a>
 <div align="left">
   <u>
