@@ -29,7 +29,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=10" />
 </div>
-<h2>Github journey...</h2>
+<h2>Coding journey...</h2>
 <table>
   <tbody>
     <tr>
