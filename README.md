@@ -38,10 +38,16 @@
   </u>
 </div>
 <h2>I've worked with </h2>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=10" />
-</div>
+  
+  
+<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=light&perline=10" />
+</a>
 
+<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=10" />
+</a>  
+  
 
 <h2>Coding journey...</h2>
 <table>
