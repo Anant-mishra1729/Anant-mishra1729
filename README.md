@@ -31,7 +31,7 @@
         <a href="https://github.com/Anant-mishra1729/Village-Linux-rice">Ricing my linux desktop.</a>
       </b>
     </li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Christmas%20Tree.png" alt="Christmas Tree" width="20" height="20" />&ensp; Visit my forest <a href = "https://tree-nation.com/profile/anant-mishra">here!</a></li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Christmas%20Tree.png" alt="Christmas Tree" width="20" height="20" />&ensp; Visit my forest <a href = "https://tree-nation.com/profile/anant-mishra"><b>here!</b></a></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" />&nbsp; For more insights please checkout my <b><a href = "https://anant-mishra1729.github.io/portfolio-site/">Portfolio</a></b></li>
   </u>
 </div>
