@@ -22,15 +22,16 @@
     <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="45%" align="right" />
   </picture>
   <u>
-    <li> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="20" height="20" /> &nbsp; I'm currently pursuing my bachelor's in CS.
+    <li> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="20" height="20" /> &nbsp; I'm pursuing my bachelor's in Computer Science.
     <li> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="20" height="20" /> &nbsp; Focused on Data science and Machine learning.</li>
-    <li> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="20" height="20" /> &nbsp; I've done research internships in IITs in field of CV/ML.</li>
+    <li> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="20" height="20" /> &nbsp; I've done research internships in field of CV/ML.</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" />&nbsp; Learning <b>Deep reinforcement learning.</b>
     </li>
-    <li> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="20" height="20" /> &nbsp; I love Stargazing and <b>
+    <li> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" />&nbsp; I love Stargazing and <b>
         <a href="https://github.com/Anant-mishra1729/Village-Linux-rice">Ricing my linux desktop.</a>
       </b>
     </li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" />&nbsp; For more insights please checkout my <b><a href = "https://anant-mishra1729.github.io/portfolio-site/">Portfolio</a></b></li>
   </u>
 </div>
 
