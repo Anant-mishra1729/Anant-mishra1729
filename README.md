@@ -33,6 +33,7 @@
     </li>
   </u>
 </div>
+
 <h2>I've worked with...</h2>
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=light&perline=8"/>
@@ -41,8 +42,9 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=8"/>
 </a>
 
-<h3>Spent this week on...<h3>
+<h3>Spent this week on...</h3>
 <img src = "images/stat.svg" />
+
 
 <h2 align = "left">Profile summary</h2>
 <div align="center">
@@ -55,14 +57,18 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width="50%" />
   </picture>
 </div>
-
+ 
+<details>
+  <summary><h3>Contribution map&ensp;</h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
+</summary>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" width = "98%">
     <img alt="Contribution history" src="profile-3d-contrib/profile-season-animate.svg">
   </picture>
 </div>
-  <br>
+  </details>
   <img src = "https://media1.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.webp" align = "right" width = "20%"/>
   <h2 align = "left">Behold, a glimpse into the universe from my diary... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="30" height="30" /></h2>
 
