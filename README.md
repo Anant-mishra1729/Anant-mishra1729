@@ -75,7 +75,6 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
   </summary>
   <div align="center">
-    <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta&config.display=large" />
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" width="98%">
       <img alt="Contribution history" src="profile-3d-contrib/profile-season-animate.svg">
