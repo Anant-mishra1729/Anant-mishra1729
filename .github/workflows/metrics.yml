@@ -15,7 +15,9 @@ jobs:
       - uses: Anant-mishra1729/metrics@master
         with:
           config_timezone: Asia/India
-          token: ${{ secrets.PERSONAL_PROFILE }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           base: ""
           plugin_isocalendar: yes
           plugin_languages: yes
