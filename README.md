@@ -74,12 +74,7 @@
     <h3>Contribution history&ensp;</h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
   </summary>
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" width="98%">
-      <img alt="Contribution history" src="profile-3d-contrib/profile-season-animate.svg">
-    </picture>
-  </div>
+  
   <br>
 </details>
 <img src="https://media1.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.webp" align="right" width="20%" />
