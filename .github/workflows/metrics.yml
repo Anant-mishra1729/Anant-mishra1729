@@ -10,6 +10,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Anant-mishra1729/metrics@latest
+      - uses: Anant-mishra1729/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
