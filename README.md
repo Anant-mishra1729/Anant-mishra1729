@@ -5,12 +5,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:191654,100:43C6AC&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width="100%" />
 </a>
 <div>
-  <img src="https://img.icons8.com/3d-fluency/50/linkedin.png" width = "40"/>&ensp; <img src="https://img.icons8.com/3d-fluency/50/about.png" width = "40"/> &ensp;
+  <img src="https://img.icons8.com/3d-fluency/50/linkedin.png" />&ensp; <img src="https://img.icons8.com/3d-fluency/50/about.png" /> &ensp;
   <a href="https://github.com/settings/appearance#gh-light-mode-only">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="40" align="right" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50" align="right" />
   </a>
   <a href="https://github.com/settings/appearance#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="40" align="right" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50" align="right" />
   </a>
 </div>
 <h1> Let's start with an intro...<img src="https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width="70" />
