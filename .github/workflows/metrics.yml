@@ -22,7 +22,6 @@ jobs:
           plugin_languages_ignored: jupyter notebook, css
           plugin_languages_details: bytes-size, percentage
           plugin_achievements: yes
-          plugin_achievements_display: compact
           plugin_habits: yes
           plugin_followup: yes
           plugin_followup_sections: user, repositories
