@@ -29,5 +29,5 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: chartist
           plugin_habits_languages_threshold: 100%
-          config_display: columns
+          config_display: large
           config_padding: 0, -5%
