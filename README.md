@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50" align="right" />
   </a>
 </div>
-<h1> Let's start with an intro...<img src="https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width="70" />
+<h1> Let's start with an intro...<img src="https://media2.giphy.com/media/RJ2bSaZYo0g1I0SpUh/giphy.webp" width="70" />
 </h1>
 <div align="left">
   <picture>
