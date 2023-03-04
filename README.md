@@ -82,7 +82,7 @@
 >"The starlight we see each night is a window to the past, a glimpse of the forgotten universe... <br>It holds within the secrets of creation, a tale etched into the fabric of cosmos <br> frozen in time, waiting to be uncovered..." <p align="left">
 
   
-  <b>Thanks for visiting! hope to see you again... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Smiling Face with Open Hands" width="30" height="30" /><p>
+  <b>Thanks for visiting! hope to see you again... <p>
       </h3>
     <div>
       <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
