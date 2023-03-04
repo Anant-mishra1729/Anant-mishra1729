@@ -34,7 +34,7 @@
     </li>
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" />&nbsp; I love Stargazing and <b>
-        <a href="https://github.com/Anant-mishra1729/Village-Linux-rice">Ricing my linux desktop.</a>
+        <a href="https://github.com/Anant-mishra1729/Village-Linux-rice">Ricing my linux.</a>
       </b>
     </li>
     <li>
@@ -44,7 +44,7 @@
     </li>
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" />&nbsp; For more insights please checkout my <b>
-        <a href="https://anant-mishra1729.github.io/portfolio-site/">Portfolio</a>
+        <a href="https://anant-mishra1729.github.io/portfolio-site/">Portfolio.</a>
       </b>
     </li>
   </u>
@@ -56,7 +56,7 @@
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=8" />
 </a>
-<h3>Spent this week on...</h3>
+<h3>Weekly dev breakdown...</h3>
 <img src="images/stat.svg" />
 <h2 align="left">Profile summary</h2>
 <div align="center">
@@ -85,7 +85,7 @@
 >"The starlight we see each night is a window to the past, a glimpse of the forgotten universe... <br>It holds within the secrets of creation, a tale etched into the fabric of cosmos <br> frozen in time, waiting to be uncovered..." <p align="left">
 
   
-  <b>Thanks for visiting! hope to see you again... <p>
+  <b>Thanks for visiting! hope to see you again... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Smiling Face with Open Hands" width="30" height="30" /><p>
       </h3>
     <div>
       <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
