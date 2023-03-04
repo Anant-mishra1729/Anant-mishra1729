@@ -70,7 +70,7 @@
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&bg_color=1a1d26&theme=tokyo-night&hide_border=true&radius=10&area=true&point=08F26E" width = "97%">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&bg_color=1a1d26&theme=minimal&hide_border=true&radius=10&area=true" width = "97%"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=minimal&area=true" width = "97%"/>
   </picture>
 </div>
 
