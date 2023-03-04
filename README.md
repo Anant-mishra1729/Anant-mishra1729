@@ -68,16 +68,13 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=blueberry&hide_border=true&background=1a1d26" width="50%">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width="50%" />
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&bg_color=1a1d26&theme=tokyo-night&hide_border=true&radius=10" width = "97%">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=minimal"/>
+  </picture>
 </div>
-<details>
-  <summary>
-    <h3>Contribution history&ensp;</h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
-  </summary>
-  <kbd>
-  <img src="github-metrics.svg" />
-  </kbd>
-</details>
+
+<br>
 <img src="https://media1.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.webp" align="right" width="20%" />
 <h2 align="left">Behold, a glimpse into the universe from my diary... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="30" height="30" />
 </h2> 
