@@ -30,4 +30,4 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_display: large
-          config_padding: 0, -0.1%
+          config_padding: 0, -0.05%
