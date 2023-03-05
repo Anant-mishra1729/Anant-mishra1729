@@ -56,7 +56,7 @@
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=8" />
 </a>
-<h3>Weekly dev breakdown...</h3>
+<h2>Weekly dev breakdown...</h2>
 <img src="images/stat.svg" />
 <h2 align="left">Profile summary</h2>
 <div align="center">
