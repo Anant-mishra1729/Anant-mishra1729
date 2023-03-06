@@ -17,7 +17,7 @@
 </h1>
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/d14995c11b9f3b9c94347e3b5d790d24/babbd570ca3d6c19-f3/s500x750/5fd44a8447f25e68a4da3740b06c65adc597bcea.gif" align="right" width="40%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/d14995c11b9f3b9c94347e3b5d790d24/babbd570ca3d6c19-f3/s500x750/5fd44a8447f25e68a4da3740b06c65adc597bcea.gif" align="right" width="35%">
     <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="45%" align="right" />
   </picture>
   <u>
@@ -49,15 +49,22 @@
     </li>
   </u>
 </div>
+
 <h2>I've worked with...</h2>
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,cpp,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=light&perline=9" />
 </a>
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,cpp,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=9" />
 </a>
+<details>
+  <summary><h4>Holopin badges <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="30" height="30" /></h4></summary>
+    <img src = "https://holopin.me/amish1729" />
+</details>
+
 <h2>Weekly dev breakdown...</h2>
 <img src="images/stat.svg" />
+  
 <h2 align="left">Profile summary</h2>
 <div align="center">
   <picture>
@@ -69,8 +76,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width="50%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&bg_color=1a1d26&theme=tokyo-night&hide_border=true&radius=10&area=true" width = "97%">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=minimal&area=true" width = "97%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&bg_color=1a1d26&theme=tokyo-night&hide_border=true&radius=10&area=true" width = "98%">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=minimal&area=true" width = "98%"/>
   </picture>
 </div>
 
