@@ -58,7 +58,7 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,cpp,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=8" />
 </a>
 <details>
-  <summary><h4>Holopin badges <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="30" height="30" /></h4></summary>
+  <summary><h3>Holopin badges <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="30" height="30" /></h3></summary>
     <img src = "https://holopin.me/amish1729" />
 </details>
 
