@@ -89,7 +89,7 @@
 >"The starlight we see each night is a window to the past, a glimpse of the forgotten universe... <br>It holds within the secrets of creation, a tale etched into the very fabric of cosmos <br> frozen in time, waiting to be uncovered..." <p align="left">
 
   
-  <b>Thanks for visiting! hope to see you again... <p>
+  <b>Thanks for visiting! I've pinned a few projects below, hope you like them... <p>
       </h3>
     <div>
       <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
