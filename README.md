@@ -76,8 +76,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width="50%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&bg_color=1a1d26&theme=tokyo-night&hide_border=true&radius=10&area=true" width = "98%">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=minimal&area=true" width = "98%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" width = "98%">
+    <img src="profile-3d-contrib/profile-south-season.svg" width = "98%"/>
   </picture>
 </div>
 
