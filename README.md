@@ -29,7 +29,7 @@
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="20" height="20" /> &nbsp; I've done research in ML and CV.
     </li>
     <li>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" />&nbsp; Learning <b>Deep reinforcement learning.</b>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" />&nbsp; Learning <b>Deep reinforcement learning.</b>
     </li>
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" />&nbsp; I love Stargazing and <b>
@@ -87,7 +87,7 @@
 >"The starlight we see each night is a window to the past, a glimpse of the forgotten universe... <br>It holds within the secrets of creation, a tale etched into the very fabric of cosmos <br> frozen in time, waiting to be uncovered..." <p align="left">
 
   
-  <b>Thanks for visiting, hope to see you soon... <p>
+  <b>I've pinned a few projects below, hope you like them! <p>
       </h3>
     <div>
       <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
