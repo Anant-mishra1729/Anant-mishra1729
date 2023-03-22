@@ -4,7 +4,7 @@
     "fileName": "profile-custom-night-view.svg",
     "backgroundColor": "#0c1017",
     "foregroundColor": "#eeeeff",
-    "strongColor": "#111133",
+    "strongColor": "#ffc837",
     "weakColor": "#aaaaaa",
     "radarColor": "#ffc837",
     "growingAnimation": true,
