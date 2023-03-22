@@ -16,7 +16,7 @@
 <h1> Let's start with an intro...<img src="https://media2.giphy.com/media/RJ2bSaZYo0g1I0SpUh/giphy.webp" width="70"></h1>
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="42%">
+    <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="42%">
     <img src="https://64.media.tumblr.com/d14995c11b9f3b9c94347e3b5d790d24/babbd570ca3d6c19-f3/s500x750/5fd44a8447f25e68a4da3740b06c65adc597bcea.gif" width="42%" align="right" />
   </picture>
   <u>
@@ -71,11 +71,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=blueberry&hide_border=true&bg_color=00000000" width="47%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset= "https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width="50%">
+    <source media="(prefers-color-scheme: light)" srcset= "https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width="50%">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=blueberry&hide_border=true&background=00000000" width="50%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="profile-3d-contrib/profile-custom-season.svg" width = "98%">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-custom-season.svg" width = "98%">
     <img src="profile-3d-contrib/profile-custom-night-view.svg" width = "98%"/>
   </picture>
 </div>
