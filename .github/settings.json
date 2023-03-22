@@ -2,7 +2,7 @@
   {
     "type": "normal",
     "fileName": "profile-custom-night-view.svg",
-    "backgroundColor": "#0c1017",
+    "backgroundColor": "#00000000",
     "foregroundColor": "#eeeeff",
     "strongColor": "#ffc837",
     "weakColor": "#aaaaaa",
