@@ -36,7 +36,7 @@
 		<img src="https://64.media.tumblr.com/d14995c11b9f3b9c94347e3b5d790d24/babbd570ca3d6c19-f3/s500x750/5fd44a8447f25e68a4da3740b06c65adc597bcea.gif" width="42%" align="right" />
 	</picture>
 	-->
-<img src = "https://api.daily.dev/devcards/d8e7ca8a0edd4aa5800eecaca1778745.png?r=qrg" width = "38%" align = "right"/>
+<img src = "devcard.svg" width = "38%" align = "right"/>
   
 <!--   About me -->
 
