@@ -30,11 +30,13 @@
 <div align="left">
   
 <!-- Introduction image -->
-  
+ <!-- 
   <picture>
 		<source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="43%">
 		<img src="https://64.media.tumblr.com/d14995c11b9f3b9c94347e3b5d790d24/babbd570ca3d6c19-f3/s500x750/5fd44a8447f25e68a4da3740b06c65adc597bcea.gif" width="42%" align="right" />
 	</picture>
+	-->
+<img src = "https://api.daily.dev/devcards/d8e7ca8a0edd4aa5800eecaca1778745.png?r=qrg" width = "38%" align = "right"/>
   
 <!--   About me -->
 
@@ -98,6 +100,7 @@
 		<source media="(prefers-color-scheme: light)" srcset= "https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width="50%">
 		<img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=blueberry&hide_border=true&background=00000000" width="50%" />
 	</picture>
+	<br></br>
 	<picture>
 		<source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-custom-season.svg" width = "98%">
 		<img src="profile-3d-contrib/profile-custom-night-view.svg" width = "98%"/>
