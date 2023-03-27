@@ -113,7 +113,7 @@
 
 
 <img src="https://media0.giphy.com/media/dUYiHLvd7RHYDGpWoX/giphy.gif?cid=ecf05e47hx0e6dpw9tpc92ddcv8rxq255sp9agxf67aplbvm&rid=giphy.gif&ct=s" align="right" width="32%" />
-<h2 align="left">Behold, a glimpse into the universe from my diary &ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="30" height="30" /></h2>
+<h2 align="left">Behold, a glimpse into the universe from my diary &ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" /></h2>
 
 >"The starlight we see each night is a window to the past, a glimpse of the forgotten universe... <br>It holds within the secrets of creation, a tale etched into the very fabric of cosmos <br> frozen in time, waiting to be uncovered..." 
 
