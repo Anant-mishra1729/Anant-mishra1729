@@ -79,7 +79,7 @@
 </a>
 <!-- Blogs -->
 <details>
-<summary><h3> Blogs posts &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png" alt="Disguised Face" width="30" height="30" /></h3></summary>
+<summary><h3> Blog posts &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png" alt="Disguised Face" width="30" height="30" /></h3></summary>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amishra1577/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amishra1577/0" alt="Recent Article 0"> 
 </details>
 
@@ -106,15 +106,11 @@
 		<source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-custom-season.svg" width = "98%">
 		<img src="profile-3d-contrib/profile-custom-night-view.svg" width = "98%"/>
 	</picture>
+	<img src="https://media0.giphy.com/media/dUYiHLvd7RHYDGpWoX/giphy.gif?cid=ecf05e47hx0e6dpw9tpc92ddcv8rxq255sp9agxf67aplbvm&rid=giphy.gif&ct=s" align="right" width="32%" />
 </div>
-
-
-
+<br>
 
 <!-- Diary -->
-
-<br />
-<img src="https://media1.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.webp" align="right" width="20%" />
 <h2 align="left">Behold, a glimpse into the universe from my diary &ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="30" height="30" /></h2>
 
 >"The starlight we see each night is a window to the past, a glimpse of the forgotten universe... <br>It holds within the secrets of creation, a tale etched into the very fabric of cosmos <br> frozen in time, waiting to be uncovered..." 
@@ -122,13 +118,14 @@
 <p align="left">
 	<b>I've pinned a few projects below, hope you like them! 
 <p>
+	
 
 <!-- Footer -->
-<div>
+<!-- <div>
 	<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
 	<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00F260,100:0575E6#gh-light-mode-only" alt="Footer" width="100%" />
 	</a>
 	<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
 	<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:191654,100:43C6AC" alt="Header" width="100%" />
 	</a>
-</div>
+</div> -->
