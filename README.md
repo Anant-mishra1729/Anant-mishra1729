@@ -121,11 +121,11 @@
 	
 
 <!-- Footer -->
-<!-- <div>
+<div>
 	<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-	<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00F260,100:0575E6#gh-light-mode-only" alt="Footer" width="100%" />
+	<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00F260,100:0575E6#gh-light-mode-only" alt="Footer" width="60%" align = "left"/>
 	</a>
 	<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-	<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:191654,100:43C6AC" alt="Header" width="100%" />
+	<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:191654,100:43C6AC" alt="Header" width="60%" align = "left"/>
 	</a>
-</div> -->
+</div>
