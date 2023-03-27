@@ -85,10 +85,9 @@
 <h2>Weekly dev breakdown...</h2>
 <img src="images/stat.svg" />
 
-
 <!-- Blogs -->
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" />  Blogs posts &ensp;</h3></summary>
+<summary><h3> Blogs posts &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png" alt="Disguised Face" width="30" height="30" /></h3></summary>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amishra1577/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amishra1577/0" alt="Recent Article 0"> 
 </details>
 	
