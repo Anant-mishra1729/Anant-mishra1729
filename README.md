@@ -110,19 +110,18 @@
 <br/>
 <!-- Diary -->
 <img src="https://media0.giphy.com/media/dUYiHLvd7RHYDGpWoX/giphy.gif?cid=ecf05e47hx0e6dpw9tpc92ddcv8rxq255sp9agxf67aplbvm&rid=giphy.gif&ct=s" align="right" width="25%" />
-<h2 align="left">Behold, a glimpse into the universe from my diary... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" height="30"/></h2>
+<h2 align="left">Behold, a glimpse into the universe from my diary... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="35" height="35"/></h2>
 
 
 >"The starlight we see each night is a window to the past <br/>a glimpse of the forgotten universe... <br>It holds within the secrets of creation, a tale etched into the very fabric of cosmos <br> frozen in time, waiting to be uncovered..." 
 
-<b>Thanks for visiting! I've pinned a few projects below hope you like them 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></b>
+<b>Thanks for visiting! hope to see you again <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></b>
   <!-- Footer -->
-<!-- <div>
+<div>
   <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00F260,100:0575E6#gh-light-mode-only" alt="Footer" width="65%" align = "left"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00F260,100:0575E6#gh-light-mode-only" alt="Footer" width="100%" align = "left"/>
   </a>
   <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:191654,100:43C6AC" alt="Header" width="65%" align = "left"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:191654,100:43C6AC" alt="Header" width="100%" align = "left"/>
   </a>
-</div> -->
+</div>
