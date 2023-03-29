@@ -31,7 +31,7 @@
   
 <!-- Introduction image -->
   <picture>
-		<source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="43%">
+		<source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="42%">
 		<img src="https://64.media.tumblr.com/d14995c11b9f3b9c94347e3b5d790d24/babbd570ca3d6c19-f3/s500x750/5fd44a8447f25e68a4da3740b06c65adc597bcea.gif" width="42%" align="right" />
 	</picture>
 <!-- <img src = "devcard.svg" width = "38%" align = "right"/> -->
@@ -59,11 +59,6 @@
 			<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Christmas%20Tree.png" alt="Christmas Tree" width="20" height="20" />&ensp; Visit my forest <a href="https://tree-nation.com/profile/anant-mishra">
 			<b>here!</b>
 			</a>
-		</li>
-		<li>
-			<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" />&nbsp; For more insights please checkout my <b>
-			<a href="https://anant-mishra1729.github.io/portfolio-site/">Portfolio.</a>
-			</b>
 		</li>
 	</u>
 </div>
