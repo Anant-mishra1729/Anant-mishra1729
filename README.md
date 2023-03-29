@@ -115,7 +115,7 @@
 
 >"The starlight we see each night is a window to the past <br/>a glimpse of the forgotten universe... <br>It holds within the secrets of creation, a tale etched into the very fabric of cosmos <br> frozen in time, waiting to be uncovered..." 
 
-<b>Thanks for visiting! hope to see you again <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" /></b>
+<b>Thanks for visiting! hope to see you again... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Smiling Face with Halo" width="35" height="35" /></b>
   <!-- Footer -->
 <div>
   <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
