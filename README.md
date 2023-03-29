@@ -28,7 +28,7 @@
 <!-- Introduction image -->
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="42%">
-    <img src="https://64.media.tumblr.com/d14995c11b9f3b9c94347e3b5d790d24/babbd570ca3d6c19-f3/s500x750/5fd44a8447f25e68a4da3740b06c65adc597bcea.gif" width="38%" align="right" />
+    <img src="https://64.media.tumblr.com/d14995c11b9f3b9c94347e3b5d790d24/babbd570ca3d6c19-f3/s500x750/5fd44a8447f25e68a4da3740b06c65adc597bcea.gif" width="44%" align="right" />
   </picture>
   <!-- <img src = "devcard.svg" width = "38%" align = "right"/> -->
 
@@ -58,17 +58,6 @@
 	</ul>
 </div>
 
-<details>
-<summary><h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" />&nbsp; Blog posts </h3></summary>
-		
-	  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-	
-	  
-</details>
-  
-
 
 <!-- Programming languages -->
 <h2>I've worked with...</h2>
@@ -78,6 +67,16 @@
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,cpp,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=8" />
 </a>
+
+
+<details>
+<summary><h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" />&nbsp; Blog posts </h3></summary>
+		  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+		  
+</details>
+  
 
 
 <!-- Wakatime -->
