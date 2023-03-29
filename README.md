@@ -109,7 +109,7 @@
 
 <br/>
 <!-- Diary -->
-<img src="https://media0.giphy.com/media/dUYiHLvd7RHYDGpWoX/giphy.gif?cid=ecf05e47hx0e6dpw9tpc92ddcv8rxq255sp9agxf67aplbvm&rid=giphy.gif&ct=s" align="right" width="25%" />
+<img src="https://media0.giphy.com/media/dUYiHLvd7RHYDGpWoX/giphy.gif?cid=ecf05e47hx0e6dpw9tpc92ddcv8rxq255sp9agxf67aplbvm&rid=giphy.gif&ct=s" align="right" width="30%" />
 <h2 align="left">Behold, a glimpse into the universe from my diary... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="35" height="35"/></h2>
 
 
