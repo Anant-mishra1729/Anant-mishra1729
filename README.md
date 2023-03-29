@@ -77,11 +77,6 @@
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,cpp,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=8" />
 </a>
-<!-- Blogs -->
-<details>
-<summary><h3> Blog posts &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png" alt="Disguised Face" width="30" height="30" /></h3></summary>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amishra1577/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amishra1577/0" alt="Recent Article 0"> 
-</details>
 
 
 <!-- Wakatime -->
@@ -107,11 +102,10 @@
 		<img src="profile-3d-contrib/profile-custom-night-view.svg" width = "98%"/>
 	</picture>
 </div>
-<br>
 
 <!-- Diary -->
 
-<img src="https://media0.giphy.com/media/dUYiHLvd7RHYDGpWoX/giphy.gif?cid=ecf05e47hx0e6dpw9tpc92ddcv8rxq255sp9agxf67aplbvm&rid=giphy.gif&ct=s" align="right" width="28%" />
+<img src="https://media0.giphy.com/media/dUYiHLvd7RHYDGpWoX/giphy.gif?cid=ecf05e47hx0e6dpw9tpc92ddcv8rxq255sp9agxf67aplbvm&rid=giphy.gif&ct=s" align="right" width="26%" />
 <h2 align="left">Behold, a glimpse into the universe from my diary... &ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="30" height="30" /></h2>
 
 >"The starlight we see each night is a window to the past, a glimpse of the forgotten universe... <br>It holds within the secrets of creation, a tale etched into the very fabric of cosmos <br> frozen in time, waiting to be uncovered..." 
