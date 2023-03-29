@@ -73,6 +73,11 @@
 <summary><h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" />&nbsp; Blog posts </h3></summary>
 		  
 <!-- BLOG-POST-LIST:START -->
+- [How to Add WhatsApp to Your Linux Desktop: A Step-by-Step Guide](https://medium.com/@amishra1577/how-to-add-whatsapp-to-your-linux-desktop-a-step-by-step-guide-21276cbf23a9?source=rss-b63f40c330a8------2)
+- [Is function called every time the for loop runs? [duplicate]](https://stackoverflow.com/questions/73041068/is-function-called-every-time-the-for-loop-runs)
+- [Answer by Amish for Different outputs of DCT from OpenCV and Scipy.fftpack.dctn?](https://stackoverflow.com/questions/73039932/different-outputs-of-dct-from-opencv-and-scipy-fftpack-dctn/73040705#73040705)
+- [Different outputs of DCT from OpenCV and Scipy.fftpack.dctn?](https://stackoverflow.com/questions/73039932/different-outputs-of-dct-from-opencv-and-scipy-fftpack-dctn)
+- [Transfer learning with small shapes?](https://stackoverflow.com/questions/73009766/transfer-learning-with-small-shapes)
 <!-- BLOG-POST-LIST:END -->
 		  
 </details>
