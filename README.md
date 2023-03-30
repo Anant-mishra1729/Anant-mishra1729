@@ -32,6 +32,7 @@
   </picture>
   <!-- <img src = "devcard.svg" width = "38%" align = "right"/> -->
 
+
 <!--   About me -->
   <ul>
     <li>
@@ -86,7 +87,7 @@
 
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
-<img src="images/stat.svg" />
+<img src="https://github.com/Anant-mishra1729/Anant-mishra1729/blob/git_workflow/images/stat.svg" />
 
 
 <!-- Profile summary -->
