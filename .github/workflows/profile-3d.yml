@@ -16,10 +16,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: ".github/settings.json"
-      - name: Copy files
-        run: |
-          cp -f profile-3d-contrib/* images
-          rm -rf profile-3d-contrib
       - name: Commit & Push
         run: |
           cd images
