@@ -73,8 +73,8 @@
 <h2>Profile summary </h2>
 <div align="center">
  <picture align = "left">
-    <source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
-    <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&theme=github_dark" width="47%" />
+    <source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="49%" />
+    <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
   </picture>
 <picture align = "left">
     <source srcset="https://streak-stats.demolab.com/?user=Anant-mishra1729&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
@@ -94,20 +94,20 @@
 <a href = "https://github.com/Anant-mishra1729/Neural-network-from-Scratch">
 <picture>
   <source
-    srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/pin/?username=Anant-mishra1729&repo=Neural-network-from-Scratch&theme=algolia"
+    srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/pin/?username=Anant-mishra1729&repo=Neural-network-from-Scratch&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/pin/?username=Anant-mishra1729&repo=Neural-network-from-Scratch&theme=default" media="(prefers-color-scheme: light)"/>
+  <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/pin/?username=Anant-mishra1729&repo=Neural-network-from-Scratch" media="(prefers-color-scheme: light)"/>
 </picture>
 </a>
 
 <a href = "https://github.com/Anant-mishra1729/Machine-Learning-Notebooks">
 <picture>
   <source
-    srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/pin/?username=Anant-mishra1729&repo=Machine-Learning-Notebooks&theme=algolia"
+    srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/pin/?username=Anant-mishra1729&repo=Machine-Learning-Notebooks&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/pin/?username=Anant-mishra1729&repo=Machine-Learning-Notebooks&theme=default" media="(prefers-color-scheme: light)"/>
+  <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/pin/?username=Anant-mishra1729&repo=Machine-Learning-Notebooks" media="(prefers-color-scheme: light)"/>
 </picture>
 </a>
 </div>
