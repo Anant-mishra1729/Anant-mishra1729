@@ -65,7 +65,7 @@
 <img src="images/stat.svg" width="60%"/>
 
 <picture>
-<source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/top-langs/?username=Anant-mishra1729hide_border=true&layout=donut&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width="36%" />
+<source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/top-langs/?username=Anant-mishra1729&hide_border=true&layout=donut&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width="36%" />
 <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/top-langs/?username=Anant-mishra1729&theme=github_dark&layout=donut&hide_border=true&hide=jupyter%20notebook,html,css" width="36%" />
 </picture>
 
