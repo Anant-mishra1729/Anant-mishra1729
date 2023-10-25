@@ -73,13 +73,13 @@
 <h2>Profile summary </h2>
 <div align="center">
  <picture align = "left">
-    <source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" media="(prefers-color-scheme: light)" width="47%" />
-    <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&theme=github_dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="47%" />
+    <source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" media="(prefers-color-scheme: light)" width="44%" />
+    <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&theme=github_dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="44%" />
   </picture>
 
   <picture align = "right">
-    <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "49%">
-    <img src="images/profile-custom-night-view.svg" width = "49%"/>
+    <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "52%">
+    <img src="images/profile-custom-night-view.svg" width = "52%"/>
   </picture>
 
 </div>
