@@ -64,6 +64,10 @@
 <h2>Weekly dev breakdown...</h2>
 <img src="images/stat.svg" />
 
+<picture>
+<source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/top-langs/?username=Anant-mishra1729&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width="36%" />
+<img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/top-langs/?username=Anant-mishra1729&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css" width="36%" />
+</picture>
 
 <!-- Profile summary -->
 <h2>Profile summary </h2>
@@ -72,10 +76,7 @@
     <source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
     <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&theme=github_dark" width="47%" />
   </picture>
-  <picture>
-    <source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/top-langs/?username=Anant-mishra1729&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width="36%" />
-    <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/top-langs/?username=Anant-mishra1729&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css" width="36%" />
-  </picture>
+
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "90%">
     <img src="images/profile-custom-night-view.svg" width = "90%"/>
