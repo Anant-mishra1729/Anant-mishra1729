@@ -62,7 +62,7 @@
 </details>
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
-<img src="images/stat.svg" />
+<img src="images/stat.svg" width="60%"/>
 
 <picture>
 <source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/top-langs/?username=Anant-mishra1729&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width="36%" />
@@ -73,13 +73,13 @@
 <h2>Profile summary </h2>
 <div align="center">
  <picture align = "left">
-    <source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
-    <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&theme=github_dark" width="47%" />
+    <source srcset="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" media="(prefers-color-scheme: light)" width="47%" />
+    <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&theme=github_dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="47%" />
   </picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "90%">
-    <img src="images/profile-custom-night-view.svg" width = "90%"/>
+  <picture align = "right">
+    <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "49%">
+    <img src="images/profile-custom-night-view.svg" width = "49%"/>
   </picture>
 
 </div>
