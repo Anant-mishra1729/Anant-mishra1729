@@ -34,7 +34,7 @@
 <!--   About me -->
 * 👨‍🎓 Pursuing a Bachelor in Computer Engineering.
 * 🎯 Specializing in Data Science and Machine Learning.
-* 🤖 Learning Deep reinforcement learning.
+* 📝 Working on my Ebook [Neural network from Scratch](https://github.com/Anant-mishra1729/Neural-network-from-Scratch).
 * ❤️ Stargazing and [Ricing my Linux desktop](https://github.com/Anant-mishra1729/Village-Linux-rice).
 * 🎄 Visit my forest [here!](https://tree-nation.com/profile/anant-mishra)
 
