@@ -32,10 +32,9 @@
   </picture>
 
 <!--   About me -->
-* 👨‍🎓 Pursuing a Bachelor in Computer Engineering.
-* 🎯 Specializing in Data Science and Machine Learning.
+* 👨‍🎓 I'm a DBA.
 * 📝 Working on my Ebook [Neural network from Scratch](https://github.com/Anant-mishra1729/Neural-network-from-Scratch).
-* ❤️ Stargazing and [Ricing my Linux desktop](https://github.com/Anant-mishra1729/Village-Linux-rice).
+* ❤️ [Ricing my Linux](https://github.com/Anant-mishra1729/Village-Linux-rice).
 * 🎄 Visit my forest [here!](https://tree-nation.com/profile/anant-mishra)
 
 <!-- Programming languages -->
@@ -138,10 +137,10 @@
 </details>
 
 <!-- Diary -->
-<h4 align="left">From my diary, a glimpse into the universe ... </h4>
+<!--<h4 align="left">From my diary, a glimpse into the universe ... </h4>
 
 > "The starlight we see each night is a window to the past, a glimpse of the forgotten universe... <br>It holds within the secrets of creation, a tale etched into the very fabric of cosmos <br>frozen in time, waiting to be uncovered..."
-
+-->
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=400&width=700&lines=This+readme+supports+theme+switching.;+Switch+from+light+to+dark+mode+or+vice+versa+and+see+the+magic+%F0%9F%A7%99)](https://git.io/typing-svg) -->
 
