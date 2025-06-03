@@ -32,10 +32,7 @@
   </picture>
 
 <!--   About me -->
-* 👨‍🎓 I'm a DBA.
-* 📝 Working on my Ebook [Neural network from Scratch](https://github.com/Anant-mishra1729/Neural-network-from-Scratch).
-* ❤️ [Ricing my Linux](https://github.com/Anant-mishra1729/Village-Linux-rice).
-* 🎄 Visit my forest [here!](https://tree-nation.com/profile/anant-mishra)
+A programmer who loves Linux and working with open-source.
 
 <!-- Programming languages -->
 <h2>I've worked with</h2>
@@ -129,12 +126,15 @@
 
 </div>
 
+<!--
 <details>
 <summary><h2>Holopin badges <img src = "https://em-content.zobj.net/source/microsoft-teams/337/t-rex_1f996.png" width = "35" height = "35"/></h2></summary>
 
 [![An image of @amish1729's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
 
 </details>
+
+-->
 
 <!-- Diary -->
 <!--<h4 align="left">From my diary, a glimpse into the universe ... </h4>
