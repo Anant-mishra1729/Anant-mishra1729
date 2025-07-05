@@ -32,7 +32,7 @@
   </picture>
 
 <!--   About me -->
-A programmer who loves Linux and working with open-source.
+Doing some open-source.
 
 <!-- Programming languages -->
 <h2>I've worked with</h2>
