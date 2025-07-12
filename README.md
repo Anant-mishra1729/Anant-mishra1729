@@ -21,12 +21,14 @@
 </div>
 
 
+
+ 
+
 <!-- Introduction + Coffee -->
 <h1> Hello, I am Anant <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
 <div align="left">
 
-<!-- Introduction image -->
-  <picture>
+ <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://images.squarespace-cdn.com/content/v1/5c4ece0e3917ee277d32eaf3/1570273077298-30G7YE5PFHJW058FFNNJ/summer-ani.gif" align="right" width="30%">
     <img src="images/astronomy.gif" width="30%" align="right" />
   </picture>
@@ -36,8 +38,9 @@ Regularly working on open-source tools, learning along the way—and open to hel
 
 Currently working on `Wakadash` (Wakatime API Client)
 
+---
+
 <!-- Programming languages -->
-## I've worked with
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,rust,matlab,cpp,flask,react,html,css,mysql,linux,bash,git,neovim,&theme=light&perline=9" />
