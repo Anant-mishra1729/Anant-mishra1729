@@ -48,7 +48,7 @@ Doing some open-source.
 <summary><h3> Blogs & posts... <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Writing Hand" width="35" height="35" /></h3></summary>
 		  
 <!-- BLOG-POST-LIST:START -->
-- [Hmmmm](https://dev.to/anantmishra1729/placeholder-contributor-3gb6)
+- [Hashing Pairs Like a Pro in C++](https://dev.to/anantmishra1729/placeholder-contributor-3gb6)
 - [Introducing Operator-Caska: The Perfect Blend of CaskaydiaCove and Operator Mono](https://dev.to/anantmishra1729/introducing-operator-caska-the-perfect-blend-of-caskaydiacove-and-operator-mono-4o0b)
 - [Running Jupyter Notebook in Background Mode on a Remote Server](https://medium.com/@amishra1577/running-jupyter-notebook-in-background-mode-on-a-remote-server-64f1872cef6a?source=rss-b63f40c330a8------2)
 - [Simplify Password Management with the &#39;pass&#39; Command-Line Password Manager](https://dev.to/anantmishra1729/simplify-password-management-with-the-pass-command-line-password-manager-2pbg)
