@@ -38,9 +38,10 @@ Regularly working on open-source tools, learning along the way—and open to hel
 
 Currently working on `Wakadash` (Wakatime API Client)
 
----
 
 <!-- Programming languages -->
+
+**I've worked with**
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,rust,matlab,cpp,flask,react,html,css,mysql,linux,bash,git,neovim,&theme=light&perline=9" />
