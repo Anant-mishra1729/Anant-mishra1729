@@ -65,12 +65,12 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 </details>
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" width="60%"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" width="67%"/>
 
 
 <picture>
-<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width="36%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&theme=github_dark&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css" width="36%" />
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&theme=github_dark&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css" width="32%" />
 </picture>
 
 
