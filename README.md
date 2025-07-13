@@ -65,7 +65,7 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 </details>
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.svg" width="60%"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" width="60%"/>
 
 <picture>
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width="36%" />
