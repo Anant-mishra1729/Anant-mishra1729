@@ -34,7 +34,7 @@
   </picture>
 
 <!--   About me -->
-Regularly working on open-source tools and learning along the way, while currently working as a Database Administrator - always open to contribute wherever I can.
+Working on open-source tools and learning along the way, while currently working as a Database Administrator - always open to contribute wherever I can.
 
 Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 
