@@ -63,10 +63,11 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
+
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
 
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" width = "66%"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" width = "65%"/>
 
 <picture align = "right">
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&hide_border=true&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width = "33%"/>
