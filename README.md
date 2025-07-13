@@ -22,8 +22,6 @@
 
 
 
- 
-
 <!-- Introduction + Coffee -->
 <h1> Hello, I am Anant <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
 <div align="left">
@@ -71,8 +69,8 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" width = "66%"/>
 
 <picture align = "right">
-<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&hide_border=true&layout=pie&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width = "33%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&theme=github_dark&layout=pie&hide_border=true&hide=jupyter%20notebook,html,css" width = "33%"/>
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&hide_border=true&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width = "33%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css" width = "33%"/>
 </picture>
 
 <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/day_wise_stats.png" width="100%"/>
