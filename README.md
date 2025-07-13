@@ -68,11 +68,11 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
 
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" width = "65%"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" width = "66%"/>
 
 <picture align = "right">
-<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&hide_border=true&layout=pie&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width = "30%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&theme=github_dark&layout=pie&hide_border=true&hide=jupyter%20notebook,html,css" width = "30%"/>
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&hide_border=true&layout=pie&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width = "33%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&theme=github_dark&layout=pie&hide_border=true&hide=jupyter%20notebook,html,css" width = "33%"/>
 </picture>
 
 <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/day_wise_stats.png" width="100%"/>
