@@ -70,7 +70,10 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 </details>
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" align = "center" width = "70%"/>
+
+<div align = "center">
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" width = "700px" height = "400px"/>
+</div>
 
 <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/day_wise_stats.png" width="100%"/>
 
