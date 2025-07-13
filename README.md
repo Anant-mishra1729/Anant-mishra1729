@@ -50,10 +50,7 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,rust,matlab,cpp,flask,react,html,css,mysql,linux,bash,git,neovim,&theme=dark&perline=9" />
 </a>
 
-<picture>
-<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&theme=github_dark&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css"/>
-</picture>
+
 
 
 <details open>
@@ -71,9 +68,12 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
 
-<div align = "center">
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" width = "700px" height = "400px"/>
-</div>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/lang_stats.png" width = "65%"/>
+
+<picture align = "right">
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width = "30%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=10&theme=github_dark&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css" width = "30%"/>
+</picture>
 
 <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/day_wise_stats.png" width="100%"/>
 
