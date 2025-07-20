@@ -42,10 +42,10 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 **I've worked with**
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,rust,matlab,cpp,flask,react,html,css,mysql,linux,bash,git,neovim,&theme=light&perline=9" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,mysql,js,rust&theme=light&perline=9" />
 </a>
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,rust,matlab,cpp,flask,react,html,css,mysql,linux,bash,git,neovim,&theme=dark&perline=9" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,mysql,js,rust&theme=dark&perline=9" />
 </a>
 
 
