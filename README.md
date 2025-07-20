@@ -90,7 +90,7 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 </picture>
   <picture align = "right">
     <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
-    <img src="images/profile-custom-night-view.svg" width = "98%"/>
+    <img src="images/profile-custom-rainbow.svg" width = "98%"/>
   </picture>
 
 </div>
