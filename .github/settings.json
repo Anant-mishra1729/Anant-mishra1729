@@ -57,7 +57,7 @@
   {
   "type": "rainbow",
   "fileName": "profile-custom-rainbow.svg",
-  "backgroundColor": "#00000f",
+  "backgroundColor": "#00000000",
   "foregroundColor": "#eeeeff",
   "strongColor": "rgb(255,200,55)",
   "weakColor": "#aaaaaa",
