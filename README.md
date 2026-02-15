@@ -69,10 +69,10 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 
 <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/lang_stats.svg" width = "65%"/>
 
-<picture align = "right">
+<!-- <picture align = "right">
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=5&hide_border=true&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width = "33%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=5&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css" width = "33%"/>
-</picture>
+</picture> -->
 
 <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/day_wise_stats.svg" width="100%"/>
 
@@ -80,10 +80,10 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 <!-- Profile summary -->
 <h2>Profile summary </h2>
 <div align="center">
- <picture align = "left">
+ <!-- <picture align = "left">
     <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="49%" />
     <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
-  </picture>
+  </picture> -->
 <picture align = "left">
     <source srcset="https://streak-stats.demolab.com/?user=Anant-mishra1729&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
     <img src="https://streak-stats.demolab.com/?user=Anant-mishra1729&hide_border=true&theme=dark&background=00000000" width="47%" />
@@ -95,9 +95,8 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
 
 </div>
 
-## Working on...
 
-<div align = "center">
+<!-- <div align = "center"> -->
 
 <!--<a href = "https://github.com/Anant-mishra1729/Neural-network-from-Scratch">
 <picture>
@@ -118,7 +117,7 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
   <img src="https://github-readme-stats-git-master-anant-mishra1729.vercel.app/api/pin/?username=Anant-mishra1729&repo=Machine-Learning-Notebooks" media="(prefers-color-scheme: light)"/>
 </picture>
 </a> -->
-<a href = "https://github.com/Anant-mishra1729/Neural-network-from-Scratch">
+<!-- <a href = "https://github.com/Anant-mishra1729/Neural-network-from-Scratch">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=Anant-mishra1729&repo=Neural-network-from-Scratch&theme=github_dark"
@@ -136,7 +135,7 @@ Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anant-mishra1729&repo=Machine-Learning-Notebooks" media="(prefers-color-scheme: light)"/>
 </picture>
 
-</div>
+</div> -->
 
 <!--
 <details>
