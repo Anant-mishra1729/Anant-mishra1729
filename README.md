@@ -32,10 +32,7 @@
   </picture>
 
 <!--   About me -->
-Working on open-source tools and learning along the way, always open to contribute wherever I can.
-
-Currently working on side-project `Wakadash` (Wakatime API Client & Dashboard)
-
+Working on open-source tools.
 
 <!-- Programming languages -->
 
