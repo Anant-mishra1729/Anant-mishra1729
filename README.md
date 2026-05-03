@@ -39,10 +39,10 @@ Working on open-source tools.
 **I've worked with**
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,mysql,mongodb,js,rust,cpp,docker&theme=light&perline=9" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,postgres,mysql,mongodb,rust,cpp,docker&theme=light&perline=6" />
 </a>
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,mysql,mongodb,js,rust,cpp,docker&theme=dark&perline=9" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,postgres,mysql,mongodb,rust,cpp,docker&theme=dark&perline=6" />
 </a>
 
 
@@ -81,10 +81,10 @@ Working on open-source tools.
     <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="49%" />
     <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
   </picture> -->
-<picture align = "left">
+<!-- <picture align = "left">
     <source srcset="https://streak-stats.demolab.com/?user=Anant-mishra1729&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
     <img src="https://streak-stats.demolab.com/?user=Anant-mishra1729&hide_border=true&theme=dark&background=00000000" width="47%" />
-</picture>
+</picture> -->
   <picture align = "right">
     <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
     <img src="images/profile-custom-night-view.svg" width = "98%"/>
