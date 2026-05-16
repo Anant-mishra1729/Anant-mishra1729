@@ -25,7 +25,6 @@
 <!-- Introduction + Coffee -->
 <h1> Hello, I am Anant <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
 <div align="left">
-
  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://images.squarespace-cdn.com/content/v1/5c4ece0e3917ee277d32eaf3/1570273077298-30G7YE5PFHJW058FFNNJ/summer-ani.gif" align="right" width="30%">
     <img src="images/astronomy.gif" width="30%" align="right" />
@@ -33,6 +32,14 @@
 
 <!--   About me -->
 Building open-source tools.
+
+<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_light.svg"/>
+</a>
+<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
+<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_dark.svg" />
+</a>
+
 
 <!-- Programming languages -->
 
@@ -64,14 +71,8 @@ Building open-source tools.
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
 
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/lang_stats.svg" height = "500px" width = "65%"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/lang_stats.svg" height = "500px" width = "100%"/>
 
-<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_light.svg" height = "500px" width = "32%" align = "right"/>
-</a>
-<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_dark.svg" height = "500px" width = "32%" align = "right"/>
-</a>
 
 <!-- <picture align = "right">
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=5&hide_border=true&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width = "33%"/>
