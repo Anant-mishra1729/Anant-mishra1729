@@ -32,7 +32,7 @@
   </picture>
 
 <!--   About me -->
-Working on open-source tools.
+Building open-source tools.
 
 <!-- Programming languages -->
 
@@ -64,7 +64,14 @@ Working on open-source tools.
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
 
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/lang_stats.svg" height = "350px" width = "1000px"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/lang_stats.svg" height = "500px" width = "65%"/>
+
+<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_light.svg" height = "500px" width = "30%" align = "right"/>
+</a>
+<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
+<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_dark.svg" height = "500px" width = "30%" align = "right"/>
+</a>
 
 <!-- <picture align = "right">
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=5&hide_border=true&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width = "33%"/>
