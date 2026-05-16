@@ -67,10 +67,10 @@ Building open-source tools.
 <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/lang_stats.svg" height = "500px" width = "65%"/>
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_light.svg" height = "500px" width = "30%" align = "right"/>
+<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_light.svg" height = "500px" width = "32%" align = "right"/>
 </a>
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_dark.svg" height = "500px" width = "30%" align = "right"/>
+<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_dark.svg" height = "500px" width = "32%" align = "right"/>
 </a>
 
 <!-- <picture align = "right">
