@@ -33,17 +33,8 @@
 <!--   About me -->
 Building open-source tools.
 
-<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_light.svg"/>
-</a>
-<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-<img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/wakatime_summary_dark.svg" />
-</a>
-
 
 <!-- Programming languages -->
-
-**I've worked with**
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=light&perline=6" />
@@ -51,8 +42,6 @@ Building open-source tools.
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=dark&perline=6" />
 </a>
-
-
 
 
 <details open>
@@ -70,6 +59,8 @@ Building open-source tools.
 
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
+
+
 
 <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/lang_stats.svg" height = "500px" width = "100%"/>
 
