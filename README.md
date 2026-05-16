@@ -64,7 +64,7 @@ Working on open-source tools.
 <!-- Wakatime -->
 <h2>Weekly dev breakdown...</h2>
 
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/lang_stats.svg" width = "100%"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/lang_stats.svg" height = "350px" width = "1000px"/>
 
 <!-- <picture align = "right">
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=5&hide_border=true&hide=jupyter%20notebook,html,css" media="(prefers-color-scheme: light)" width = "33%"/>
