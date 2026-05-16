@@ -39,10 +39,10 @@ Working on open-source tools.
 **I've worked with**
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,postgres,mysql,mongodb,rust,cpp,docker&theme=light&perline=9" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=light&perline=6" />
 </a>
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,postgres,mysql,mongodb,rust,cpp,docker&theme=dark&perline=9" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=dark&perline=6" />
 </a>
 
 
