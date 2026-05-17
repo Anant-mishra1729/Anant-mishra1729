@@ -1,16 +1,14 @@
-<!-- Header 
+<!-- Header -->
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:41C5EA,50:65A4BD,100:133C64&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width="100%" />
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only" width="30">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:243694,50:264778,100:427786&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width="100%" />
-</a> -->
-
+</a> 
 
 <!-- Header icons -->
-<div>
- <!-- Day and Night icons -->
+<!-- <div>
   <a href="https://github.com/settings/appearance#gh-light-mode-only">  
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50" align="right" />
   </a>
@@ -19,11 +17,10 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50" align="right" />
   </a>
 </div>
-
-
+-->
 
 <!-- Introduction + Coffee -->
-<h1> Hello, I am Anant <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
+<!-- <h1> Hello, I am Anant <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1> -->
 <!-- <div align="left">
  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://images.squarespace-cdn.com/content/v1/5c4ece0e3917ee277d32eaf3/1570273077298-30G7YE5PFHJW058FFNNJ/summer-ani.gif" align="right" width="30%">
@@ -33,7 +30,7 @@
 
 
 <!--   About me -->
-<p align = "left" >Building open-source tools, welcome to my github profile, these are my coding stats ...</p>
+<p align = "left" >Building open-source tools focused on real-world impact, these are my coding stats ...</p>
 
 <div align="right">
  <picture>
@@ -48,10 +45,10 @@
 <div align = "left">
 <h3 align = "left">Tech stack</h3>
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=light&perline=6" width = "50%"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=light&perline=6" width = "45%"/>
 </a>
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=dark&perline=6" width = "50%"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=dark&perline=6" width = "45%"/>
 </a>
 </div>
 
@@ -76,7 +73,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/refs/heads/main/results/lang_stats.svg" height = "400px" width = "1000px"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/refs/heads/main/results/lang_stats.svg" height = "350px" width = "1000px"/>
 
 
 <!-- <picture align = "right">
@@ -154,7 +151,6 @@
 [![An image of @amish1729's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amish1729)](https://holopin.io/@amish1729)
 
 </details>
-
 -->
 
 <!-- Diary -->
@@ -168,7 +164,7 @@
 
 <!-- <b>I've pinned a few projects below, hope you like them... <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Waving Hand" width="35" height="35" /></b> -->
 
-  <!-- Footer
+  <!-- Footer -->
 <div>
   <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:41C5EA,50:65A4BD,100:133C64#gh-light-mode-only" alt="Footer" width="100%" align = "left"/>
@@ -177,4 +173,4 @@
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
   </a>
 </div>
--->
+
