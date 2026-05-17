@@ -24,14 +24,22 @@
 
 <!-- Introduction + Coffee -->
 <h1> Hello, I am Anant <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
-<div align="left">
+<!-- <div align="left">
  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://images.squarespace-cdn.com/content/v1/5c4ece0e3917ee277d32eaf3/1570273077298-30G7YE5PFHJW058FFNNJ/summer-ani.gif" align="right" width="30%">
     <img src="images/astronomy.gif" width="30%" align="right" />
   </picture>
+</div> -->
+
+<div align="left">
+ <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/57699ea69ffaadbdacf0281cdf337f751ed5cb7c/results/stats_card_light.svg" align="right" width="35%">
+    <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/57699ea69ffaadbdacf0281cdf337f751ed5cb7c/results/stats_card_dark.svg" width="35%" align="right" />
+  </picture>
+</div>
 
 <!--   About me -->
-Building open-source tools.
+Building open-source tools, welcome to my github profile, these are my coding stats ...
 
 
 <!-- Programming languages -->
@@ -62,7 +70,7 @@ Building open-source tools.
 
 
 
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/lang_stats.svg" height = "500px" width = "100%"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/refs/heads/main/results/lang_stats.svg" height = "500px" width = "100%"/>
 
 
 <!-- <picture align = "right">
@@ -70,7 +78,7 @@ Building open-source tools.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=5&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css" width = "33%"/>
 </picture> -->
 
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/main/results/day_wise_stats.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/refs/heads/main/results/day_wise_stats.svg" width="100%"/>
 
 
 <!-- Profile summary -->
