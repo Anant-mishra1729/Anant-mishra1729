@@ -70,7 +70,7 @@ Building open-source tools, welcome to my github profile, these are my coding st
 
 
 
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/refs/heads/main/results/lang_stats.svg" height = "500px" width = "100%"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/refs/heads/main/results/lang_stats.svg" height = "400px" width = "1000px"/>
 
 
 <!-- <picture align = "right">
@@ -78,7 +78,7 @@ Building open-source tools, welcome to my github profile, these are my coding st
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&langs_count=5&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css" width = "33%"/>
 </picture> -->
 
-<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/refs/heads/main/results/day_wise_stats.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/refs/heads/main/results/day_wise_stats.svg" height = "450px" width="1000px"/>
 
 
 <!-- Profile summary -->
