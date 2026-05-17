@@ -31,25 +31,31 @@
   </picture>
 </div> -->
 
-<div align="left">
- <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/57699ea69ffaadbdacf0281cdf337f751ed5cb7c/results/stats_card_light.svg" align="right" width="35%">
-    <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/57699ea69ffaadbdacf0281cdf337f751ed5cb7c/results/stats_card_dark.svg" width="35%" align="right" />
-  </picture>
-</div>
 
 <!--   About me -->
-Building open-source tools, welcome to my github profile, these are my coding stats ...
+<p align = "left" >Building open-source tools, welcome to my github profile, these are my coding stats ...</p>
+
+<div align="right">
+ <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/57699ea69ffaadbdacf0281cdf337f751ed5cb7c/results/stats_card_light.svg" align="right" width="40%">
+    <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/57699ea69ffaadbdacf0281cdf337f751ed5cb7c/results/stats_card_dark.svg" width="40%" align="right" />
+  </picture>
+</div>
 
 
 <!-- Programming languages -->
 
+<div align = "left">
+<h3 align = "left">Tech stack</h3>
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=light&perline=6" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=light&perline=6" width = "50%"/>
 </a>
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=dark&perline=6" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=dark&perline=6" width = "50%"/>
 </a>
+</div>
+
+
 
 
 <details open>
