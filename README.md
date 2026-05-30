@@ -1,11 +1,11 @@
-<!-- Header -->
+<!-- Header
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:41C5EA,50:65A4BD,100:133C64&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width="100%" />
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only" width="30">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:243694,50:264778,100:427786&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width="100%" />
-</a> 
+</a>  -->
 
 <!-- Header icons -->
 <!-- <div>
@@ -27,7 +27,7 @@
     <img src="images/astronomy.gif" width="30%" align="right" />
   </picture>
 </div> -->
-
+<h1> Hello, I am Anant</h1>
 
 <!--   About me -->
 <p align = "left" >Building open-source tools focused on real-world impact, these are my coding stats ...</p>
@@ -164,7 +164,7 @@
 
 <!-- <b>I've pinned a few projects below, hope you like them... <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Waving Hand" width="35" height="35" /></b> -->
 
-  <!-- Footer -->
+  <!-- Footer 
 <div>
   <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:41C5EA,50:65A4BD,100:133C64#gh-light-mode-only" alt="Footer" width="100%" align = "left"/>
@@ -173,4 +173,4 @@
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
   </a>
 </div>
-
+-->
