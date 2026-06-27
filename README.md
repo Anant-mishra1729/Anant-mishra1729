@@ -34,8 +34,8 @@
 
 <div align="right">
  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/57699ea69ffaadbdacf0281cdf337f751ed5cb7c/results/stats_card_light.svg" align="right" width="40%">
-    <img src="https://raw.githubusercontent.com/Anant-mishra1729/WakaDash/57699ea69ffaadbdacf0281cdf337f751ed5cb7c/results/stats_card_dark.svg" width="40%" align="right" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/stats_card_light.svg" align="right" width="35%">
+    <img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/results/stats_card_dark.svg" width="35%" align="right" />
   </picture>
 </div>
 
