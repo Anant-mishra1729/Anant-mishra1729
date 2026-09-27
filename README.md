@@ -42,14 +42,17 @@
 
 <!-- Programming languages -->
 
-<div align = "left">
-<h3 align = "left">Tech stack</h3>
+<div align="left">
+<h3 align="left">Tech Stack</h3>
+
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=light&perline=6" width = "45%"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pyspark,mysql,postgres,duckdb,pandas,polars,docker,fastapi,cloudflare&theme=light&perline=6" width="45%"/>
 </a>
+
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgres,mysql,duckdb,pandas,polars,cloudflare,mongodb,rust,cpp,docker&theme=dark&perline=6" width = "45%"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pyspark,mysql,postgres,duckdb,pandas,polars,docker,fastapi,cloudflare&theme=dark&perline=6" width="45%"/>
 </a>
+
 </div>
 
 
